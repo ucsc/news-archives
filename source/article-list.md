@@ -86,6 +86,7 @@ BROKEN LINKS:
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/07-00/genome_sequence.htm -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/07-00/Housing_psa.htm -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/07-00/lick_exhibit.htm -->
+Not Broken:
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/07-00/migrant_ed.htm
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/07-00/mrcg_breakfast.htm
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/07-00/shocking_demo.htm
