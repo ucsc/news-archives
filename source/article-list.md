@@ -5,27 +5,27 @@ title: "News/Events: Press Releases, 1993-2001"
 
 # Folder: - http://www1.ucsc.edu/news_events/press_releases/
 
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/alumni.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/alumni.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/andromeda.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/applications.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/conference.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/drake.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/fruit_trees.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/holiday_inn.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/mink.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/thailand.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/time_capsule.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/toxins.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/blue_whale.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/carnegie.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/chair.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/cjtc.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/coastal.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/docents.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/genome.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/holocaust.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/matter.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/reforestation.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/applications.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/conference.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/drake.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/fruit_trees.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/holiday_inn.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/mink.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/thailand.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/time_capsule.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/toxins.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/blue_whale.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/carnegie.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/chair.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/cjtc.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/coastal.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/docents.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/genome.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/holocaust.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/matter.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/reforestation.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/bssf.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/census.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/conference.html

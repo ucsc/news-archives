@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fall 2001 Applications Soar At Uc Santa Cruz
+title: Fall 2001 Applications Soar At UC Santa Cruz
 author: [Elizabeth Irwin, Jim Burns]
 ---
 
