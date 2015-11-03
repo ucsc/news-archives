@@ -26,26 +26,26 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/holocaust.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/matter.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/02-01/reforestation.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/bssf.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/census.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/conference.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/dna.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/inclusion.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/insurance.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/lals.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/literacy.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/native_americans.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/pister.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/ribosomes.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/sale.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/albatrosses.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/bioinformatics.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/bunnett.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/cloud_people.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/dasmann.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/ensemble.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/farm_camp.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/lead.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/bssf.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/census.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/conference.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/dna.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/inclusion.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/insurance.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/lals.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/literacy.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/native_americans.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/pister.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/ribosomes.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/03-01/sale.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/albatrosses.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/bioinformatics.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/bunnett.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/cloud_people.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/dasmann.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/ensemble.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/farm_camp.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/lead.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/love.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/orbital_anomaly.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/peacock.html
