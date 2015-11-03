@@ -1,0 +1,9 @@
+gems: [jekyll-paginate, bourbon, neat]
+
+source: ./source
+destination: ./build
+
+paginate: 10 # pagination basted on number of posts
+
+permalink: /:year/:month/:title/
+exclude: [.jekyll-metadata]
