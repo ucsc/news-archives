@@ -53,8 +53,8 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/piven.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/playhouse.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/04-01/sinsheimer.html -->
-<!-- broken links -->
-	<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01arboretum.html
+BROKEN LINKS:
+	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01arboretum.html
 	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01arts_educator.html
 	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01auction.html
 	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01chip_cooler.html
@@ -74,7 +74,7 @@ title: "News/Events: Press Releases, 1993-2001"
 	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01super_res.html
 	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01teachers.html
 	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01toxics.html
-	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01woosley.html -->
+	- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01woosley.html
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/06-01/azen.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/06-01/foundation.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/06-01/genome.html -->
