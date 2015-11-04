@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UCSC Press Release:National Millennium Time Capsule
+title: National Millennium Time Capsule
 author: Tim Stephens
 ---
 
@@ -22,4 +22,6 @@ The White House Millennium Council asked former presidential and congressional m
 
 Other events, ideas, and achievements of the 20th century represented in the time capsule include the sounds of Louis Armstrong, a photograph of U.S. troops liberating a concentration camp, women's rights, the electronics revolution, the dream of Martin Luther King Jr., landing on the Moon, and a model of the Liberty Bell.
 
-[Source](http://www1.ucsc.edu/news_events/press_releases/01-02/time_capsule.html "Permalink to UCSC Press Release:National Millennium Time Capsule")
+Additional information about the National Millennium Time Capsule can be found on the web at <http://www.whitehouse.gov/Initiatives/Millennium/capsule/index.html> and <http://www.nara.gov/nara/pressrelease/nr01-20.html>.
+
+[Source](http://www1.ucsc.edu/news_events/press_releases/archive/00-01/01-01/time_capsule.html "Permalink to UCSC Press Release:National Millennium Time Capsule")
