@@ -1,8 +1,10 @@
 ---
 layout: post
-title: UC Santa Cruz Researchers Produce Human Genome CD For The National Millennium Time Capsule To Be Sealed Next Sunday
+title: National Millennium Time Capsule
 author: Tim Stephens
 ---
+
+## UC Santa Cruz Researchers Produce Human Genome Cd For The National Millennium Time Capsule To Be Sealed Next Sunday
 
 SANTA CRUZ, CA--Safely housed inside the National Millennium Time Capsule for the next 100 years, alongside Ray Charles's sunglasses and a piece of the Berlin Wall, is a CD-ROM disk produced by researchers at the University of California, Santa Cruz, that contains the sequence of the human genome.
 
