@@ -96,41 +96,41 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/08-00/magic_bus.htm -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/08-00/scenter_reservations.htm -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/08-00/scentervols.htm -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/08-00/sci_matters.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/08-00/wlad_godzich.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/arboretum_sale.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/celt.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/etox.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/farm_dinner.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/film_festival.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/first_day.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/harvest_festival.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/lml_meeting3.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/loa_2000.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/mbest_const.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/plant_sale.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/sandeen_unex.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/sf_bay_lead.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/zuniga_art.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/academy.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/anniversary.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/apples_teachers.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/arboretum.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/center_closed.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/chair.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/color_teaching.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/grades.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/grants.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/nasa_partnership.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/physics_workshop.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/preview_day.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/sitar_concert.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/tesla.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/conference.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/flegal.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/food.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/henderson.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/mines.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/08-00/sci_matters.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/08-00/wlad_godzich.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/arboretum_sale.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/celt.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/etox.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/farm_dinner.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/film_festival.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/first_day.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/harvest_festival.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/lml_meeting3.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/loa_2000.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/mbest_const.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/plant_sale.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/sandeen_unex.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/sf_bay_lead.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/09-00/zuniga_art.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/academy.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/anniversary.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/apples_teachers.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/arboretum.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/center_closed.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/chair.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/color_teaching.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/grades.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/grants.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/nasa_partnership.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/physics_workshop.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/preview_day.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/sitar_concert.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/tesla.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/conference.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/flegal.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/food.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/henderson.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/mines.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/mlk.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/11-00/teleoceras.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/12-00/brose.html
