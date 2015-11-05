@@ -138,30 +138,29 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/12-00/ice_streams.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/12-00/institute.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/12-00/manganese.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/0030184-New_ultrafast_laser.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031094-Poison_hemlock_remo.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031694-Nobel_prize_winner_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031794-Jackie_Robinson_st.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032194-History_of_Lick_Obs.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032494-Virus-like_particle.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/033094-DDT_persists_in_per.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/1223317.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040194-Quake_hazard_widesp.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040194-UCSC_receives_large.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040494-Conference_to_addre.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040494-Dream_research_and_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040494-Race_and_ethnicity_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040594-Seismic_tomography_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040694-ATOC_underwater_sou.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040694-Nationally_known_ed.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040694-New_associate_vice_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041394-Caltech_physicist_d.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041394-Society_for_the_Stu.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041594-Chancellor_Pister_a.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041894-City_on_a_Hill_Pres.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042194-AGU_honors_seismolo.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042194-Management_expert_d.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042294-Holocaust_survivor_.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031094-Poison_hemlock_remo.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031694-Nobel_prize_winner_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031794-Jackie_Robinson_st.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032194-History_of_Lick_Obs.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032494-Virus-like_particle.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/033094-DDT_persists_in_per.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/1223317.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040194-Quake_hazard_widesp.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040194-UCSC_receives_large.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040494-Conference_to_addre.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040494-Dream_research_and_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040494-Race_and_ethnicity_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040594-Seismic_tomography_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040694-ATOC_underwater_sou.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040694-Nationally_known_ed.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040694-New_associate_vice_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041394-Caltech_physicist_d.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041394-Society_for_the_Stu.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041594-Chancellor_Pister_a.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/041894-City_on_a_Hill_Pres.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042194-AGU_honors_seismolo.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042194-Management_expert_d.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042294-Holocaust_survivor_.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042594-UC_Santa_Cruz_Arbor.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042794-Book_Collection_Con.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/042894-Astrophysicist_Free.html
