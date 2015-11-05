@@ -138,13 +138,13 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/12-00/ice_streams.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/12-00/institute.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/12-00/manganese.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/0030184/New_ultrafast_laser.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031094/Poison_hemlock_remo.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031694/Nobel_prize_winner_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031794/Jackie_Robinson_st.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032194/History_of_Lick_Obs.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032494/Virus-like_particle.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/033094/DDT_persists_in_per.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/0030184-New_ultrafast_laser.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031094-Poison_hemlock_remo.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031694-Nobel_prize_winner_.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/031794-Jackie_Robinson_st.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032194-History_of_Lick_Obs.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/032494-Virus-like_particle.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/033094-DDT_persists_in_per.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/03-94/1223317.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040194-Quake_hazard_widesp.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/93-94/04-94/040194-UCSC_receives_large.html
