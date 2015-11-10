@@ -18,7 +18,7 @@ In the past year, Cook has been working with digital methods as well and has inc
 
 and the Learning Channel, and in books, newspapers, and magazines, including the periodicals Astronomy, Eos (Belgium), Pacific Discovery, Science et Vie (France), Science News, and Sky & Telescope.
 
-About the Artist
+About The Artist
 
 Interested in both art and science since childhood, Lynette Cook double-majored in biology/drawing and painting at the Mississippi University for Women. She completed a Bachelor of Science degree in 1981 and received a Bachelor of Fine Arts degree a year later. Cook then moved west to attend the California College of Arts and Crafts, specializing in scientific illustration through the Drawing Department. An internship at the California Academy of Sciences in San Francisco eventually led to the staff job of artist/photographer for the Morrison Planetarium, a position she still holds.
 
