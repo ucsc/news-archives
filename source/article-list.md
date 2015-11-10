@@ -282,7 +282,7 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/082494-Robert_Kraft_to_hea.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/082994-Celebrate_the_chang.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/083094-UCSC_researcher_coo.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/0090174-Ray_Film_and_Study_.html
+- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/0090174/Ray_Film_and_Study_.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090194-Recycled_paper_mill.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090294-Long_Marine_Laborat.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090994-UCSC_team_pioneers_.html
