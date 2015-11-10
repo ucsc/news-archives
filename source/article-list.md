@@ -218,66 +218,66 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/03-95/032295-Young_director_reci.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/03-95/032495-UCSC_economists_loo.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/03-95/032995-Molecular_biologist.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/03-95/033095-Deep-sea_worms_affe.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/03-95/033095-UCSC_and_UC_system_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/040395-Visionary_ecologist.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/040495-Talk_on_Carlyle_wil.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/040695-Sloan_Foundation_re.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/04129540-year_old_investme.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/041395-Volunteers_needed_f.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042095-Memorializing_wars_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-Founding_UCSC_provo.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-Larger-than-ever_UC.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-Pioneering_generici.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-UCSC_workshop_demon.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042695-Nash_Editions_prese.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042695-RNA_World_scenario.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050395-UCSC_Earth_and_Mar.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050495-Lecture_on_racial_m.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050495-Nationally_renowned.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050495-UCSC_Library_announ.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050595-Astronomical_Societ.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050595-Public_symposium_on.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051095-UCSC_researcher_to_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051195-UCSC_filmmaker_pres.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051295-Outstanding_UCSC_ar.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051895-Astronomer_and_form.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051995-World_War_II_surviv.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/052295-Public_invited_to_2.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/052595-A_Window_to_Discove.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/052695-Scientific_honor_so.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/053195-Distinguished_teach.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060295-Organic_produce_and.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060295-Public_invited_to_e.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060495-Commencements_set_f.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060695-Outdoor_reading_fea.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060695-Senior_art_students.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060695-UCSC_hosts_Latin_Am.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060995-UCSC_hosts_a_variet.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/061295-UC_Santa_Cruz_alumn.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/061395-Project_scientist_s.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/061695-Endowed_chair_in_en.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/062095-Toxic_algae_found_i.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/062395-Friends_of_Long_Mar.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/063095-Economics_professor.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/063095-Monterey_Bay_Area_M.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/063095-New_technique_illus.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/070894-Free_lecture_Jul_18.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071194-UCSC_professor_wins.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071594-Regents_accept_Fort.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071594-Regents_approve_app.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071594-Sale_of_Miller_prop.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071894-UCSC_receives_grant.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072194-Catalina_Bob_arrive.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072294-Long_Marine_Lab_lec.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072594-UCSC_Sum_academic.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072694-Dickens_Project_and.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072794-UCSC_hosts_Syllabus.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/080494-Different_rupture_p.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/080594-Mark_Cioc_named_Ste.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/081294-UCSC_geochemists_fi.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/081894-Graduate_science_st.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/081994-Latin_American_and_.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/03-95/033095-Deep-sea_worms_affe.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/03-95/033095-UCSC_and_UC_system_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/040395-Visionary_ecologist.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/040495-Talk_on_Carlyle_wil.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/040695-Sloan_Foundation_re.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/04129540-year_old_investme.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/041395-Volunteers_needed_f.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042095-Memorializing_wars_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-Founding_UCSC_provo.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-Larger-than-ever_UC.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-Pioneering_generici.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042495-UCSC_workshop_demon.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042695-Nash_Editions_prese.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/04-95/042695-RNA_World_scenario.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050395-UCSC_Earth_and_Mar.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050495-Lecture_on_racial_m.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050495-Nationally_renowned.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050495-UCSC_Library_announ.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050595-Astronomical_Societ.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/050595-Public_symposium_on.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051095-UCSC_researcher_to_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051195-UCSC_filmmaker_pres.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051295-Outstanding_UCSC_ar.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051895-Astronomer_and_form.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/051995-World_War_II_surviv.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/052295-Public_invited_to_2.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/052595-A_Window_to_Discove.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/052695-Scientific_honor_so.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/053195-Distinguished_teach.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060295-Organic_produce_and.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060295-Public_invited_to_e.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060495-Commencements_set_f.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060695-Outdoor_reading_fea.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060695-Senior_art_students.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060695-UCSC_hosts_Latin_Am.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/060995-UCSC_hosts_a_variet.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/061295-UC_Santa_Cruz_alumn.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/061395-Project_scientist_s.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/061695-Endowed_chair_in_en.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/062095-Toxic_algae_found_i.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/062395-Friends_of_Long_Mar.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/063095-Economics_professor.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/063095-Monterey_Bay_Area_M.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/06-95/063095-New_technique_illus.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/070894-Free_lecture_Jul_18.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071194-UCSC_professor_wins.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071594-Regents_accept_Fort.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071594-Regents_approve_app.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071594-Sale_of_Miller_prop.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/071894-UCSC_receives_grant.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072194-Catalina_Bob_arrive.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072294-Long_Marine_Lab_lec.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072594-UCSC_Sum_academic.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072694-Dickens_Project_and.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072794-UCSC_hosts_Syllabus.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/080494-Different_rupture_p.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/080594-Mark_Cioc_named_Ste.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/081294-UCSC_geochemists_fi.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/081894-Graduate_science_st.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/081994-Latin_American_and_.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/082294-NEH_grants_awarded_.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/082494-Robert_Kraft_to_hea.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/082994-Celebrate_the_chang.html
