@@ -283,17 +283,17 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/082994-Celebrate_the_chang.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/08-94/083094-UCSC_researcher_coo.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/0090174/Ray_Film_and_Study_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090194-Recycled_paper_mill.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090294-Long_Marine_Laborat.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090994-UCSC_team_pioneers_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/091294-Long_Marine_Lab_Ope.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/091494-Forms_of_figurative.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-Charles_Daniel_name.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-Porter_College_seri.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-South_African_profe.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-UC_Berkeley_scholar.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092994-UCSC_creates_new_po.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/093094-UC_Santa_Cruz_tip_s.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090194-Recycled_paper_mill.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090294-Long_Marine_Laborat.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/090994-UCSC_team_pioneers_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/091294-Long_Marine_Lab_Ope.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/091494-Forms_of_figurative.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-Charles_Daniel_name.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-Porter_College_seri.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-South_African_profe.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-UC_Berkeley_scholar.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092994-UCSC_creates_new_po.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/093094-UC_Santa_Cruz_tip_s.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/093094-UCSC_reports_324-mi.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/10-94/100794-UCSC_psychologist_E.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/10-94/101194-UCSC_archive_serves.html
