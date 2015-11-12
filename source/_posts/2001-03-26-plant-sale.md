@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UC Santa Cruz Arboretum Will Introduce New 'tasman Hybrid' Leptospermums At Annual Spring Plant Sale On Saturday, April 21
+title: UC Santa Cruz Arboretum Will Introduce New 'Tasman Hybrid' Leptospermums At Annual Spring Plant Sale On Saturday, April 21
 author: [Tim Stephens, Helen Englesberg]
 ---
 

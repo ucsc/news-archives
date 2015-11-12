@@ -4,7 +4,7 @@ title: UCSC Student Wins in Poetry Contest
 author: Ann Gibb
 ---
 
-### UC Santa Cruz student wins top honors in statewide poetry contests
+**UC Santa Cruz student wins top honors in statewide poetry contests**
 
 SANTA CRUZ, CA--A University of California, Santa Cruz, student has earned top honors in two California statewide poetry competitions. "I'm elated," said Kristen Holden, a junior majoring in literature. "Of course it's what I wanted, but I wasn't expecting it to happen."
 

@@ -4,7 +4,7 @@ title: Clues to submarine quakes
 author: Tim Stephens
 ---
 
-## Researchers Seek Clues To Submarine Quakes At Plate Collision Zone In Japan's Nankai Trough
+**Researchers Seek Clues To Submarine Quakes At Plate Collision Zone In Japan's Nankai Trough**
 
 SANTA CRUZ, CA--Seeking new clues to the cause of some of the Earth's most powerful earthquakes, an international group of scientists aboard the Ocean Drilling Program vessel _JOIDES Resolution_ is using special technology to measure and monitor physical properties at a convergent plate margin off the shore of Japan. The researchers hope their findings improve risk assessment of catastrophic quakes, which also can trigger tsunamis (sometimes called tidal waves.)
 

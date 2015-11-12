@@ -4,7 +4,7 @@ title: UCSC Library Announces Winners In Annual Book Collection Contest
 author: Barbara McKenna
 ---
 
-## Contest Expands This Year To Include Local High School Students
+**Contest Expands This Year To Include Local High School Students**
 
 SANTA CRUZ--Winners of the 29th Annual Book Collection Contest at  the University of California, Santa Cruz, were announced at an  awards ceremony held on Thursday, April 20, at McHenry Library. The  annual contest, which is sponsored by the Friends of the UCSC  Library, was expanded this year to include local high school  students.
 

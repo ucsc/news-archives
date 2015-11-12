@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Catalina Bob" Arrives Safely At Sea World
+title: Catalina Bob Arrives Safely At Sea World
 author: Robert Irion
 ---
 

@@ -4,7 +4,7 @@ title: UC Santa Cruz Farm Seeks Docents To Lead Public Tours
 author: Jennifer McNulty
 ---
 
-## Training begins March 1
+**Training begins March 1**
 
 SANTA CRUZ, CA--For Jim Rollins, it's all about the bees.
 

@@ -4,7 +4,7 @@ title:  Lightweight Neutrinos Fit Perfectly Into Latest Models Of The Universe, 
 author: Robert Irion
 ---
 
-## Paper to appear in Physical Review Letters explains the cosmological consequences of neutrinos with mass. It also predicts the most likely  scenario: two species of neutrino with the same mass.
+**Paper To Appear In Physical Review Letters Explains The Cosmological Consequences Of Neutrinos With Mass. It Also Predicts The Most Likely  Scenario: Two Species Of Neutrino With The Same Mass.**
 
 SANTA CRUZ, CA--The discovery that the ghostly particles called  neutrinos may have a small mass supports a special class of  theoretical models of how the universe has evolved, according to a  group of scientists led by cosmologist Joel Primack of the  University of California, Santa Cruz.
 

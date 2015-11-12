@@ -12,13 +12,13 @@ Four speakers at the symposium will review the history of fish  management and p
 
 Scheduled to speak are the following researchers:
 
-\-- Alec MacCall, fisheries biologist and director of the Tiburon  Laboratories, National Marine Fisheries Service, Tiburon
+* Alec MacCall, fisheries biologist and director of the Tiburon  Laboratories, National Marine Fisheries Service, Tiburon
 
-\-- Arthur McEvoy, professor of law at the University of  Wisconsin Law School
+* Arthur McEvoy, professor of law at the University of  Wisconsin Law School
 
-\-- Richard Parrish, fisheries biologist with the Pacific  Fisheries Environmental Group, National Marine Fisheries Service,  Monterey
+* Richard Parrish, fisheries biologist with the Pacific  Fisheries Environmental Group, National Marine Fisheries Service,  Monterey
 
-\-- Courtland Smith, professor of anthropology at Oregon State  University
+* Courtland Smith, professor of anthropology at Oregon State  University
 
 "Fisheries have always formed an integral part of human  interactions with the Monterey Bay system," says Laurel Fox,  professor of biology at UCSC and director of MBRS. "We need look no  further than the bay's fisheries to observe the dramatic impacts  that we can have on the ocean. In order to form wise policies for the  future, we also must understand how climate variations can affect  these interactions."
 

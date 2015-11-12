@@ -16,13 +16,13 @@ The festival is presented as part of the Cine-Siglo (Cinema- Century) Conference
 
 The film festival schedule follows. For more information, call  (408) 459-4560.
 
-### Sunday, June 25
+**Sunday, June 25**
 
 I, the Last Woman of All/Yo, la Peor de Todas  Maria Luisa Bemberg, Argentina 1990, color; 105 minutes
 
 An audacious re-creation of the life of the seventeenth-century  Mexican nun Sister Juana Ines de la Cruz. Introduced by festival and  conference organizer Julianne Burton-Carvajal.
 
-### Monday, June 26
+**Monday, June 26**
 
 The Devil Never Sleeps/El Diablo Nunca Duerme Lourdes Portillo, United States/Mexico 1995, color; 86 minutes
 
@@ -32,7 +32,7 @@ Carmelita Tropicana: Your Kunst is Your Waffen Ela Troyano, United States 1993, 
 
 A witty documentary on performance artist Carmelita Tropicana.
 
-### Tuesday, June 27
+**Tuesday, June 27**
 
 Nobody's Woman/Mujer de Nadie Adela Sequeyro, Mexico 1937, black and white; 80 minutes
 
@@ -42,7 +42,7 @@ On the Other Side of Death/Mas Alla de la Muerte Adela Sequeyro and Ramon Peon, 
 
 Again starring the filmmaker, this tragicomic melodrama features a  love triangle involving a Spanish composer and a bullfighter.
 
-### Wednesday, June 28 
+**Wednesday, June 28**
 
 Streetwalker/Trotacalles Matilde Landeta, Mexico 1950, black and white; 90 minutes
 
@@ -50,7 +50,7 @@ The only melodrama of prostitution from the Golden Age of Mexican  cinema co-scr
 
 *In Spanish; no English subtitles.
 
-### Thursday, June 29
+**Thursday, June 29**
 
 Araya Margot Benacerraf, Venezuela 1959, black and white; 90 minutes
 

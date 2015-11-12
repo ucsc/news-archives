@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Fluid Flows Around Them: Deep-Sea Worms Affect the Architecture of Black Smoker Chimneys
+title: The Fluid Flows Around Them&#58; Deep-Sea Worms Affect the Architecture of Black Smoker Chimneys
 author: [Patti Parisi, Robert Irion]
 ---
 

@@ -4,7 +4,7 @@ title: Noted biologist inaugurates new lecture series
 author: [Erica Klarreich, Tim Stephens]
 ---
 
-## Noted Biologist To Discuss Protein Diversity, Inaugurating A New Series Of Annual Lectures In Biology At UC Santa Cruz
+**Noted Biologist To Discuss Protein Diversity, Inaugurating A New Series Of Annual Lectures In Biology At UC Santa Cruz**
 
 SANTA CRUZ, CA--When researchers published the first draft of the human genome in February, one unexpected finding was that humans have only 30,000 to 35,000 genes, about twice as many as a fly. This prompted some to wonder how human complexity could arise from such a small set of genetic instructions. The answer may lie in molecular tricks that enable a single gene to produce more than one protein.
 

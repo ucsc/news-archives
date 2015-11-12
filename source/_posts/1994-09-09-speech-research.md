@@ -4,7 +4,7 @@ title: UC Santa Cruz Team Pioneers Speech Comprehension Research
 author: Jennifer McNulty
 ---
 
-## Development of computerized "talking head" allows researchers to  explore the role of visible cues, which combine with auditory  elements to facilitate recognition of spoken language
+**Development Of Computerized "Talking Head" Allows Researchers To  Explore The Role Of Visible Cues, Which Combine With Auditory  Elements To Facilitate Recognition Of Spoken Language**
 
 SANTA CRUZ, CA--Spoken language is a universal means of  communication, yet relatively little is known about how people  comprehend speech. Auditory cues clearly play a role in speech  comprehension, with variables such as pitch, duration, and loudness  contributing to the understanding of verbal messages.
 

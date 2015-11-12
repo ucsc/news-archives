@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Science Book Club To Discuss "one University: At Home In The Cosmos" At September 24 Meeting
+title: Science Book Club To Discuss "One University&#58; At Home In The Cosmos" At September 24 Meeting
 author: Tim Stephens
 ---
 

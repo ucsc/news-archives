@@ -4,7 +4,7 @@ title: Wage Insurance Proposal Draws Approval Across The Political Spectrum
 author: Jennifer McNulty
 ---
 
-## UC Santa Cruz economist addresses worker anxiety about job loss
+**UC Santa Cruz economist addresses worker anxiety about job loss**
 
 SANTA CRUZ, CA--A wage insurance proposal coauthored by economist Lori Kletzer of the University of California, Santa Cruz, tackles the painful subject of U.S. worker dislocations caused by technology, trade liberalization, and downsizing.** **The proposal has attracted support from a broad spectrum of government policy makers, free-trade proponents, and commentators, including Carla A. Hills, the United States Trade Representative who served under then-President George Bush.
 

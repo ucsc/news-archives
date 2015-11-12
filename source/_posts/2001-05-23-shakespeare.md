@@ -4,7 +4,7 @@ title: Shakespeare 2001
 author: John Newman
 ---
 
-## Shakespeare Santa Cruz, Summer Festival 2001
+**Shakespeare Santa Cruz, Summer Festival 2001**
 
 SANTA CRUZ, CA--He's bad, he's bloody, and this time, he's Paul.  
 
@@ -19,8 +19,6 @@ But _Macbeth_ is only a third of the fun being offered by SSC this season. At th
 Somewhere between the dark world of _Macbeth_ and the enchanted _A Midsummer Night's Dream_ is the more commonplace realm of Oliver Goldsmith's, _She Stoops to Conquer-_-a comedy of mistakes and misconceptions. The plot follows the misadventures of Richard Marlowe, a young man painfully shy, awkward, and tongue-tied in the presence of his prospective fiancée, Kate Hardcastle. But when Marlowe mistakes the Hardcastle's country home for an inn, Kate decides to disguise herself as a barmaid to attempt to develop a more intimate relationship. Goldsmith defied the conventions of the time by crafting a simple comedy of manners that plays like an 18th-century episode of _Fawlty Towers_. Beth Milles directs. A newcomer to SSC, she has a wide range of theatrical experience, both classical and contemporary, including lecturing at Harvard University and directing on Broadway.
 
 With the threat of blackouts, stratospheric gas prices, and a staggering economy, it just might turn into a long, hot summer in California. Never fear, the festival glen beckons like a cool oasis in the desert of summer entertainment offerings.
-
-* * *
 
 The festival season runs from July 11, through September 2, performances Tuesday thru Sunday.For more information, visit the web site [www.santacruzshakespeare.org](www.santacruzshakespeare.org).
 

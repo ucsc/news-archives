@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today's Challenge For Educators: Attracting Minority Teachers 
+title: Today's Challenge For Educators&#58; Attracting Minority Teachers 
 author: Jennifer McNulty
 ---
 
@@ -21,8 +21,6 @@ Contrary to public perception, teaching is a creative, challenging, and rewardin
 * Provide early experiences working with kids. High school and college students can assist in elementary or middle-school classrooms, creating a natural bridge to becoming a teacher.
 * Recruit prospective teachers from the community.
 * Enhance financial aid options for aspiring teachers.
-
-########
 
 Editor's Note: Gordon will deliver her keynote address at National- Louis University's Wheaton Campus, Room 4400, 200 Naperville Road in Wheaton, Illinois, (630) 668-3838.
 

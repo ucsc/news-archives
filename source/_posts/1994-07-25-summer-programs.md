@@ -20,21 +20,21 @@ The outreach continues once students enroll at UCSC through  the Pre-Graduate Pr
 
 The summer programs vary in length from one to eight weeks,  but even the shortest covers a lot of territory--offering workshops,  seminars, social functions, talks with guest speakers, counseling  from SAA/EOP staff, and mentorship from faculty, staff, and UCSC  students.
 
-The programs are:
+**The programs are:**
 
-\-- SOAR (Summer Opportunities for Academic Research) June 28-August 1  20 to 24 UCSC juniors and seniors Nonresidential
+* SOAR (Summer Opportunities for Academic Research) June 28-August 1  20 to 24 UCSC juniors and seniors Nonresidential
 
 "Through SOAR, we identify underrepresented students who  have the potential and the interest in pursuing graduate studies and  are preparing to become faculty," says Cabrera. Students do research  under the supervision of a faculty mentor, attend workshops on  graduate careers and on applying to graduate school, and present  papers at the end of the session in a research colloquium. The  program is supported in part by a grant from the U.S. Department of  Education.
 
-\-- Summer Bridge Program July 9-August 13 100 incoming first-year students Residential (Crown College)
+* Summer Bridge Program July 9-August 13 100 incoming first-year students Residential (Crown College)
 
 The aim of Summer Bridge is to help students make the  transition from high school to college. Summer Bridge students  engage in five weeks of intensive course work, participate in  workshops, and learn about a variety of resources at UCSC.
 
-\-- Math and Science Academy August 7-13 60 eleventh graders from the Central Coast and San Joaquin Valley Residential (Crown College)
+* Math and Science Academy August 7-13 60 eleventh graders from the Central Coast and San Joaquin Valley Residential (Crown College)
 
 Students who have been identified through SAA/EOP's Early  Academic Outreach Program (EAOP) spend a week on campus,  attending classes and workshops and living in residence halls. "The  focus of the academy is on math and science enrichment, essay  writing, social and cultural enrichment, and college preparation,"  says Handy.
 
-\-- Summer Science Honors Institute August 13-September 3 20 incoming first-year students Residential (Oakes College)
+* Summer Science Honors Institute August 13-September 3 20 incoming first-year students Residential (Oakes College)
 
 A new program for high-achieving students (with a 3.5 GPA or  better) to orient them to resources on campus and to course work in  the sciences. During their three-week stay, students will take field  trips to area laboratories, attend math and science seminars, and  receive career counseling. The program is co-sponsored by SAA/EOP  and the Division of Natural Sciences.
 
