@@ -64,7 +64,7 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/irwin_scholars.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/lick_music.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/loa.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/mello.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/mello.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/mirrione.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/mirt.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/shakespeare.html -->
@@ -294,7 +294,6 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092994-UCSC_creates_new_po.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/093094-UC_Santa_Cruz_tip_s.html -->
 Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/0090174/Ray_Film_and_Study_.html
-
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/093094-UCSC_reports_324-mi.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/10-94/100794-UCSC_psychologist_E.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/10-94/101194-UCSC_archive_serves.html -->
