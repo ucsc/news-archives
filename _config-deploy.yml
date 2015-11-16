@@ -1,13 +1,1 @@
-gems: [jekyll-paginate, bourbon, neat]
-
-timezone:    America/Los_Angeles
-title: UCSC News Archives
-permalink: /:year/:month/:title/
 baseurl: /news-archives
-
-source: ./source
-destination: ./build
-exclude: [.jekyll-metadata]
-
-paginate: 10
-paginate_path: /page/:num
