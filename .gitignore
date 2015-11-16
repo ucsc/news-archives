@@ -1,4 +1,6 @@
-build
-Gemfile.lock
 .jekyll-metadata
 .DS_Store
+.bundle
+Gemfile.lock
+build
+vendor
