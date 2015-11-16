@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reinas: A Real-Time Environmental Information Network For The Monterey Bay Region
+title: "Reinas: A Real-Time Environmental Information Network For The Monterey Bay Region"
 author: Robert Irion
 ---
 

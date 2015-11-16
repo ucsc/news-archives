@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Dreams Demystified: New Book By UC Santa Cruz Psychologist Says Dreams Can Help Unlock Creativity
+title: "Dreams Demystified: New Book By UC Santa Cruz Psychologist Says Dreams Can Help Unlock Creativity"
 author: Jennifer McNulty
----	
+---
 
 SANTA CRUZ, CA--In the days following the 1989 Loma Prieta  earthquake, few subjects of a dream study recalled any of their  dreams, says psychologist Veronica Tonay. During the second week,  subjects experienced extraordinarily happy dreams full of joy and  good feelings. It wasn't until the third week that they started  dreaming of earthquakes and of being afraid.
 
