@@ -4,8 +4,7 @@ title: Fall 2001 Applications Soar At UC Santa Cruz
 author: [Elizabeth Irwin, Jim Burns]
 ---
 
-## Campus is tops in the UC system for one-year increases in freshman applications and  
-diversity of prospective freshmen
+**Campus Is Tops In The UC System For One-year Increases In Freshman Applications And Diversity Of Prospective Freshmen**
 
 SANTA CRUZ, CA--UC Santa Cruz has received nearly 23,000 applications from prospective students for the fall 2001 quarter, the highest number received by the campus in its 37-year history. The total is 16 percent more than the campus received during last year's application period--and more than two times the increase in applications experienced by the University of California system as a whole.
 

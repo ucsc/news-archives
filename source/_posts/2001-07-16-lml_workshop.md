@@ -4,7 +4,7 @@ title: UCSC to host public workshop on marine lab long-term plan
 author: Jim Burns
 ---
 
-## UCSC Will Hold Fourth Community Meeting On Plans For Long Marine Laboratory On Monday, July 30
+**UCSC Will Hold Fourth Community Meeting On Plans For Long Marine Laboratory On Monday, July 30**
 
 SANTA CRUZ, CA--The University of California, Santa Cruz, will hold a public workshop on Monday, July 30, to discuss progress toward developing a Coastal Long Range Development Plan (LRDP) for Long Marine Laboratory. The meeting will take place from 7 to 9 p.m. in the La Feliz Room of the Seymour Center at Long Marine Laboratory (100 Shaffer Road, Santa Cruz).
 

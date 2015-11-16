@@ -8,17 +8,11 @@ SANTA CRUZ, CA--In May 1985, a group of eminent biologists gathered at the Unive
 
 This summer, many of the participants in the historic 1985 meeting will gather again at UC Santa Cruz along with other eminent scientists to discuss future directions for research on the human genome, now that the sequence is in hand.
 
-A public forum will be held in conjunction with this scientific workshop, featuring a presentation by Francis Collins, director of the National Human Genome Research Institute, and a moderated discussion by a panel of experts. The forum will address research on the genome and its implications for the future of medicine and society. It will take place on Saturday, August 25, from 1 to  3:30 p.m. in the Music Center Recital Hall on the UC Santa Cruz campus. Admission is free.*
+A public forum will be held in conjunction with this scientific workshop, featuring a presentation by Francis Collins, director of the National Human Genome Research Institute, and a moderated discussion by a panel of experts. The forum will address research on the genome and its implications for the future of medicine and society. It will take place on Saturday, August 25, from 1 to  3:30 p.m. in the Music Center Recital Hall on the UC Santa Cruz campus. Admission is free.
 
-* * *
 
-****
+*Note to reporters: While the forum is open to reporters and the general public, the scientific workshop will be closed to all but the invited participants. The proceedings and conclusions of the workshop will be published at a later date.*
 
-* Note to reporters: While the forum is open to reporters and the general public, the scientific workshop will be closed to all but the invited participants. The proceedings and conclusions of the workshop will be published at a later date.****
-* * *
-
-**  
-**  
 The panelists will include Sinsheimer; Collins; Eugene Myers, vice president of informatics research at Celera Genomics; and Mary-Claire King, professor of medicine and genetics at the University of Washington. National Public Radio science reporter Richard Harris, a UCSC graduate, will serve as moderator.
 
 The human genome sequence--spelled out in 3.2 billion units of DNA strung together on chromosomes--represents the complete genetic instructions for human life. Deciphering the genome has sparked a revolution in biomedical research, raising hopes for dramatic improvements in the diagnosis and treatment of disease, but also raising concerns about how genetic information and technology will be used.

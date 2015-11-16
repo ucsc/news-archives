@@ -26,8 +26,6 @@ Dasmann left the IUCN in 1977 and accepted an appointment at UC Santa Cruz. Duri
 
 While at UCSC, Dasmann continued his involvement with an array of environmental organizations, serving as a member of the board of directors of Friends of the Earth and as a member of the advisory council of Earth Island Institute. From 1977 on, he continued as a consultant to the World Conservation Union, focusing on ecodevelopment and environmental planning in the South Pacific. In 1987 Dasmann cofounded the Golden Gate Biosphere Reserve and remains very involved in this prototype biosphere reserve.
 
-* * *
-
 The Dasmann volume is available in Special Collections at UCSC's McHenry Library and at UC Berkeley's Bancroft Library. The volume may also be purchased from the [www.Xlibris.com][2] web site. For additional information, contact UCSC's Regional History Project via e-mail ([ihreti@cats.ucsc.edu][3]) or telephone (831/459-2847).
 
 Jarrell will discuss the volume at the April 22 meeting of the "Science Matters" series. Sponsored by UCSC's Science Library, the discussion will take place at the main branch of the Santa Cruz Public Library, 224 Church Street, Santa Cruz, beginning at 2 p.m.

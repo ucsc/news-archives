@@ -4,7 +4,7 @@ title: Feminist scholar to lecture March 5
 author: Tim Stephens
 ---
 
-## Ancient Climate Excursion Linked To A Rare Anomaly In Earth's Orbit
+**Ancient Climate Excursion Linked To A Rare Anomaly In Earth's Orbit**
 
 SANTA CRUZ, CA--About 23 million years ago, a huge ice sheet spread over Antarctica, temporarily reversing a general trend of global warming and decreasing ice volume. Now a team of researchers has discovered that this climatic blip at the boundary between the Oligocene and Miocene epochs corresponded with a rare combination of events in the pattern of Earth's orbit around the Sun.
 

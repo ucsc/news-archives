@@ -4,8 +4,6 @@ title: Ferlinghetti to read
 author: John Newman
 ---
 
-## Ferlinghetti To Read
-
 SANTA CRUZ, CA--America is a fragmented society. A multitude of contradictory agendas. A dizzy kaleidoscope of protean demographics. World War II may have been the last war that will ever have anything resembling popular support, but even then, when those clean-cut soldiers came marching home with every confidence they had set the world right, there were those who were troubled by the insistent rhythm of the drumbeat. A few who couldn't get comfortable in button-down, post-war, Joe McCarthy America, who were haunted by the scorched earth of Hiroshima and Nagasaki and found no refuge in the American dream, who were ruined, spent, beaten-down, beaten-up, and beaten-out--a "beat" generation.
 
 That, at least, is how Jack Kerouac described himself and his associates to John Clellon Holmes, and how Holmes characterized the movement in the _New York Times_ article that defined it to the public. But for Kerouac, and most of the other "beats," the term had another meaning as well, "beat" as in beatitude: the bliss of sacred knowledge--knowledge beyond the insular comforts of conventional American society.
