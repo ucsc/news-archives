@@ -1,16 +1,11 @@
 source 'https://rubygems.org'
 
 gem 'bourbon'
-gem 'coffee-script'
+gem 'neat'
+gem 'jgd'
 gem 'jekyll'
 gem 'jekyll-assets'
-gem 'jekyll-assets-autoprefixer'
-gem 'jekyll-haml'
 gem 'jekyll-paginate'
-gem 'neat'
-gem 'sass'
-gem 'uglifier'
-gem 'nokogiri'
 
 group :development do
   gem 'guard'
