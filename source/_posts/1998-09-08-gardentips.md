@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UCSC Garden Tips Talk
-author: jmcnulty@cats
+author: Jennifer McNulty
 ---
 
 ## Learn Fall And Winter Gardening Tips At UC Santa Cruz Class
