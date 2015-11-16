@@ -4,7 +4,7 @@ title: South African Professor To Speak On Separation Of Church And State
 author: Barbara McKenna
 ---
 
-## University Of Natal Professor Martin Prozesky Has Been Active In The Formation Of Constitutional And Governmental Policies Defining The Role Of Religion In The New Order
+**University Of Natal Professor Martin Prozesky Has Been Active In The Formation Of Constitutional And Governmental Policies Defining The Role Of Religion In The New Order**
 
 SANTA CRUZ, CA--Throughout its history, the conservative  government of South Africa often cited the Bible as the basis of its  system of apartheid. Now that the fledgling democratic government  is taking shape, Martin Prozesky wants to make sure that the same  mistake is not repeated twice.
 

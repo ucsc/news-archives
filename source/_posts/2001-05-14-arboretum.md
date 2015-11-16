@@ -17,7 +17,7 @@ Local musicians, the Huxtables, provide tunes in the afternoon. And adding addit
 
 There will be kite-making from 12 noon to 2:30 p.m., a "Mist Sculpture" in the meadow below the New Zealand Garden, and an exhibit of photography on glass in the Owl House on the old dam. Bring the family and enjoy a day of delights for all. Admission is free.
 
-Norrie's Gift shop offers plants from the Arboretum's collections, fresh flowers from the garden, books on botany and horticulture, and unique gifts. For a preview of the gardens, visit the Arboretum web site at: [www2.ucsc.edu/arboretum][2]**.**
+Norrie's Gift shop offers plants from the Arboretum's collections, fresh flowers from the garden, books on botany and horticulture, and unique gifts. For a preview of the gardens, visit the Arboretum web site at: [www2.ucsc.edu/arboretum][2].
 
 **The Arboretum is open 9-5 daily and is located on Empire Grade between the campus's main and west entrances.**
 

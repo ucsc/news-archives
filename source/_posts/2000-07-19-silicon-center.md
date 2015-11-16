@@ -4,7 +4,7 @@ title: UC Santa Cruz Announces Nasa Ames Research Park As Preferred Site For Sil
 author: Elizabeth M. Irwin
 ---
 
-## Chancellor M.R.C. Greenwood Presents Progress Report to UC Regents
+**Chancellor M.R.C. Greenwood Presents Progress Report to UC Regents**
 
 SANTA CRUZ, CA--In a report given today to the Regents of the University of California, UCSC Chancellor M.R.C. Greenwood announced that planning for UCSC's Silicon Valley Center will focus on the proposed NASA Ames Research Park as the preferred site for a permanent location. Further planning studies will lead to a final proposal to the Regents.
 

@@ -10,21 +10,21 @@ The Long Marine Lab is a marine-research facility operated by  UC Santa Cruz. Lo
 
 Activities at this year's open house include the following:
 
-\-- Lively demonstrations of sea-lion research projects.
+* Lively demonstrations of sea-lion research projects.
 
-\-- Open research labs with advanced microscope equipment,  marine jellies, and other creatures.
+* Open research labs with advanced microscope equipment,  marine jellies, and other creatures.
 
-\-- A "children's corner," touch tanks, and many other marine- oriented activities for kids.
+* A "children's corner," touch tanks, and many other marine- oriented activities for kids.
 
-\-- Talks, videos, and slide shows by marine researchers.
+* Talks, videos, and slide shows by marine researchers.
 
-\-- A spectacular exhibit of butterflies from around the world.
+* A spectacular exhibit of butterflies from around the world.
 
-\-- Live music by Pacific Rhy'm.
+* Live music by Pacific Rhy'm.
 
-\-- Free cookies, coffee, and tea provided by the lab's docents.
+* Free cookies, coffee, and tea provided by the lab's docents.
 
-\-- A barbecue lunch for a small charge.
+* A barbecue lunch for a small charge.
 
 Parking is available at Silicon Systems, 2300 Delaware  Avenue. Shuttle buses will transport people to the lab.
 

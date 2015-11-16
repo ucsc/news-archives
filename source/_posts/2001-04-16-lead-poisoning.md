@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fingerprinting" Test Helps Pinpoint The Sources Of Lead Poisoning
+title: Fingerprinting Test Helps Pinpoint The Sources Of Lead Poisoning
 author: [Erica Klarreich, Tim Stephens]
 ---
 

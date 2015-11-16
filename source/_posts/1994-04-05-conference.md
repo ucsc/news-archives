@@ -4,7 +4,7 @@ title: Race And Ethnicity Is The Theme Of The Twentieth Annual Conference Of The
 author: Jennifer McNult
 ---
 
-## UC Santa Cruz hosts two-day conference April 29-30
+**UC Santa Cruz Hosts Two-day Conference April 29-30**
 
 SANTA CRUZ, CA--People who believe the American labor movement  is dead haven't heard María Elena Durazo talk about her work. Durazo,  president of the Hotel Employees and Restaurant Employees  International Union, Local 11 of Los Angeles, is at the forefront of  the struggle to organize immigrant workers in southern California.  Durazo, a dynamic and inspiring speaker, will deliver a keynote  address at the upcoming twentieth annual conference of the  Southwest Labor Studies Association at the University of California,  Santa Cruz.
 

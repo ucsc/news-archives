@@ -4,7 +4,7 @@ title: Completion of new marine lab facilities
 author: Tim Stephens
 ---
 
-## UCSC's Long Marine Lab Celebrates Completion Of New Facilities
+**UCSC's Long Marine Lab Celebrates Completion Of New Facilities**
 
 SANTA CRUZ, CA--Funding from private foundations and individual donors has enabled the University of California, Santa Cruz, to build two vital new facilities at Long Marine Laboratory over the past two years: the Seymour Marine Discovery Center, which opened to the public last year, and the Center for Ocean Health, a recently completed research center. In a ceremony last week, the UC Santa Cruz Foundation, which raised the funds and oversaw the construction of the new facilities, officially transferred legal title to the buildings to the UC Regents.
 

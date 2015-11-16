@@ -1,6 +1,6 @@
 ---
 layout: post
-title: West Antarctic Ice Sheet: Are We Afraid Of The Right Thing? 
+title: West Antarctic Ice Sheet&#58; Are We Afraid Of The Right Thing? 
 author: Tim Stephens
 ---
 

@@ -18,11 +18,11 @@ Gill notes that the award may help attract businesses in ocean  science and tech
 
 Professor of earth sciences Gary Griggs, director of the  Institute of Marine Sciences (IMS), will allocate the annual proceeds  from the endowment, assisted by a campus committee and in  consultation with MBARI and other organizations. Griggs envisions  that the endowment will provide "seed money" in a variety of areas,  including the following:
 
-\-- Initial funding for visiting researchers or leading graduate  students working in ocean science and technology.
+* Initial funding for visiting researchers or leading graduate  students working in ocean science and technology.
 
-\-- Collaborative and multidisciplinary projects that take  advantage of the research potential of Monterey Bay and the  surrounding deep ocean.
+* Collaborative and multidisciplinary projects that take  advantage of the research potential of Monterey Bay and the  surrounding deep ocean.
 
-\-- Efforts to improve communication links among the area's  research institutions.
+* Efforts to improve communication links among the area's  research institutions.
 
 "The endowment will give us a jump start for some cutting- edge research programs, especially in areas where it can be a  challenge to secure federal and other funding," Griggs says. "The IMS  budget has been essentially unchanged for five or six years, and  most of that is committed to salaries and facilities. This funding  will give us the flexibility to bring in some exciting people and  pursue new partnerships with institutions around the bay."
 

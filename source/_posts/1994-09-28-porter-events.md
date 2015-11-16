@@ -4,7 +4,7 @@ title: Porter College Series Offers Engaging, Provocative Fare
 author: Barbara McKenna
 ---
 
-## Indonesian Theater, Talks By Holocaust Survivor And "Zoot Suit"  Lawyer/activist, Storytelling, And Reading By Noted Poet Are Among The Presentations Planned For Fall Series At Uc Santa Cruz
+**Indonesian Theater, Talks By Holocaust Survivor And "Zoot Suit"  Lawyer/activist, Storytelling, And Reading By Noted Poet Are Among The Presentations Planned For Fall Series At Uc Santa Cruz**
 
 SANTA CRUZ, CA--Every year Porter College at the University of  California, Santa Cruz, sponsors a series that features exceptional  performers and speakers. The series offers a chance for those who  attend to come in close contact with established and up-and-coming  artists and others engaged in groundbreaking and innovative work.  All listed events are open to the public. For more information, call  (408) 459-2857.
 

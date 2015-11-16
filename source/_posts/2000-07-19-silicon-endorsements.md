@@ -4,7 +4,7 @@ title: Endorsements For Silicon Valley Center Proposed Location
 author: Elizabeth Irwin
 ---
 
-## Announcement of Site Preference for UC Santa Cruz Silicon Valley Center
+**Announcement of Site Preference for UC Santa Cruz Silicon Valley Center**
 
 **Selected Comments from Silicon Valley Leaders and Prospective Partners**
 

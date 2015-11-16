@@ -12,15 +12,15 @@ The sale features numerous varieties of vegetables, perennial  flowers, everlast
 
 This year's selection includes the following:
 
-\-- Vegetable starts, including salad mix, leaf crops, tomatoes,  peppers, basil, and potatoes.
+* Vegetable starts, including salad mix, leaf crops, tomatoes,  peppers, basil, and potatoes.
 
-\-- Cottage-garden perennial flowers, including delphinium,  columbine, and wallflowers.
+* Cottage-garden perennial flowers, including delphinium,  columbine, and wallflowers.
 
-\-- Everlasting perennials, including a number of species of  statice and yarrow.
+* Everlasting perennials, including a number of species of  statice and yarrow.
 
-\-- Perennial herbs, including tarragon, rosemary, lavender,  oregano, and marjoram.
+* Perennial herbs, including tarragon, rosemary, lavender,  oregano, and marjoram.
 
-\-- California and Mediterranean natives, including santolinas  and sages.
+* California and Mediterranean natives, including santolinas  and sages.
 
 The sale will take place at UCSC's Barn Theater parking lot at  the corner of Bay and High streets at the base of the UCSC campus.  The sale is sponsored by the Friends of the Farm and Garden, a  community-based group that provides financial support to the UCSC  Center for Agroecology and Sustainable Food Systems and helps  educate the public about the importance of sustainable agriculture.  Proceeds from the sale support the center's apprenticeship program,  a six-month course in organic farming and gardening at the Farm and  Garden.
 

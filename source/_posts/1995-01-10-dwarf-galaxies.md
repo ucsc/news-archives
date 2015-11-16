@@ -4,7 +4,7 @@ title: Astronomers Could Find Signs Of Encounters Between Dwarf Galaxies And The
 author: Robert Irion
 ---
 
-## Nearby dwarf galaxy in Sagittarius yields rare opportunity to study a  strong tidal interaction in detail
+**Nearby Dwarf Galaxy In Sagittarius Yields Rare Opportunity To Study A  Strong Tidal Interaction In Detail**
 
 TUCSON, AZ--Dwarf galaxies spiraling into the gravitational maw of  the Milky Way should leave visible trails of debris that persist for a  billion years or more, according to new computer simulations by  three astrophysicists.
 

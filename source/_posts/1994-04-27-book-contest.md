@@ -4,7 +4,7 @@ title: UCSC Library Announces Winners In Annual Book Collection Contest
 author: Barbara McKenna
 ---
 
-## Winning Themes Are California's Wild Plants, Gay Male Fiction, And  Iran
+**Winning Themes Are California's Wild Plants, Gay Male Fiction, And  Iran**
 
 SANTA CRUZ--Winners of the 28th Annual Book Collection Contest at  the University of California, Santa Cruz, were announced at an  awards ceremony held on Thursday, April 21, at McHenry Library. The  annual contest, which awards cash prizes to the top three  collections, is sponsored by the Friends of the UCSC Library.
 

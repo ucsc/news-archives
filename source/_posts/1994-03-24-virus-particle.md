@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo Release: Bizarre Virus-like Particles Found In Marine Organisms 
+title: Photo Release&#58; Bizarre Virus-like Particles Found In Marine Organisms 
 author: [Alisa Zapp, Robert Irion]
 ---
 

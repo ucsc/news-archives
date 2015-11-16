@@ -4,7 +4,7 @@ title: New Education Secretary Kerry Mazzoni Headlines Conference On Teaching Ja
 author: Jennifer McNulty
 ---
 
-## Three days devoted to improving teaching
+**Three days devoted to improving teaching**
 
 SANTA CRUZ, CA--Kerry Mazzoni, California's new secretary of education, will headline the third annual symposium on new teacher support being hosted by the UC Santa Cruz New Teacher Center. The event takes place January 31-February 2 at the Fairmont Hotel in San Jose, California.
 

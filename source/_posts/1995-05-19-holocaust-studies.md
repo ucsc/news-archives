@@ -4,7 +4,7 @@ title: Gift From World War II Survivor Establishes Chair In Holocaust Studies At
 author: Barbara McKenna
 ---
 
-## In addition to endowment, gift includes rich archive of family  documents from the holocaust
+**In Addition To Endowment, Gift Includes Rich Archive Of Family  Documents From The Holocaust**
 
 SANTA CRUZ, CA--On the 50th anniversary of the end of World War  II, many holocaust survivors share this hope: that the world not  forget Hitler's program of genocide that killed 6 million Jews. "I  believe it is critical to perpetually study the circumstances  culminating in Hitler's final solution for the Jews," says Anne  Neufeld Levin, whose gift to the University of California, Santa Cruz,  has led to the establishment of an endowed chair in holocaust  studies on the campus.
 

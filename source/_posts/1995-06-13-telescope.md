@@ -4,9 +4,9 @@ title: Keck Telescope Meets Most Expectations, Says Project Scientist
 author: Robert Irion
 ---
 
-## Fine-tuning Keck I, completing Keck II, and developing adaptive  optics keeps observatory humming
+**Fine-tuning Keck I, completing Keck II, and developing adaptive  optics keeps observatory humming**
 
-### Nelson also will deliver the 1995 Heineman Prize Lecture, "The Keck  Observatory: Challenges and Promise," at 11:40 a.m. EDT Thursday,  June 15, in the Allegheny I and II rooms, Pittsburgh Vista Hotel.
+**Nelson also will deliver the 1995 Heineman Prize Lecture, "The Keck  Observatory: Challenges and Promise," at 11:40 a.m. EDT Thursday,  June 15, in the Allegheny I and II rooms, Pittsburgh Vista Hotel.**
 
 PITTSBURGH, PA--The W. M. Keck Telescope, mankind's compound eye  on the sky, is working smoothly and has yielded unparalleled results  in its first 19 months of regular scientific observations, says the  astronomer who conceived the telescope two decades ago.
 

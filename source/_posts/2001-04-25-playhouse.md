@@ -8,12 +8,8 @@ SANTA CRUZ, CA--Face it, Friday nights are a disaster. The music scene is so sta
 
 The program includes five short comedic plays in Chinese, French, German, Italian, and Japanese directed, or written and directed, by UCSC Language Program faculty and performed by UCSC students in the original languages. If you don't happen to speak Chinese, French, German, Italian, and Japanese, you'll still be able to chuckle like a native thanks to the English supertitles provided for every piece.  
 
-****
-
 * **Chinese Hip-Hop** is written and directed by Jacqueline Ku. It is the kind of oral improvisation performed to mark the opening of a business, celebrate a wedding, or honor a funeral; but don't worry, it won't be any of those three.  
-****
 * **Ecole des Méres** (School for Mothers), is an 18th century French work by Marivaux. Miriam Ellis directs this love triangle of a father and son in pursuit of the same young woman, who is in the care of a tyrannical mother but supportive servants.  
-****
 * **Reigen** (Round Dance), from the pen of Arthur Schnitzler, is the German offering. Judith Harris-Frisk directs this turn-of-the-century Viennese farce that traces convoluted intrigues of several amorous couples.  
 * In 1994, Italian playwright Stefano Benni wrote a short satire on capital punishment called **Papa va in TV** (Papa goes on TV). Guilia Centineo has adapted it for the stage and directs. Is it art imitating life, or life imitating art?   
 * Kyogen is Japan's oldest form of comic theater, dating from the 14th century. Sakae Fujita directs the anonymously authored **Shibiri** (Pins and Needles), a highly stylized piece centering on a battle of wits between a lazy servant and his wily master.

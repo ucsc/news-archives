@@ -10,9 +10,9 @@ The land, called the "Miller property," is located on Kings Creek  Road, three m
 
 Proceeds from the sale will be allocated as follows:
 
-\-- $2.1 million will go to UCSC to fund undergraduate  scholarships and graduate fellowships.
+* $2.1 million will go to UCSC to fund undergraduate  scholarships and graduate fellowships.
 
-\-- A total of $300,000 will be used to establish or enhance  scholarships at UC Berkeley and UCSC in the names of Horace Marden  Albright, who was a leading conservationist and former director of  the National Park Service, and to establish two undergraduate  scholarships for students of environmental studies at UCSC in the  names of Robert Gordon Sproul, former president of the university,  and Newton B. Drury, former director of the National Park Service  and former secretary of the Save-the-Redwoods League.
+* A total of $300,000 will be used to establish or enhance  scholarships at UC Berkeley and UCSC in the names of Horace Marden  Albright, who was a leading conservationist and former director of  the National Park Service, and to establish two undergraduate  scholarships for students of environmental studies at UCSC in the  names of Robert Gordon Sproul, former president of the university,  and Newton B. Drury, former director of the National Park Service  and former secretary of the Save-the-Redwoods League.
 
 UCSC Chancellor Karl S. Pister expressed satisfaction with the  outcome of the negotiations. "This sale will preserve the site for the  public, and the proceeds will help preserve access to the university  by enriching our financial aid endowment," said Pister. "This is the  type of outcome the campus had sought from the beginning."
 

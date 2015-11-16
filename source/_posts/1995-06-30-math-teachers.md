@@ -4,7 +4,7 @@ title: Monterey Bay Area Mathematics Project Marks Tenth Year Of Helping Local T
 author: Robert Irion
 ---	
 
-## Three-week institute at UC Santa Cruz to run July 10-27
+**Three-week institute at UC Santa Cruz to run July 10-27**
 
 SANTA CRUZ, CA--Balancing the checkbook. Remodeling the house.  Playing the stock market. Understanding science and technology. It  all adds up to a lot of math, and woe to those who can't keep up. But  thanks to teachers from the Monterey Bay Area Mathematics Project,  area students are better equipped to handle these challenges--and  less intimidated by a subject that others dread.
 
@@ -15,8 +15,6 @@ Now in its tenth year, the project helps teachers bring math to  life for their 
 This year, 34 teachers of students in grades K-8 will attend  the institute, set for July 10-27. They also will participate in  follow-up events during the year. A team of instructors from area  schools and community colleges--including veterans of previous  institutes--will join Migliore to teach dynamic new approaches to  working with numbers, solving problems, logic, probability and  statistics, and other topics. Each day, teachers will gather by grade  level to discuss how to use the lessons in their classrooms and to  swap ideas on getting the most out of limited time and supplies.
 
 Bruce Cooperstein and Solomon Friedberg, professors of  mathematics at UCSC, are the project's coprincipal investigators. It  is part of the California Mathematics Project, which sponsors  institutes on numerous UC and California State University campuses.
-
-####
 
 Editor's note: Please see the attached page for a list of teachers  from schools in your area. The summer institute runs from 8:30 a.m.  to 4 p.m. on Monday through Thursday of each week at the Crown  College Library, UCSC campus. To arrange a visit, call (408) 459- 4369 or (408) 459-2495.
 

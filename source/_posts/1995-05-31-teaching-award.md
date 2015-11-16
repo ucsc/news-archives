@@ -12,14 +12,14 @@ The awards, which include a framed certificate and $500 in  professional develop
 
 The names of this year's recipients follow below, along with  the wording that appears on their certificates.
 
-\-- Troy Boone (lecturer in literature) for passionate dedication to  the study and teaching of literature, meticulous attention to the  craft of writing, and genuine devotion to students' well-being within  and beyond the classroom.
+* Troy Boone (lecturer in literature) for passionate dedication to  the study and teaching of literature, meticulous attention to the  craft of writing, and genuine devotion to students' well-being within  and beyond the classroom.
 
-\-- Dan Doak (assistant professor of environmental studies) for  remarkable breadth and versatility in teaching disciplinary and  interdisciplinary courses at all levels in environmental studies and  for motivating students to embrace and appreciate the complexity,  sophistication, beauty, and sheer fun of natural science inquiry.
+* Dan Doak (assistant professor of environmental studies) for  remarkable breadth and versatility in teaching disciplinary and  interdisciplinary courses at all levels in environmental studies and  for motivating students to embrace and appreciate the complexity,  sophistication, beauty, and sheer fun of natural science inquiry.
 
-\-- Anatole Leikin (assistant professor of music) for serving as an  inspiration and mentor to music students and as a model for junior  and senior faculty alike through effective, engaging, insightful  instruction, and sincere dedication to students both inside and  outside the classroom.
+* Anatole Leikin (assistant professor of music) for serving as an  inspiration and mentor to music students and as a model for junior  and senior faculty alike through effective, engaging, insightful  instruction, and sincere dedication to students both inside and  outside the classroom.
 
-\-- Marta Navarro (lecturer in Spanish) for creative, effective  incorporation of culture in each stage of language training, for  dedication to students and learning, and for commitment to  establishing ties between the university and the community.
+* Marta Navarro (lecturer in Spanish) for creative, effective  incorporation of culture in each stage of language training, for  dedication to students and learning, and for commitment to  establishing ties between the university and the community.
 
-\-- Bakthan Singaram (assistant professor of chemistry) for a  teaching philosophy that seeks out and encourages the positive while  challenging and feeding students' intellects and imaginations, for a  classroom atmosphere that inspires academic excellence, and for  the respect and dignity shown to students.
+* Bakthan Singaram (assistant professor of chemistry) for a  teaching philosophy that seeks out and encourages the positive while  challenging and feeding students' intellects and imaginations, for a  classroom atmosphere that inspires academic excellence, and for  the respect and dignity shown to students.
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/94-95/05-95/053195-Distinguished_teach.html "Permalink to 053195-Distinguished_teach")

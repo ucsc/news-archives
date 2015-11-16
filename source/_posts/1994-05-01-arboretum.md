@@ -4,7 +4,7 @@ title: UC Santa Cruz Arboretum Dedicates Two New Buildings
 author: Robert Irion
 ---
 
-## "Horticulture II" and a new gift shop, "Norrie's," promise to cultivate further public activities at UCSC's unique site
+**"Horticulture II" And A New Gift Shop, "Norrie's," Promise To Cultivate Further Public Activities At Ucsc's Unique Site**
 
 SANTA CRUZ, CA--Visitors to the famed Arboretum at the University  of California, Santa Cruz, will be delighted by what has sprouted  there since October among the fragrant and colorful plants. Two new  buildings, funded entirely by private donations, will greatly enhance  the Arboretum's programs for people both on and off campus.
 

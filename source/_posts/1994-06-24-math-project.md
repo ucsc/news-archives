@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Monterey Bay Area Mathematics Project: Nine Years Of Helping Teachers Enliven Their Lessons
+title: Monterey Bay Area Mathematics Project&#58; Nine Years Of Helping Teachers Enliven Their Lessons
 author: Robert Irion
 ---
 
-## Summer Institute To Run July 6-21 At UC Santa Cruz
+**Summer Institute To Run July 6-21 At UC Santa Cruz**
 
 SANTA CRUZ, CA--If you think that only squares like math, you  probably had an old-fashioned education: Dull lesson plans, lots of  rote exercises, and nothing that seemed to apply to your life. Think  again: Teachers are no longer slaves to dry textbooks, and math class  has become a livelier part of the school day. But that transition is an  ongoing challenge for teachers, and the Monterey Bay Area  Mathematics Project is there to help.
 
