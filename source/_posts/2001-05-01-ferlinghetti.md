@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ferlinghetti To Read
+title: Ferlinghetti to read
 author: John Newman
 ---
 
@@ -18,6 +18,6 @@ When Allen Ginsburg composed the classic Beat poem Howl, Ferlinghetti published 
 
 Ferlinghetti's own poetry is simple and muscular, and even though less widely known than Ginsburg's, it has remained popular for five decades. His best known works are probably _A Coney Island of the Mind_ (1958), and the follow-up volume _A Far Rockaway of the Heart_ (1997). He is still active as a poet and as the proprietor of City Lights Bookstore, which still stands in its original location.
 
-Ferlinghetti is one of the most important figures in a period of American arts that today seems like a golden age. He will read from his works at the Rio Theater, 1205 Soquel Ave, on May 24, sponsored by the UCSC Friends of the Library. The reading begins at 7:30 and goes until 9:30. Admission is free and open to the public. For more information call: (831) 459-5870; or e-mail: [lsand@cats.ucsc.edu][2].
+Ferlinghetti is one of the most important figures in a period of American arts that today seems like a golden age. He will read from his works at the Rio Theater, 1205 Soquel Ave, on May 24, sponsored by the UCSC Friends of the Library. The reading begins at 7:30 and goes until 9:30. Admission is free and open to the public.
 
-[Source](http://www1.ucsc.edu/news_events/press_releases/archive/00-01/05-01/ferlinghetti.html "Permalink to UCSC Press Release: Ferlinghetti to read")
+[Source](http://www1.ucsc.edu/news_events/press_releases/01-02/ferlinghetti.html "Permalink to UCSC Press Release: Ferlinghetti to read")
