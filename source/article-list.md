@@ -429,65 +429,64 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091595-Long_Marine_Lab_hos.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091595-UCSC_95-96-Leaders.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092295-UCSC_Farm_holds_Har.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092895-UCSC_sociologist_ev.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092995-Interim_vice_chance.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100195-UCSC_professor_deli.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100295-Luce_Foundation_awa.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100295-UCSC_sponsors_on-fa.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100395-Public_access_chann.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100495-Packard_Foundation_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101095-UCSC_hooks_up_to_wi.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101195-Two_activists_speak.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101295-UCSC_Barrios_Unidos.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101695-National_conference.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101695-New_coordinator_nam.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101995-New_book_offers_his.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102095-CALPIRG_settlement_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102095-UCSC_chancellor_to_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102395-NSF_grant_funds_Mon.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102595-Chancellor_Karl_S_P.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102595-Kenneth_Patchen_pai.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102795-Contract_aides_Mont.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/103095-Book-in-progress_on.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110195-Anthropologist_boo.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110195-ARCS_Foundation_rec.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110695-DDT_contamination_i.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110895-Hubble_telescope_pe.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111095-UCSC_physicist_elec.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111495-Holiday_fun_at_Crow.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111695-Structure_of_protei.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111795-New_book_by_UCSC_so.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112195-Eminent_San_Francis.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112295-UCSC_scientists_imp.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112395-Study_unveils_new_w.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120195-Long_Marine_Lab_off.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120595-UCSC_Science_Tip_Sh.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120795-Annual_journal_pays.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120795-UCSC_annual_Dicken.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120895-Agreement_signed_be.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120895-News_tips_at_Americ.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/121395-Housing_sought_for_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/121595-Plumbing_under_mido.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/122195-UCSC_and_county_art.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/668688.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/010997-Two_day_workshop_of.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011097-UCSC_Chancellor_Gre.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011397-Keck_Telescopes_fin.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011397-UCSC_announces_alum.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011497-Annual_Martin_Luthe.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011597-Astronomy_departmen.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011697-Keck_Telescope_spie.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011697-Kenneth_Thimann_fou.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012197-UCSC_announces_open.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012297-UCSC_grad_receives_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012397-UCSC_exhibits_work_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012497-Chemist_attempts_to.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012497-Hollins_House_hosts.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012797-Chancellor_Greenwoo.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/013197-Feb_97-scienc.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020397-UCSC_hosts_discussi.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020497-Arboretum_director_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020597-Drilling_cruise_pro.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092895-UCSC_sociologist_ev.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092995-Interim_vice_chance.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100195-UCSC_professor_deli.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100295-Luce_Foundation_awa.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100295-UCSC_sponsors_on-fa.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100395-Public_access_chann.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100495-Packard_Foundation_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101095-UCSC_hooks_up_to_wi.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101195-Two_activists_speak.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101295-UCSC_Barrios_Unidos.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101695-National_conference.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101695-New_coordinator_nam.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/101995-New_book_offers_his.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102095-CALPIRG_settlement_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102095-UCSC_chancellor_to_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102395-NSF_grant_funds_Mon.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102595-Chancellor_Karl_S_P.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102595-Kenneth_Patchen_pai.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/102795-Contract_aides_Mont.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/103095-Book-in-progress_on.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110195-Anthropologist_boo.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110195-ARCS_Foundation_rec.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110695-DDT_contamination_i.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/110895-Hubble_telescope_pe.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111095-UCSC_physicist_elec.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111495-Holiday_fun_at_Crow.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111695-Structure_of_protei.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111795-New_book_by_UCSC_so.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112195-Eminent_San_Francis.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112295-UCSC_scientists_imp.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112395-Study_unveils_new_w.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120195-Long_Marine_Lab_off.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120595-UCSC_Science_Tip_Sh.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120795-Annual_journal_pays.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120795-UCSC_annual_Dicken.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120895-Agreement_signed_be.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120895-News_tips_at_Americ.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/121395-Housing_sought_for_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/121595-Plumbing_under_mido.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/122195-UCSC_and_county_art.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/010997-Two_day_workshop_of.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011097-UCSC_Chancellor_Gre.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011397-Keck_Telescopes_fin.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011397-UCSC_announces_alum.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011497-Annual_Martin_Luthe.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011597-Astronomy_departmen.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011697-Keck_Telescope_spie.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/011697-Kenneth_Thimann_fou.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012197-UCSC_announces_open.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012297-UCSC_grad_receives_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012397-UCSC_exhibits_work_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012497-Chemist_attempts_to.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012497-Hollins_House_hosts.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/012797-Chancellor_Greenwoo.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/01-97/013197-Feb_97-scienc.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020397-UCSC_hosts_discussi.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020497-Arboretum_director_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020597-Drilling_cruise_pro.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-Hubble_Telescope_se.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_alumna-novelis.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_hosts_workshop.html
