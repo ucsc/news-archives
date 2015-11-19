@@ -487,33 +487,33 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020397-UCSC_hosts_discussi.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020497-Arboretum_director_.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020597-Drilling_cruise_pro.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-Hubble_Telescope_se.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_alumna-novelis.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_hosts_workshop.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020797-Multiobject_spectro.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021097-UCSC_scholar_receiv.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021297-UCSC_ranks_15th_in_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021397-UCSC_education_dept.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021797-UCSC_Farm_and_Garde.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/022097-Bequest_to_UCSC_lib.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/022497-Intercampus_team_re.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/022697-Four_UCSC_researche.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/030597-Physicist_organizes.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/030697-UCSC_is_first_partn.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/030697-UCSC_reef_expert_Do.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031197-Whale_of_an_Auction.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031297-UCSC_alumnus_wins_t.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031397-Funding_for_UCSC_mi.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031397-Lick_Observatory_no.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031397-UCSC_actress_receiv.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031797-Book_by_UCSC_litera.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031797-The_German_predicam.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032097-UCSC_and_NASA_Ames_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032097-UCSC_oceanographer_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032097-UCSC_professors_rec.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032197-Donald_Osterbrock_w.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032197-Regents_approve_mas.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032697-Gender_equity_in_fa.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-Hubble_Telescope_se.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_alumna-novelis.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_hosts_workshop.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020797-Multiobject_spectro.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021097-UCSC_scholar_receiv.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021297-UCSC_ranks_15th_in_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021397-UCSC_education_dept.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021797-UCSC_Farm_and_Garde.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/022097-Bequest_to_UCSC_lib.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/022497-Intercampus_team_re.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/022697-Four_UCSC_researche.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/030597-Physicist_organizes.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/030697-UCSC_is_first_partn.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/030697-UCSC_reef_expert_Do.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031197-Whale_of_an_Auction.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031297-UCSC_alumnus_wins_t.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031397-Funding_for_UCSC_mi.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031397-Lick_Observatory_no.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031397-UCSC_actress_receiv.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031797-Book_by_UCSC_litera.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/031797-The_German_predicam.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032097-UCSC_and_NASA_Ames_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032097-UCSC_oceanographer_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032097-UCSC_professors_rec.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032197-Donald_Osterbrock_w.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032197-Regents_approve_mas.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032697-Gender_equity_in_fa.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032797-UCSC_linguist_publi.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/033197-Lecture_on_Hubble_S.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/033197-UCSC_is_member_of_n.html
