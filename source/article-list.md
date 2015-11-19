@@ -404,31 +404,31 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-Dyslexic_UCSC_grad_.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-Graduation_ceremoni.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-UCSC_Arboretum_offe.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-UCSC_grads_honor_in.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061296-Ocean_Drilling_Prog.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061496-New_agency_to_opera.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061496-UCSC_scientists_rea.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061796-UCSC_students_desig.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/062096-UCSC_conference_wil.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/062496-Fort_Ord_Project_ho.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/070595-Dickens_conference_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/070595-Hankamer_named_dean.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071295-UCSC_names_new_Foun.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071295-UCSC_Sum_programs.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071495-Long_Marine_Lab_off.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071795-Open_house_for_farm.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/072695-Graduate_students_r.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/072795-UCSC_names_new_dean.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/081095-Long_Marine_Lab_to_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/081195-UCSC_theater_arts_p.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/082395-UCSC_receives_a_rec.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/082995-Founding_provost_Pa.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/090595-UCSC_and_Life_Lab_c.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091195-Long_Marine_Lab_lec.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091395-94-95-contracts_an.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091595-Long_Marine_Lab_hos.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091595-UCSC_95-96-Leaders.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092295-UCSC_Farm_holds_Har.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-UCSC_grads_honor_in.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061296-Ocean_Drilling_Prog.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061496-New_agency_to_opera.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061496-UCSC_scientists_rea.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061796-UCSC_students_desig.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/062096-UCSC_conference_wil.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/062496-Fort_Ord_Project_ho.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/070595-Dickens_conference_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/070595-Hankamer_named_dean.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071295-UCSC_names_new_Foun.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071295-UCSC_Sum_programs.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071495-Long_Marine_Lab_off.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/071795-Open_house_for_farm.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/072695-Graduate_students_r.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/07-95/072795-UCSC_names_new_dean.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/081095-Long_Marine_Lab_to_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/081195-UCSC_theater_arts_p.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/082395-UCSC_receives_a_rec.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/08-95/082995-Founding_provost_Pa.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/090595-UCSC_and_Life_Lab_c.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091195-Long_Marine_Lab_lec.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091395-94-95-contracts_an.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091595-Long_Marine_Lab_hos.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/091595-UCSC_95-96-Leaders.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092295-UCSC_Farm_holds_Har.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092895-UCSC_sociologist_ev.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/09-95/092995-Interim_vice_chance.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/10-95/100195-UCSC_professor_deli.html
