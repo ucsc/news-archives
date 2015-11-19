@@ -24,10 +24,6 @@ In the oral history, Pister also describes the difficult state of town/gown rela
 Throughout his tenure as chancellor, Pister was a tireless advocate for university involvement in the effort to improve K-12 education in the region, and he describes UCSC's role in the Monterey Bay Educational Consortium, which has fostered collaboration between the campus and public schools. He also describes his effort to expand UCSC's outreach to the region's thirteen community colleges, as well as the Leadership Opportunity Awards scholarship program he instituted that assists community college students transferring to UCSC.
 
 The narrative also includes Pister's detailed commentary on UCSC's admissions strategies subsequent to the outlawing of affirmative action by the UC Regents. He describes the role he played in joining with other UC chancellors to issue a unanimous public statement opposing the board's decision.  
-_  
-_
-
-* * *
 
 The Pister volume, as well as other oral history volumes documenting UCSC history, are available in Special Collections at UCSC's McHenry Library and at UC Berkeley's Bancroft Library. The volumes may also be purchased for the cost of duplication. For additional information, contact UCSC's Regional History Project via e-mail ([ihreti@cats.ucsc.edu][2]) or telephone (831-459-2847).
 

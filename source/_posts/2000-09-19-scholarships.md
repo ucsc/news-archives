@@ -9,62 +9,34 @@ SANTA CRUZ, CA--The recipients of named scholarships for community college trans
 Named scholarships have been established by generous UCSC contributors. The recipients for the 2000-01 year are listed below, followed by the recipient's hometown and community college affiliation. The program is supported by a $5.2 million permanent endowment.
 
 Alfred E. Hahn Scholars
-
 *Kassandra Rossiter of Milpitas; San Jose City College
-
 *Joshua M. Luke of San Jose; De Anza College
-
 *Arlene Cazares of San Jose; Mission College
-
 *Janice Domanic of Pacific Grove; Monterey Peninsula College
 
- 
-
 Adolph C. and Mary Sprague Miller Scholars
-
 *Jorge Mendez of Salinas; Hartnell College
-
 *Marisa Cidre of San Jose; Evergreen Valley College.
 
- 
-
 Santa Cruz Business and Professional Women's Club Scholar
-
 *Elizabeth V. Delgadillo of Gilroy; Gavilan College
-
- 
 
 In addition, recipients of named KSPLOA scholarships who are returning for their second year in the program are:
 
 Alfred E. Hahn Scholars
-
 *Bonnie Baker of Seaside; Monterey Peninsula College
-
 *Guillermo Gloria of San Jose; San Jose City College
-
 *Sunny Jane Gossett Rudolph of Soquel; Cabrillo College
 
- 
-
 Adolph C. and Mary Sprague Miller Scholars
-
 *Munish Manrao of Redwood City; Cañada College
-
 *John Clarke of San Jose; De Anza College
 
- 
-
 Neufeld-Levin Family Scholar
-
 *David Ruth of San Jose; Evergreen Valley College
 
- 
-
 Thomas B. Porter Scholar
-
 *Deutron Kebebew of Gilroy; Gavilan College
-
- 
 
 This year, in addition to the seven named scholars listed above, five students received scholarships through the program, which was established in 1993 by former UCSC Chancellor Karl S. Pister to make it easier for community college students to transfer to UCSC. Recipients receive $10,000 scholarships for each of two years, as well as the support of a strong academic mentoring program and assistance finding paid summer work experience in a field that complements their studies.
 

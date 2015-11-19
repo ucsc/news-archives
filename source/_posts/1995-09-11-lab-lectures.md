@@ -13,7 +13,6 @@ Proceeds from the lecture series will benefit public education  programs at Long
 Speakers and their topics are as follows:
 
 Tuesday, October 10
-
 * Marine biologist Sylvia Earle, former chief scientist of the  National Oceanic and Atmospheric Administration: "Sea Change"
 * Mike Field, acting chief scientist of the Branch of Pacific  Marine Geology, U.S. Geological Survey: "Our Coastal Ocean:  Challenges and Solutions"
 
@@ -25,7 +24,6 @@ Dual presentation: "Underwater Research: Scientific Questions  in the Last Front
 * Nicole Crane, diving safety officer at Stanford University's  Hopkins Marine Station: "Research and Conservation"
 
 Tuesday, October 24
-
 * Biologist Mary Yoklavich of the Pacific Fisheries  Environmental Group, National Marine Fisheries Service: "Coastal  Rockfishes: Surviving to Old Age in a Sea of High Technology"
 * Bruce Robison, senior scientist at the Monterey Bay  Aquarium Research Institute: "Exploring the Ocean's Midwaters"
 

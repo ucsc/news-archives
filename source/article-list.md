@@ -514,44 +514,42 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032197-Donald_Osterbrock_w.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032197-Regents_approve_mas.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032697-Gender_equity_in_fa.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032797-UCSC_linguist_publi.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/033197-Lecture_on_Hubble_S.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/033197-UCSC_is_member_of_n.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040197-Berkeley_art_histor.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040197-UCSC_Social_Science.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040797-Arboretum_plant_sal.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040997-Inaugural_lecture_w.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040997-UCSC_celebrates_Lou.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041097-Create_a_cottage_ga.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041097-Free_public_tours_o.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041797-Don_Osterbrock_awar.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041897-Kenneth_Thimann_mem.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042197-Public_donations_fu.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042497-Holocaust_remembran.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042497-Media_advisory-Holo.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042497-New_book_on_Russian.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042497-Science_studies_is_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042897-Faculty_Research_Le.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042997-Myers_Trust_awards_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/043097-Poetry_and_painting.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/043097-UCSC_sponsors_busin.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050297-UCSC_hosts_Folklori.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050597-Local_donors_suppor.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050697-UCSC_one_of_Yahoo_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050897-UCSC_named_53rd_in_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050997-UCSC_anthropologist.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050997-UCSC_inaugurates_MR.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051397-UCSC_reading_featur.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-Market_cart_opens_J.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-Philanthropist_Jack.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-UCSC_launches_the_J.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052097-Surveys_of_Monterey.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052297-Free_poetry_reading.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052297-UCSC_announces_musi.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052897-Culture_clash-Socio.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052997-Thirteen_students_r.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/053097-Regent_David_Lee_cr.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/060997-Disorderly_proteins.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032797-UCSC_linguist_publi.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/033197-Lecture_on_Hubble_S.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/033197-UCSC_is_member_of_n.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040197-Berkeley_art_histor.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040197-UCSC_Social_Science.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040797-Arboretum_plant_sal.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040997-Inaugural_lecture_w.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/040997-UCSC_celebrates_Lou.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041097-Create_a_cottage_ga.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041097-Free_public_tours_o.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041797-Don_Osterbrock_awar.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/041897-Kenneth_Thimann_mem.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042197-Public_donations_fu.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042497-Holocaust_remembran.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042497-New_book_on_Russian.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042497-Science_studies_is_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042897-Faculty_Research_Le.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042997-Myers_Trust_awards_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/043097-Poetry_and_painting.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/043097-UCSC_sponsors_busin.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050297-UCSC_hosts_Folklori.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050597-Local_donors_suppor.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050897-UCSC_named_53rd_in_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050997-UCSC_anthropologist.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/050997-UCSC_inaugurates_MR.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051397-UCSC_reading_featur.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-Market_cart_opens_J.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-Philanthropist_Jack.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-UCSC_launches_the_J.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052097-Surveys_of_Monterey.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052297-Free_poetry_reading.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052297-UCSC_announces_musi.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052897-Culture_clash-Socio.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052997-Thirteen_students_r.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/053097-Regent_David_Lee_cr.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/060997-Disorderly_proteins.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/060997-UCSC_commencement_c.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/061297-UCSC_Foundation_ele.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/062097-Seismologist_astron.html

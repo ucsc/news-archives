@@ -16,7 +16,7 @@ The three were nominated for the awards by students, alumni,  faculty, and staff
 
 They will be honored at a ceremony on Saturday, February 3,  from 12:30 to 2 p.m. in the dining hall at UCSC's Stevenson College.  In addition to the awards being presented to Warren, Garrett, and  Curtis, eleven students will be honored for service to their colleges.  The ceremony is open to the public.
 
-### Michael Warren
+**Michael Warren**
 
 Warren has spent a career doing for UCSC's undergraduates  what he wishes had been done for him as a student: demystifying the  study of literature. His teaching interests concern earlier English  writers, especially Shakespeare and his contemporaries, but also  postwar British drama.
 
@@ -30,7 +30,7 @@ Warren especially enjoys teaching lower-division  undergraduates. "It is a chanc
 
 Warren joined UCSC as an assistant professor in 1968 after  earning a Ph.D. from UC Berkeley and teaching at the University of  Victoria in Canada. He earned his bachelor's degree from Balliol  College, Oxford, and a master's degree from Dalhousie University in  Canada. His numerous print contributions include two books on  Shakespeare's King Lear.
 
-### Laurie Garrett
+**Laurie Garrett**
 
 A science and medical writer for Newsday who also worked for  National Public Radio and as a freelancer in southern Europe and East  Africa, Garrett spent more than a decade researching her book, The  Coming Plague.
 
@@ -46,7 +46,7 @@ Garrett wrote The Coming Plague as a wake-up call to the  world.
 
 "I'm trying to sound an alarm that warns people at all levels of  society, regardless of their work or what they do, that far from  defeating the microbes, we face a whole new force of microbial  threats," she says.
 
-### Susan Curtis
+**Susan Curtis**
 
 Although life-and-death issues are seldom a part of Susan  Curtis's job at UCSC's Sociology Board, she treats all that's asked of  her as if it were.
 

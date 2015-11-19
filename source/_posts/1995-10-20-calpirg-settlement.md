@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calpirg Settlement With Shell Oil Nets $100,000 For UC Santa Cruz Research In San Francisco Bay
+title: CalPIRG Settlement With Shell Oil Nets $100,000 For UC Santa Cruz Research In San Francisco Bay
 author: Robert Irion
 ---
 
@@ -17,15 +17,10 @@ CalPIRG's lawsuit forced Shell to agree to reduce its  discharges of selenium at
 University of California researchers received $250,000 from  the settlement, of which $100,000 went to the Institute of Marine  Sciences at UC Santa Cruz. After an internal review of proposals, the  following six projects earned portions of the Shell funds:
 
 * $20,000 for studies of trace metals in the bay, including  which chemical species may be toxic to plant life, and development  of a technique to measure many trace metals at once. Team leader:  Kenneth Bruland, professor of marine sciences.
-
 * $20,000 for upgrading a mass spectrometer to lower the  detection limits for elements such as lead, copper, zinc, cadmium,  and cobalt in the waters and sediments of the bay. Team leader:  Russell Flegal, professor of earth sciences.
-
 * $20,000 for studies of the interaction between  contaminants in the bay and natural colloids, suspended particles  that can affect the toxicity of a substance. Team leader: Mark Wells,  assistant research marine chemist.
-
 * $15,000 to measure the levels of various organochlorine  compounds, such as PCBs and other industrial pollutants, in the bay's  waters. Team leader: Walter Jarman, postdoctoral researcher.
-
 * $13,000 for studies of the cycles of carbon and nitrogen  among the bay's water, sediments, and bottom-dwelling organisms.  Team leader: Jane Caffrey, assistant research oceanographer.
-
 * $12,000 for an analysis of the role of a non-native species,  the Asian clam, in the food web of the northern bay. Team leader:  Mary Silver, professor of marine sciences.
 
 CalPIRG is a statewide environmental and consumer protection  advocacy organization with over 70,000 members. It was  represented in this lawsuit by attorneys from the Boston-based  National Environmental Law Center and the San Francisco firm of  Sideman & Bancroft.

@@ -15,11 +15,8 @@ Bilingual staff will be available at all drop-in sessions.
 Ninth through twelfth graders are encouraged to bring a copy  of their updated unofficial transcripts, which may be obtained from  their high school office.
 
 Hours for the drive are as follows:
-
 * October: Drop-in hours at the center will be Tuesdays and  Thursdays, from 3:30 to 7 p.m.
-
 * November: Drop-in hours will be Mondays, Tuesdays, and  Thursdays, from 3:30 to 7 p.m. Additional workshops will be held on  Saturday, November 4, and Saturday, November 18.
-
 * Other: Transfer student advising will be on Tuesdays and  Thursdays, from 5:30 to 6:30 p.m.
 
 UC's fall 1996 application filing period begins November 1 and  ends November 30, 1995.

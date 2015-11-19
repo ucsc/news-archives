@@ -9,27 +9,16 @@ SANTA CRUZ, CA--Forget the Border Patrol. Forget Proposition 187.  Forget fences
 In a thoughtful new book titled The Immigration Debate:  Remaking America (West Hartford, CT: Kumarian Press, 1996),  economist John Isbister of the University of California, Santa Cruz,  presents the pros and cons of immigration. He covers the economic,  social, and cultural impacts of immigration--both legal and illegal.
 
 Among the questions Isbister examines are:
-
 * Does immigration contribute to the vitality of the American  economy?
-
 * Is the quality of the immigrant labor force deteriorating?
-
 * Are immigrants unusually enterprising?
-
 * Does immigration take away jobs from Americans? Does it  reduce American wages?
-
 * Does immigration contribute to the growing income gap  between the rich and the poor?
-
 * Do immigrants present a fiscal burden for Americans, who  must pay for services such as education, health care, welfare, social  security, and criminal justice? Or do immigrants contribute their  share in taxes?
-
 * Will immigration harm the environment and deplete natural  resources?
-
 * Is this wave of immigration unusually large?
-
 * Can the United States increase its cultural diversity  without increasing conflict?
-
 * How should immigrant applicants be prioritized?
-
 * Are American border controls morally justified?
 
 Isbister's review of the academic literature on the economic  impact of immigration leads him to an unusual conclusion: "Half of  the economists say immigration is wonderful for the economy, and  the other half says it's terrible. I didn't find the academic literature  persuasive on either side," says Isbister, a proponent of  immigration. "For the most part, we don't know. The studies are  inconclusive, contradictory, and methodologically flawed in ways  that can't be fixed." Given that uncertainty, Isbister concludes that  the social benefits of a liberal immigration policy outweigh what  appears to be a slight risk of negative economic impacts.

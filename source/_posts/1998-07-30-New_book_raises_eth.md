@@ -19,7 +19,6 @@ The risks don't end even with a "successful" procedure because newborns who surv
 "Fetal surgery has been seen largely as a pediatric issue, not a matter of women's health," said Casper. "The ethical questions are enormous: Is the fetus a person? Is surgery appropriate if the fetus still faces an uncertain future due to surgical complications or premature delivery? Like interventions at the end of life, does it make sense to try to save the life of a fetus at all costs, financial and otherwise? How does fetal surgery fit into the politics of women's reproduction? Nobody has raised these social justice and resource questions."
 
 Fetal surgery has been controversial since its inception three decades ago, yet it is proceeding rapidly without public debate about its consequences. Casper's book is the first in-depth study of the social, cultural, and historical aspects of fetal surgery. Some questions posed by Casper include:
-
 * Who is the patient--the fetus or the woman?
 * Is fetal surgery a women's health issue or a pediatric concern?
 * What is an acceptable level of risk--for the mother and the fetus?

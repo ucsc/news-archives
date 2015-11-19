@@ -9,7 +9,6 @@ SANTA CRUZ, CA--The Santa Cruz Institute for Particle Physics (SCIPP) at the Uni
 The workshop will give teachers a new perspective on modern physics and help them develop an up-to-date curriculum for high school physics. It will feature science presentations by UCSC physics faculty, a report on SCIPP's 2000 Research Experience for Teachers program, and an interactive session on advancing the physics curriculum. The workshop is hosted by SCIPP and UCSC physics faculty.
 
 Talks by leading theorists and experimental researchers in physics will cover a range of topics. Presentations will include talks by:
-
 * Douglas Lin, Professor of Astronomy and Astrophysics
 * Michael Dine, Professor of Physics
 * Michael Nauenberg, Professor Emeritus of Physics

@@ -13,25 +13,15 @@ The awards were established in 1993 by UCSC Chancellor Karl  S. Pister to recogn
 The program has been praised by the presidents of the  participating community colleges.
 
 This year's recipients are:
-
 * Thu Mong Duong of Salinas, Hartnell College
-
 * Michael S. Duran of Gilroy, Gavilan College
-
 * Raymond G. Emanuel of Daly City, College of San Mateo
-
 * Ricardo A. Fiallos of Sunnyvale, Mission College
-
 * Elsa M. Jimenez of Daly City, Skyline College
-
 * Claudia S. Melendez of Santa Cruz, Cabrillo College
-
 * Jose V. Moreno of San Jose, De Anza College
-
 * Herbert G. Ruffin II, of Milpitas, San Jose City College
-
 * Deondra L. Wilson of Los Gatos, West Valley College
-
 * Magalli Yoho of Mountain View, Foothill College
 
 Up to thirteen recipients are selected each year, and each  recipient will have the opportunity to gain valuable work experience  through paid summer jobs that are cosponsored by private- and  public-sector employers. Previous recipients have arranged summer  internships with IBM, the Santa Clara County Legal Aid Society, the  Santa Clara County Office of Education, the City of Watsonville, the  Yo Puedo Program of the Monterey County Office of Education, and  other organizations.

@@ -21,7 +21,6 @@ The symposium will allow scholars to present their research  in different areas 
 Nauenberg hopes the symposium will throw a more human light  on Newton's science. "The misunderstanding of the sciences in the  humanities has reached terrible proportions," he says. "History is the  badly needed bridge between the two."
 
 The following talks will be presented at the symposium:
-
 * I. Bernard Cohen, Harvard University: "Newton in Historical Perspective" 
 * Alan E. Shapiro, University of Minnesota: "Newton's Experimental Investigation of Diffraction for the Optiks" 
 * J. Bruce Brackenridge, Lawrence University: "Newton's Dynamics: The Diagram as a Diagnostic Device" 
