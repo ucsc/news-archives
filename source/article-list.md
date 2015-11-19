@@ -610,6 +610,11 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/110896-Humanities_lecture_.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111196-UCSC_undergrads_hon.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111296-Hearst_Foundation_g.html
+
+<!--
+		ARTICLES FINISHED BY PHILIPs
+
+
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111496-UCSC_physicists_con.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111596-New_cookbook_benefi.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111996-Cheers_at_the_Crow.html
@@ -641,11 +646,6 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/97-98/01-98/012898-Sun_Microsystems_do.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/97-98/02-98/020298-UCSC_to_host_Ocean_.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/97-98/02-98/020398-Collection_of_works.html
-
-<!--
-		ARTICLES FINISHED BY PHILIP
-
-
 - http://www1.ucsc.edu/news_events/press_releases/archive/97-98/02-98/021098-University_Library_.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/97-98/02-98/021898-UCSC_professor_retu.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/97-98/02-98/021898-UCSC_to_host_daylon.html
