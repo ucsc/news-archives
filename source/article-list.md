@@ -553,6 +553,11 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052997-Thirteen_students_r.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/053097-Regent_David_Lee_cr.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/060997-Disorderly_proteins.html
+
+<!--
+		ARTICLES FINISHED BY PHILIP
+
+
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/060997-UCSC_commencement_c.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/061297-UCSC_Foundation_ele.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/062097-Seismologist_astron.html
@@ -579,12 +584,6 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/08-96/082696-Lick_Observatory_ma.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090496-Two_new_provosts_na.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090496-UCSC_hosts_Preview_.html
-
-
-<!--
-		ARTICLES FINISHED BY PHILIP
-
-
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090496-UCSC_political_scie.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090696-Bottom_layer_of_ear.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/091396-Astronomer_to_descr.html
