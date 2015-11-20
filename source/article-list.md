@@ -579,6 +579,12 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/08-96/082696-Lick_Observatory_ma.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090496-Two_new_provosts_na.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090496-UCSC_hosts_Preview_.html
+
+
+<!--
+		ARTICLES FINISHED BY PHILIP
+
+
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090496-UCSC_political_scie.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/090696-Bottom_layer_of_ear.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/09-96/091396-Astronomer_to_descr.html
@@ -610,11 +616,6 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/110896-Humanities_lecture_.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111196-UCSC_undergrads_hon.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111296-Hearst_Foundation_g.html
-
-<!--
-		ARTICLES FINISHED BY PHILIPs
-
-
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111496-UCSC_physicists_con.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111596-New_cookbook_benefi.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/11-96/111996-Cheers_at_the_Crow.html
