@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Wealth of exploring at UCSC this summer
+title: UCSC Offers A Wealth Of Experiences For The Summer Visitor
 author: Francine Tyler
 ---
-
-## UCSC Offers A Wealth Of Experiences For The Summer Visitor
 
 SANTA CRUZ, CA-Most people know that the University of California, Santa Cruz, offers far more than textbooks and lectures, and summertime can be a good time to learn just how much more is offered by the campus and its facilities. Whether one wants to learn about marine mammals, tour a 100- year-old observatory, or take a stroll through an exotic garden, UCSC offers the opportunity. Admission is free, unless otherwise noted.
 

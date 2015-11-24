@@ -1,10 +1,10 @@
 ---
 layout: post
-title: K-3 Teacher reading training at UCSC
+title: K-3 Teacher Reading Training At UCSC
 author: Jennifer McNulty
 ---
 
-## California Reading/literature Project At Ucsc Offers Teacher Training
+**California Reading/literature Project At UCSC Offers Teacher Training**
 
 What: The California Reading and Literature Project (CRLP) for the UCSC/Monterey Bay region is offering four one-week training institutes for K-3 teachers in the tri-county area this summer. More than 400 teachers will participate in the literacy institutes, which are being offered as part of Gov. Gray Davis's Elementary Reading Initiative.
 

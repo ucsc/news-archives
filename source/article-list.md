@@ -293,7 +293,6 @@ title: "News/Events: Press Releases, 1993-2001"
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092894-UC_Berkeley_scholar.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/092994-UCSC_creates_new_po.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/093094-UC_Santa_Cruz_tip_s.html -->
-Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/0090174/Ray_Film_and_Study_.html
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94/093094-UCSC_reports_324-mi.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/10-94/100794-UCSC_psychologist_E.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/94-95/10-94/101194-UCSC_archive_serves.html -->
@@ -770,68 +769,55 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/elvander.htm -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/FGdocents.htm -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/lead.htm -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/lml2.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/mooser.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/protein.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/scibowl.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/sscglen.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/auction99.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/beckman.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/cope.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/diller.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/gardentour.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/kepler.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/lead.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/navarette.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/polymer.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/sscglen.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/symposium.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/alumgift.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/bees.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/bookclub.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/bssf99.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/camp.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/cooperstein.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/crosby.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/deamer.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/delphasus.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/elders.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/epc.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/fairlie.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/gardentour.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/herbs.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/killion.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/mesa.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/mou.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/navarette.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/plantsale.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/sarira.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/spring.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/taylor.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/tpoint.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/vogt.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-aronson.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-baskin.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-biale.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-brown.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-eadie.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-field.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-hispanic.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-huffman.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-lipschutz.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-market_cart_opens.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-multiculti.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-poetry.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-politics.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-reinarman.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-ssc.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-suduiko.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-summer.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/cart.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/simpson.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/bilingual_summer_school.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/campaign.htm
-- http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/commencement99.htm
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/mooser.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/protein.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/scibowl.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/02-99/sscglen.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/auction99.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/beckman.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/diller.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/gardentour.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/kepler.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/navarette.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/polymer.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/03-99/symposium.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/alumgift.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/bees.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/bookclub.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/bssf99.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/camp.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/cooperstein.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/crosby.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/deamer.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/delphasus.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/elders.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/epc.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/fairlie.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/herbs.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/killion.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/mesa.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/mou.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/plantsale.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/sarira.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/spring.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/taylor.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/tpoint.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/vogt.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-aronson.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-baskin.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-biale.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-brown.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-eadie.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-field.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-hispanic.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-huffman.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-lipschutz.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-multiculti.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-poetry.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-politics.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-reinarman.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-ssc.htm -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/05-99/0599-suduiko.htm -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/dream_conference_at_ucsc.htm
 - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/engineering.htm
 - http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/excellence_in_teaching.htm

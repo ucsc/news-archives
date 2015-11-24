@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Lick Observatory's mail building damaged in fire
+title: Lick Observatory's Main Building Closed Through July 9 Due To Fire Damage
 author: Tim Stephens
 ---
-
-## Lick Observatory's Main Building Closed Through July 9 Due To Fire Damage
 
 MT. HAMILTON--The main building at Lick Observatory, temporarily closed due to a small fire on June 22, will not reopen until Saturday, July 10. Previously scheduled public events will still be held, including "Music of the Spheres" concerts scheduled for July 9 and 10. In addition, the 120-inch Shane telescope, which is housed in a separate building, will continue to be open during regular visiting hours.
 

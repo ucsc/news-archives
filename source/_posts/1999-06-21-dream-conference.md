@@ -1,10 +1,8 @@
 ---
 layout: post
-title: UCSC Hosts 16th Annual Dream Conference
+title: UC Santa Cruz To Host 16th Annual International Dream Conference July 7 - 10
 author: 
 ---
-
-## UC Santa Cruz To Host 16th Annual International Dream Conference July 7 - 10
 
 SANTA CRUZ, CA--Columbine High School student Grant Taylor survived the mayhem without injury, but he was haunted by nightmares. That first night, he dreamed he was a wounded hero, pulling others to safety. The next night, coping with feelings of guilt, he dreamed that he was wounded and dying.
 
@@ -15,7 +13,6 @@ This year's conference will include a special symposium on July 9, "Nightmare an
 "A century after Freud, contemporary psychotherapists still view dreams as the royal road to the unconscious, and dream exploration techniques are increasingly being used as a vehicle for therapy and emotional healing," said Siegel.
 
 The four-day conference features more than 100 events, including presentations by academic researchers and clinicians, workshops, seminars, and dream-sharing groups. Among the highlights:
-
 * The keynote address by leading sleep and dream researcher William C. Dement, a professor of psychiatry at Stanford University, who will discuss the modern era of sleep and dream research following the observations of rapid-eye movements during sleep, in a talk entitled, "Two Kinds of Sleep? Two Kinds of Dreams?"
 * Dreams and the Internet is another focus of the conference. Panel discussions will cover topics such as dream sharing on the Internet, online vs. offline ethics and practices of dream sharing, dream research and experimentation on the Internet, and commercialization on the Internet. In addition, a "Computer Cafe" will offer an ongoing drop-in place where conference attendees can participate in dream-related activities on the Internet, including dream chat rooms, software demonstrations, remote presentations, resource centers, and more.
 * A session on children's dreams and nightmares will be chaired by Siegel, coauthor of the new book Dreamcatching: Every Parent's Guide to Exploring and Understanding Children's Dreams and Nightmares. Panelists will discuss dreams as distress signals in a child's life and gender differences in children's dreams.

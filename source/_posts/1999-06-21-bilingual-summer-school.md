@@ -1,10 +1,8 @@
 ---
 layout: post
-title: UCSC Press Release:Bilingual summer school offerred
+title: UCSC, Life Lab, And Salinas School Offer Bilingual Summer School
 author: Jennifer McNulty
 ---
-
-## UCSC, Life Lab, And Salinas School Offer Bilingual Summer School
 
 What: A four-week bilingual summer school that gives students a significant boost in their language and science learning will be offered to 400 elementary students at Los Padres Elementary School in Salinas this summer.
 

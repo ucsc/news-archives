@@ -1,10 +1,8 @@
 ---
 layout: post
-title: UCSC Foundation elects new president, vice president
+title: UC Santa Cruz Foundation Elects New President, Vice President
 author: Francine Tyler
 ---
-
-## UC Santa Cruz Foundation Elects New President, Vice President
 
 SANTA CRUZ, CA--The UC Santa Cruz Foundation has elected Paul Irwin of Watsonville as president of the board and David Regan of Santa Cruz as vice president. The foundation promotes and supports academic programs, scholarships and fellowships, and capital improvements at UCSC through its private fund-raising efforts.
 

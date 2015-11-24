@@ -1,12 +1,10 @@
 ---
 layout: post
-title: UCSC completes final parking garage EIR
+title: UC Santa Cruz Completes Final EIR On Parking Structure; Project Goes Before Board Of Regents July 16
 author: Elizabeth Irwin
 ---
 
-## UC Santa Cruz Completes Final EIR On Parking Structure; Project Goes Before Board Of Regents July 16
-
-### Planning Document Includes New Mitigation Measure In Response To Public Concern About Project
+**Planning Document Includes New Mitigation Measure In Response To Public Concern About Project**
 
 SANTA CRUZ, CA--The final environmental impact report on a proposed parking structure at UC Santa Cruz, completed and distributed to local public agencies today, incorporates a new mitigation measure in response to concerns expressed about the project during the public comment period this past spring.
 
@@ -16,7 +14,8 @@ The UC Board of Regents will consider approving the Core West Parking Structure 
 
 If the EIR is certified and the project is approved by the Regents, the new mitigation measure would become a legally binding condition of project approval, Eadie said.
 
-Specifically, the new measure calls for UCSC to: * Plan and implement a number of transportation alternatives immediately as part of a one-year pilot program, including cooperating with the Santa Cruz Metropolitan Transit District to improve bus service to and from UCSC, expanding carpool and vanpool programs on campus, improving campus shuttle service, providing additional support for bicycling, and cooperating with local and regional agencies in the development of off-campus park-and-ride lots.
+Specifically, the new measure calls for UCSC to: 
+* Plan and implement a number of transportation alternatives immediately as part of a one-year pilot program, including cooperating with the Santa Cruz Metropolitan Transit District to improve bus service to and from UCSC, expanding carpool and vanpool programs on campus, improving campus shuttle service, providing additional support for bicycling, and cooperating with local and regional agencies in the development of off-campus park-and-ride lots.
 * Convene a university-city transportation task force that develops long-term solutions to transportation and parking issues related to local, regional, and UCSC growth.
 * Hire a transportation consulting firm, with experience in the development of transportation alternative programs in a college setting, to develop a comprehensive Transportation System Management Improvement Program for the campus that expands on the existing UCSC program.
 * Improve UCSC's faculty and staff "average vehicle ridership" (AVR), the ratio of commuters to the vehicles that they use, by 5 percent within the next five years.

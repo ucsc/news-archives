@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Engineering building named for Baskin
+title: UC Santa Cruz Names Engineering Building In Honor Of Jack Baskin
 author: Tim Stephens
 ---
-
-## UC Santa Cruz Names Engineering Building In Honor Of Jack Baskin
 
 SANTA CRUZ, CA--At the dedication today of the Jack Baskin School of Engineering at the University of California, Santa Cruz, Chancellor M.R.C. Greenwood announced the renaming of the building that houses the engineering school, formerly the Applied Sciences Building and now the Jack Baskin Engineering Building. The building is being renamed in honor of engineer and retired developer Jack Baskin, whose gifts to the School of Engineering since 1983 total nearly $7 million.
 
