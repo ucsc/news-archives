@@ -400,10 +400,10 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/05-96/052896-Exhibit_features_ar.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/05-96/052996-Organic_produce_and.html -->
 <!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/05-96/053196-Researcher_studies_.html -->
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/060496-Library_friends_ann.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-Dyslexic_UCSC_grad_.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-Graduation_ceremoni.html
-- http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-UCSC_Arboretum_offe.html
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/060496-Library_friends_ann.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-Dyslexic_UCSC_grad_.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-Graduation_ceremoni.html -->
+<!-- - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-UCSC_Arboretum_offe.html -->
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061196-UCSC_grads_honor_in.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061296-Ocean_Drilling_Prog.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/06-96/061496-New_agency_to_opera.html
