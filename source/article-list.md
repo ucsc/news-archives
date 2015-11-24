@@ -459,6 +459,11 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/111795-New_book_by_UCSC_so.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112195-Eminent_San_Francis.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112295-UCSC_scientists_imp.html
+
+<!--
+		ARTICLES FINISHED BY PHILIP
+
+
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/11-95/112395-Study_unveils_new_w.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120195-Long_Marine_Lab_off.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/95-96/12-95/120595-UCSC_Science_Tip_Sh.html
@@ -491,11 +496,6 @@ Broken link: http://www1.ucsc.edu/news_events/press_releases/archive/94-95/09-94
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-Hubble_Telescope_se.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_alumna-novelis.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020697-UCSC_hosts_workshop.html
-
-<!--
-		ARTICLES FINISHED BY PHILIP
-
-
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/020797-Multiobject_spectro.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021097-UCSC_scholar_receiv.html
 - http://www1.ucsc.edu/news_events/press_releases/archive/96-97/02-97/021297-UCSC_ranks_15th_in_.html
