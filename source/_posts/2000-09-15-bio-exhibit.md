@@ -13,7 +13,6 @@ Zúñiga was invited to take part in a day of special activities at the museum o
 "I'm very excited about it," she said. "It will be interesting to see the other exhibits and to talk to the students who come to the museum."
 
 In addition to Zúñiga, the featured scientists include:
-
 * Albert Baez, Physicist, President of Vivamos Mejor/USA
 * George Castro, Associate Dean of College of Science, San Jose State University
 * Mario Molina, Chemist and Atmospheric Scientist, MIT

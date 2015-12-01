@@ -25,13 +25,12 @@ Trade-related job losses are concentrated in manufacturing industries where impo
 The idea of wage insurance has been around for about 15 years, but Kletzer is the first economist who has analyzed displacement figures and identified the relatively small portion of workers who experience the greatest need for assistance. That finding enabled Kletzer and Litan to conclude that a wage insurance program tailored to serve those workers would cost much less than expected: If workers received 50 percent of their earnings loss, the program would cost from $2.9 billion to $3.8 billion a year depending on maximum annual assistance levels.
 
 Key elements of the Kletzer-Litan proposal are:
-
 * Workers would receive no benefits until they begin a new job
 * Benefits could range from 30 percent to 70 percent of the total reemployment earnings loss
 * Benefits would not exceed an annual cap for each worker
 * To be eligible, workers must have been displaced from a full-time job they had held for a minimum of two years
 
-** **Although some people oppose the proposal on the grounds that it would create a new government program, many policy makers and pundits recognize that efforts to promote free trade have stalled since massive public protests disrupted the World Trade Organization's meeting in Seattle in December 1999.
+Although some people oppose the proposal on the grounds that it would create a new government program, many policy makers and pundits recognize that efforts to promote free trade have stalled since massive public protests disrupted the World Trade Organization's meeting in Seattle in December 1999.
 
 Referring to the lost momentum on trade policy, _Washington Post_ columnist David S. Broder wrote on Sunday, March 18, that there is "near-universal concern that the hiatus has gone on dangerously long." He went on to write that Kletzer and Litan's proposal "hints at the kind of open-mindedness that will be needed to build broader political support for free trade." In the National Journal's _Technology Daily_, a piece by William New was titled "Why Didn't We Think of this Before?" In the April 2 _Business Week_, Charles J. Whalen noted the timeliness of the proposal.
 

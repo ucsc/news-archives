@@ -9,7 +9,6 @@ author: Jennifer McNulty
 SANTA CRUZ, CA--With a little preparation, Central Coast gardeners can harvest food from their gardens all year round. Learn how to prepare your garden for fall and winter at a four-hour workshop at UC Santa Cruz on Sunday, September 27, from 9 a.m. to 1 p.m. The class will take place at the UCSC Farm.
 
 Instructor Albie Miles will cover topics including:
-
 * variety selection and planting times for fall and winter vegetable and fruit crops
 * seasonal care of the soil, including mulches and cover crops
 * a demonstration of direct sowing and transplanting techniques

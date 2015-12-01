@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Student callers raise $1 million
+title: Student Callers Raise Record $1 Million For UC Santa Cruz
 author: Francine Tyler
 ---
-
-## Student Callers Raise Record $1 Million For UC Santa Cruz
 
 SANTA CRUZ, CA--Night after night during the academic year, a dedicated corps of UC Santa Cruz students takes to the telephones, dialing alumni and parents of current students to ask them to support the campus and its programs. This year, these students passed a major milestone: For the first time since the inception of a UCSC telephone fund-raising program in 1984, the students have raised more than $1 million in funding for the campus.
 
