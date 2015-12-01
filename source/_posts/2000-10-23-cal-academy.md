@@ -8,7 +8,6 @@ SANTA CRUZ, CA--From a biologist who studies the nearshore marine environment to
 
 The academy is governed by the Fellows, a distinguished group of eminent scientists appointed in recognition of their notable   
 contributions to one or more of the natural sciences. Nominated by their colleagues and appointed by the Board of Trustees, the Fellows remain members of the Fellowship for life. The UCSC researchers are among 19 new fellows who were inducted October 14\. They are:
-
 * Laurel Fox, professor of ecology and evolutionary biology
 * Marc Mangel, professor of environmental studies
 * Peter T. Raimondi, associate professor of ecology and evolutionary biology

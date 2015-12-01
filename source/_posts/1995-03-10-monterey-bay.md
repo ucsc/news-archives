@@ -19,11 +19,8 @@ At a workshop last year, participants from about twenty area  institutions agree
 "Our region is undergoing massive transformations," says Fox.  "The growing number of people affects land use, habitats, the sea-- virtually everything in the environment. The coastline represents a  filter to these natural and social processes, rather than a barrier."
 
 The workshop served as a starting point for researchers at  various agencies to talk more with each other about their work. To  get MBRS fired up in a formal way, participants advised that UCSC  take the lead in creating its initial programs. In response, Fox and  her colleagues have planned the following:
-
 * A spring-quarter seminar for graduate students and  advanced undergraduates at UCSC on marine and environmental  issues, such as fisheries, the effects of ecotourism on the bay, and  the impacts of agriculture on the region. Professor of marine  sciences Mary Silver and associate professor of environmental  studies Margaret FitzSimmons will teach the course.
-
 * A one-day symposium in the spring focusing on Monterey  Bay's fisheries. Invited speakers will explore how global climate  changes may affect coastal fisheries, including their history in the  region and their regulation. The symposium will be free and open to  the public; a date and time will be announced later this month.
-
 * Three demonstration projects to begin in July. Funding from  Chancellor Pister will provide seed money for the projects and  financial support for graduate student researchers. One possible  topic is the dynamics and management of maritime chaparral  habitats, including hundreds of acres of relatively unspoiled land at  Fort Ord. Researchers also plan to increase their involvement at  Elkhorn Slough, where investigators from many agencies are  exploring the effects of farming practices on the slough's delicate  marshes and wildlife.
 
 MBRS faculty and students at UCSC also have started a monthly  series of informal gatherings to discuss topics of mutual interest.  For instance, speakers at a March 7 meeting on "perceptions of  nature" included wildlife biologist James Estes, geographer Margaret  FitzSimmons, and politics expert Ronnie Lipschutz.

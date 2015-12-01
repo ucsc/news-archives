@@ -19,17 +19,11 @@ Current projections for the MBEST Center envision several  million square feet o
 The UC Fort Ord Project team has identified four "market  niches" around which growth at the MBEST Center will revolve:  environmental science, technology, and instrumentation, especially  coastal applications; biotechnology, emphasizing agricultural and  marine applications; information science and technologies; and  multimedia education and entertainment. The team chose those areas  for their connections to existing regional strengths and for their  growth potential.
 
 The Economic & Planning Systems study will explore the  logistical details of how to bring the center into being. "The  business plan will be a strategic blueprint to help link Fort Ord and  the Monterey Bay region to emerging high-technology markets," says  James Musbach, lead consultant on the MBEST study. Musbach's team  will focus on the following:
-
 * A revised master plan for land use.
-
 * A strategic development plan for the first five years of the  project.
-
 * A comprehensive business plan, with short-term and long- term projections of the financial resources--predominantly  generated from the project itself--needed for the center to flourish.
-
 * Agreements and jurisdictional understandings with  neighboring governments.
-
 * A telecommunications plan for making the center a hub of  advanced communications infrastructure and technologies.
-
 * Strategies for marketing, developing, and operating the  center, and for communicating with legislators, financiers, and  other key audiences.
 
 Economic & Planning Systems, one of the leading business  development consulting firms in northern California, has an  established track record in real-estate economics, regional  economic development, and public finance. Consultants at the firm  have worked extensively on major reuse projects at military bases  throughout California and at the Stapleton International Airport and  the Rocky Flats Nuclear Weapons Plant in Colorado. Subcontractors  on the business plan include the ROMA Design Group and  DRI/McGraw-Hill, both of San Francisco, and DMS Research & Consulting of Santa Cruz.

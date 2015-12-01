@@ -13,27 +13,16 @@ The awards were established last year to recognize talented  students who have o
 This year's recipients are:
 
 * Carol Arp of Santa Clara, Mission College
-
 * Jason Beckwith of Redwood City, Canada College
-
 * Jamie M. Forrest of San Jose, West Valley College
-
 * Luz P. Garcia of Salinas, Hartnell College
-
 * Kristy L. Groel of Seaside, Monterey Peninsula College
-
 * Leah Patrice Hunt of Gilroy, Gavilan College
-
 * Michael A. Johnson of San Jose, Evergreen Valley College
-
 * Mark Lucas of San Jose, San Jose City College
-
 * Janeen Erin Malatesta of South San Francisco, College of San Mateo
-
 * Ryan Mayfield of Daly City, Skyline College
-
 * Soonya Shefayee of Mountain View, Foothill College
-
 * Carmen Youpa of Santa Cruz, Cabrillo College
 
 Up to thirteen recipients will be selected each year, and each  recipient will gain valuable work experience through paid summer  jobs that are cosponsored by private- and public-sector  employers. Last year's recipients, who recently finished their first  year at UCSC, have arranged summer internships with IBM, the Santa  Clara County Office of Education, the City of Watsonville, the Yo  Puedo Program of the Monterey County Office of Education, and other  organizations.
