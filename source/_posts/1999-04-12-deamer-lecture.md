@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Membranes, Martians, and Meteorites" Lecture At UCSC April 17
+title: "'Membranes, Martians, and Meteorites' Lecture At UCSC April 17"
 author: Tim Stephens
 ---
 
