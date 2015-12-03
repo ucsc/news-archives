@@ -7,14 +7,10 @@ author: Jennifer McNulty
 SANTA CRUZ, CA--Four professors in the Division of Social Sciences at the  University of California, Santa Cruz, were honored today (Wednesday,  October 9) for their excellence in teaching.
 
 The recipients of the Division of Social Sciences 1996 Distinguished  Teaching Awards are:
-
-\-- John Borrego, associate professor of community studies
-
-\-- Mark Harmon, assistant professor of politics
-
-\-- Avril Thorne, associate professor of psychology
-
-\-- Carl Walsh, professor of economics
+* John Borrego, associate professor of community studies
+* Mark Harmon, assistant professor of politics
+* Avril Thorne, associate professor of psychology
+* Carl Walsh, professor of economics
 
 The award, which recognizes outstanding undergraduate teaching in the  social sciences, carries with it a $500 cash prize and an engraved plaque  that features a "golden apple."
 
