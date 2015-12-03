@@ -19,8 +19,8 @@ Applications to UCSC soared for a place in this coming fall's freshman class. Th
 "These numbers make clear that UC Santa Cruz is a campus of choice for an increasing number of college-bound students," said J. Michael Thompson, UCSC's associate vice chancellor for outreach, admissions, and student academic services.
 
 Not only did interest in UCSC among freshman applicants increase at a level that outpaced other UC campuses, that interest spanned California's many ethnic groups. In the following ethnic groups, freshman applications to UCSC increased by the largest percentage in the entire UC system: Latinos, 39.8 percent; African Americans, 36.1 percent; Filipino Americans, 34.1 percent; Chicanos, 28.6 percent; and Asian Americans, 19.1 percent.   
-**  
-**Freshman applications to UCSC from "White/Other Students" increased 20.7 percent, second in the UC system; the number of freshman applications from American Indians also increased--by 13.8 percent at UCSC, fourth in the UC system.
+
+Freshman applications to UCSC from "White/Other Students" increased 20.7 percent, second in the UC system; the number of freshman applications from American Indians also increased--by 13.8 percent at UCSC, fourth in the UC system.
 
 Thompson called the ethnicity numbers exceptional, adding: "UC Santa Cruz takes seriously its responsibility to educate and train the people who will be leaders in the state tomorrow, so it is critically important that our campus attract students who are representative of California's diverse citizenry."
 

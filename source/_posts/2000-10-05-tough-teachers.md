@@ -11,7 +11,6 @@ Student diversity must be met by a diverse teaching force if U.S. schools are to
 "The image of teaching still remains something that middle- class white women do because they like having summers off, but that is so different from the reality," said Gordon, whose research goal is to build a greater understanding of why students of color do not choose to become teachers. "Understanding the complexity of teaching and portraying the reality of the profession would help correct misperceptions."
 
 Contrary to public perception, teaching is a creative, challenging, and rewarding profession that requires risk-taking and commitment, said Gordon. Starting salaries of $39,000 in the Santa Cruz area rival beginning salaries at universities for assistant professors with doctoral degrees, she said. Recruiting people of color will require systemic changes, including:
-
 * Improved K-12 education. "A lot of kids don't have the option of going into teaching because their own educations are inadequate," she said.
 * Increased options for teachers of color. "You can't assume that a Latino teacher will want to work in a Latino community," said Gordon, adding that such "tracking" of teachers is common.
 * Greater awareness of the importance of teaching.
@@ -25,17 +24,5 @@ Contrary to public perception, teaching is a creative, challenging, and rewardin
 Editor's Note: Gordon will deliver her keynote address at National- Louis University's Wheaton Campus, Room 4400, 200 Naperville Road in Wheaton, Illinois, (630) 668-3838.
 
 June A. Gordon, an assistant professor of education at the University of California, Santa Cruz, teaches courses in social and cultural diversity with an emphasis on urban education. Her research focuses on factors that hinder the access and success of marginalized students in the United States, England, and Japan.
-
-To reach Gordon in Chicago: Oct. 5-7: Hampton Inn in Naperville (630) 505-1400
-
-To reach Gordon in Santa Cruz:
-
-home: (831) 425-2060
-
-office: (831) 459-3234
-
-email: [jagordon@cats.ucsc.edu][2]
-
-To request a review copy of The Color of Teaching (London: Routledge/Falmer Press, 2000), contact Jennifer McNulty in the UCSC Public Information Office at (831) 459-2495 or via e-mail at [jmcnulty@cats.ucsc.edu][1].
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/00-01/10-00/color_teaching.htm "Permalink to UCSC Press Release:Today's challenge for educators: attracting minority teachers")

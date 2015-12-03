@@ -10,13 +10,13 @@ Each of UCSC's nine colleges will hold a commencement ceremony. In addition, the
 
 The following is the schedule for commencements at UCSC:
 
-### **Friday, June 8**
+**Friday, June 8**
 
 **College Nine:** Keynote speaker is Martin Chemers, dean of social sciences at UCSC. 3 p.m., College Nine patio, between apartment buildings 4 and 5. For more information, call 459-3142.
 
 **Graduate Division:** Ceremony for master's and Ph.D. recipients. Keynote speaker is UCSC alumnus Geoffrey Marcy, professor of astronomy at UC Berkeley. 5 p.m., Santa Cruz Civic Auditorium. For more information, call 459-2510.
 
-### **Saturday, June 9**
+**Saturday, June 9**
 
 **Merrill College:** Keynote speaker is David Sweet, professor of history. 9 a.m., East Field. For more information, call 459-5534.
 

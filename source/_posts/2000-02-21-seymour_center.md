@@ -28,8 +28,6 @@ Long Marine Lab's education programs include professional development for K-12 t
 
 Private donations funded nearly all of the Seymour Center's $6.25 million cost, including a cornerstone contribution from H. Boyd Seymour Jr. of San Francisco. Seymour's gift of $2 million honors his father, Harry Boyd Seymour (1896-1977), and his grandfather, Arthur McArthur Seymour (1864-1919). Numerous other individuals and foundations also made significant gifts.
 
-**********************
-
 GRAND OPENING OF THE SEYMOUR CENTER AT LONG MARINE LABORATORY
 
 The grand opening celebration on the weekend of March 11-12 will include live music, food, and special programs throughout the center. The center will be open from 10 a.m. to 5 p.m. on Saturday and noon to 5 p.m. on Sunday. Admission fees will be $5 for adults and $3 for seniors (age 60 and older), students, and children ages 6 to 16; admission will be free for children age 5 and under.

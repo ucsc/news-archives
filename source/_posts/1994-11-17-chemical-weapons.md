@@ -19,13 +19,9 @@ Further basic research in several areas would do much to break  the deadlock, th
 Research also could lead to better ways of detecting leaks or  spills both inside and outside destruction facilities, the report  states. "Technology exists to monitor for leaks along natural-gas  pipelines," says Bunnett. "In principle, it is possible to make similar  devices to detect trace amounts of a chemical warfare agent and  identify it immediately. This would help ease the concerns of  neighbors."
 
 Other recommendations of the task force include:
-
 * Develop techniques to determine the types of agents in old  weapons found in lakes and seas or dug up on battlefields or old  military posts from World War I and II.
-
 * Refine knowledge of the chemistry of "mustard," an agent  that often forms dangerous gels or crusty solids in old containers.
-
 * Develop ways to detect, with great accuracy, whether tiny  amounts of an agent survive a destruction process.
-
 * Investigate whether chemical brines that result from  burning or neutralizing an agent might safely be discharged into the  ocean.
 
 Bunnett notes that the U.S. Army largely stopped its research  program on how to destroy chemical warfare agents in 1982, when it  concluded that incinerating the agents and their containers was the  best approach. Recently, reports from the National Research Council- -to which Bunnett contributed--have noted that other approaches  also may be feasible, such as chemically neutralizing the agents. In  response, some research has resumed, both within the Army and by  civilian scientists. The IUPAC task force urges a more concerted  effort. "There is still time to do such research," Bunnett says. "It is  insurance against future trouble, and it is a rock-bottom necessity."

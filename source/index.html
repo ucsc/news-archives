@@ -17,7 +17,7 @@ title: Mainpage
     		    <a href="{{ post.url }}">
                       <span>{{ post.date | date: "%d %B %Y" }}</span>
     		        <h3>{{ post.title }}</h3>
-                      <div>{{ post.content |truncatehtml | truncatewords: 30 }}</div>
+                      <div>{{ post.content | truncatehtml | truncatewords: 30 }}</div>
     		    </a>
     		  </li>
     		{% endfor %}
@@ -30,7 +30,7 @@ title: Mainpage
           {% if paginator.previous_page == 1 %}
           <a href="/">Previous</a>
           {% else %}
-          <a href="/page{{paginator.previous_page}}"> Previous</a>
+          <a href="/page/{{paginator.previous_page}}"> Previous</a>
           {% endif %}
         </p>
         {% else %}
@@ -53,7 +53,7 @@ title: Mainpage
             {% if count == paginator.page %}
             <span class="current-page">{{count}}</span>
             {% else %}
-            <a href="/page{{count}}">{{count}}</a>
+            <a href="/page/{{count}}">{{count}}</a>
             {% endif %}
           </li>
           {% endfor %}
@@ -61,7 +61,7 @@ title: Mainpage
 
         {% if paginator.next_page %}
         <p class="next">
-          <a href="/page{{paginator.next_page}}">Next</a>
+          <a href="/page/{{paginator.next_page}}">Next</a>
         </p>
         {% else %}
 <!--         <p class="next disabled">
@@ -72,4 +72,3 @@ title: Mainpage
 
     </main>
   </div>
-

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magic Bus Ride" brings students to campus
+title: "'Magic Bus Ride' brings students to campus"
 author: Jennifer McNulty
 ---
 

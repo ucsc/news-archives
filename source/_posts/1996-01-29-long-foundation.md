@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grant From Long Foundation Expands Pacific Rim Collection At UC Santa Cruz Library
-author:Barbara McKenna
+author: Barbara McKenna
 ---
 
 SANTA CRUZ, CA--A $50,000 gift from the J. M. Long Foundation to  the University Library at the University of California, Santa Cruz,  will be used to update and expand the library's collection of Pacific  Rim materials. With the expansion, the UCSC Library collection will  offer an outstanding resource to faculty, students, and the local  community in a burgeoning field of study.

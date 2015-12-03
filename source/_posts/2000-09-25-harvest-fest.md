@@ -17,7 +17,6 @@ As always, gardeners will have opportunities to soak up information about garden
 To enter the scarecrow contest, please register by calling John Fisher at (831) 459-3248 or sending him e-mail at johnfish@cats.ucsc.edu. Teams of up to four people are welcome.
 
 Entries must conform to the following guidelines:
-
 * The height of each scarecrow should not exceed seven feet, six inches, nor should it be less than five feet.
 * For display purposes, please build your scarecrow on a pole and leave at least two feet below so the scarecrow can be freestanding after it is set in the ground.
 * Near the end of the festival you may take your scarecrow home or donate it to the Farm.

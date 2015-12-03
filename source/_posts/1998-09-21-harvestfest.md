@@ -16,9 +16,6 @@ Admission to the festival is $3; admission is free for children 12 and under and
 
 The Farm is located 1/4 mile up the gravel road above the Blacksmith Shop; free public parking is available across the street from the Blacksmith Shop in the Physical Plant parking lot.
 
-
-#####
-
 MUSICAL ENTERTAINMENT
 
 11:30-12:45 Irish music by Dance Around Molly

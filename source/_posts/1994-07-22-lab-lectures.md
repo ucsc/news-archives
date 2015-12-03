@@ -13,21 +13,15 @@ Proceeds from the lecture series will benefit public education  programs at Long
 Speakers and their topics are as follows:
 
 Tuesday, August 30
-
 * Mark Silberstein, director of the Elkhorn Slough Foundation:  "Tall Tales from the Deep (and the Shallow)"
-
 * James Harvey, assistant professor at Moss Landing Marine  Laboratories: "Rescues and Miscues of Marine Mammals: Human- Marine Mammal Interactions"
 
 Tuesday, September 6
-
 * Terrie Williams, assistant professor of biology at UC Santa  Cruz: "Hot Bodies in Cold Water: Do Dolphins Sweat and Sea Otters  Shiver?"
-
 * Daniel Costa, professor of biology at UC Santa Cruz: "Marine  Mammals and Low-Frequency Sound"
 
 Tuesday, September 13
-
 * Greg Cailliet, professor at Moss Landing Marine  Laboratories:  "Down to the Sea in Ships and Subs: Deep-Water Fishes and Their  Habitats"
-
 * Judith Connor, researcher at the Monterey Bay Aquarium  Research Institute: "New Technology--A Link to Deep-Sea Science"
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/94-95/07-94/072294-Long_Marine_Lab_lec.html "Permalink to 072294-Long_Marine_Lab_lec")

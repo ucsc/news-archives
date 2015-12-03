@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Cooperstein named Pew Scholar
+title: Mathematics Professor Bruce Cooperstein Named Pew Scholar
 author: Tim Stephens
 ---
-
-## Mathematics Professor Bruce Cooperstein Named Pew Scholar
 
 SANTA CRUZ, CA--The Carnegie Foundation for the Advancement of Teaching has named UC Santa Cruz professor of mathematics Bruce Cooperstein a Pew Scholar for 1999-2000. The award, which includes a stipend of $6,000, will support Cooperstein's efforts to improve teaching and learning in mathematics.
 

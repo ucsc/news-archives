@@ -13,7 +13,6 @@ Keynote addresses will be delivered by Crystal A. Kuykendall and Ellen Moir. Kuy
 Moir is the executive director of the New Teacher Center at UC Santa Cruz. "Luckily, we are starting to recognize that great teachers are not born but developed over time," said Moir. "There's a lot we can do to facilitate that development, and we needto recognize that good teachers need time, careful training, and ongoing support to become the mentors for the next generation of beginning teachers."
 
 During the conference, more than two dozen concurrent professional development sessions will address the needs and interests of teachers at the elementary and secondary levels. Topics will include:
-
 * enhancing the classroom environment
 * increasing parental involvement
 * making algebra accessible

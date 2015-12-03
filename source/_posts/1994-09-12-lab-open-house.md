@@ -9,21 +9,13 @@ SANTA CRUZ, CA--Lovers of marine science, adults and children  alike, won't want
 The Long Marine Lab is a marine-research facility operated by  UC Santa Cruz. Located at the northern end of Monterey Bay, the lab  devotes its resources to understanding the bay's unique environment  and to addressing other worldwide issues in the marine sciences.
 
 Activities at this year's open house include the following:
-
 * Lively demonstrations of sea-lion research projects.
-
 * Open research labs with advanced microscope equipment,  marine jellies, and other creatures.
-
 * A "children's corner," touch tanks, and many other marine- oriented activities for kids.
-
 * Talks, videos, and slide shows by marine researchers.
-
 * A spectacular exhibit of butterflies from around the world.
-
 * Live music by Pacific Rhy'm.
-
 * Free cookies, coffee, and tea provided by the lab's docents.
-
 * A barbecue lunch for a small charge.
 
 Parking is available at Silicon Systems, 2300 Delaware  Avenue. Shuttle buses will transport people to the lab.

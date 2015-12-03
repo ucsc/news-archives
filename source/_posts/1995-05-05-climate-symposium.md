@@ -11,13 +11,9 @@ The symposium is cosponsored by the Monterey Bay Aquarium  and Monterey Bay Regi
 Four speakers at the symposium will review the history of fish  management and policy in California and other regions,  environmental changes that are affecting nearshore ecosystems, and  the impacts of these changes on fish populations. Questions from the  audience will follow each talk.
 
 Scheduled to speak are the following researchers:
-
 * Alec MacCall, fisheries biologist and director of the Tiburon  Laboratories, National Marine Fisheries Service, Tiburon
-
 * Arthur McEvoy, professor of law at the University of  Wisconsin Law School
-
 * Richard Parrish, fisheries biologist with the Pacific  Fisheries Environmental Group, National Marine Fisheries Service,  Monterey
-
 * Courtland Smith, professor of anthropology at Oregon State  University
 
 "Fisheries have always formed an integral part of human  interactions with the Monterey Bay system," says Laurel Fox,  professor of biology at UCSC and director of MBRS. "We need look no  further than the bay's fisheries to observe the dramatic impacts  that we can have on the ocean. In order to form wise policies for the  future, we also must understand how climate variations can affect  these interactions."

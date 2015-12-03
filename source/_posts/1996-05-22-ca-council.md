@@ -17,7 +17,6 @@ At their private meetings, participants saw demonstrations of  communication and
 The state legislature created CCST in 1988 to provide  independent findings on public-policy issues in science and  technology that affect the state's economy. The council comprises  30 corporate CEOs, academicians, scientists, and eminent scholars,  directed by a 11-member Board of Directors. Six key academic  institutions sponsor the council: the University of California,  California State University, the California Community Colleges, the  California Institute of Technology, Stanford University, and the  University of Southern California.
 
 The primary objectives of CCST, which meets four times each  year, are as follows:
-
 * identify the long-range research requirements to sustain the  state's economic development and competitiveness;
 * provide direction for new scientific and technological  activities;
 * stimulate technology-transfer links between university  researchers and the private sector;
