@@ -24,7 +24,6 @@ Climate modelers have united to study the Last Glacial Maximum,  when ice sheath
 
 The direction of the most damaging shaking in a quake at any one  place often depends more upon geologic structures near the surface  than the location or the mechanism of the quake itself.
 
-####
 
 (1) Study unveils a way to probe fault zones before a quake hits
 
@@ -44,7 +43,6 @@ Revenaugh adapted a technique used by researchers to monitor  nuclear tests. Eff
 
 He notes that the method will not unravel the tectonic  complexities of the Los Angeles Basin, because most faults there  rupture in a different way and are too close together for the method  to resolve. But he feels confident it will shed light on locked  segments of major strike-slip faults--such as a long stretch of the  San Andreas from Cholame to San Bernardino, which unleashed a  huge earthquake (bigger than magnitude 8) in 1857 but hasn't budged  since.
 
-####
 
 (2) A 5000-year "movie" of earthquake activity in southern  California
 
@@ -66,8 +64,6 @@ At the AGU meeting, Ward will discuss his latest work--a  maplike 5,000-year cat
 
 "This is a computer model, but it satisfies all of the observed  data we know," Ward adds. He says the model can contribute to an  overall map of seismic hazard for the region.
 
-####
-
 (3) A thin, partially molten region in the lower mantle, just above  the core?
 
 Wednesday, December 13, 4-5 p.m. Session S32E, talks #10, 11, and 13 Moscone Center, room 304 Speakers: Quentin Williams (408/459-3132 or quentw@rupture.ucsc.edu), Thorne Lay (408/459-3164 or thorne@rupture.ucsc.edu), and Ed Garnero  (408/459-5139 or eddie@rupture.ucsc.edu)
@@ -88,8 +84,6 @@ Williams notes his interpretation depends critically on the  seismic data. If th
 
 If the partial-melt hypothesis bears up, it could provide a new  gauge of the temperature of that zone. Such fixed points of reference  for the inner earth, Williams says, are hard to come by.
 
-####
-
 (4) Supercomputer models open new window on icy era
 
 Monday, December 11, 2 p.m. Session O12A, talk #2 Moscone Center, room 310 Speaker: Lisa Sloan (408) 459-3693 or lcsloan@earthsci.ucsc.edu
@@ -106,7 +100,6 @@ Sloan also had GENESIS consider a scenario where more heat  flowed through the o
 
 GENESIS also concluded that the massive ice sheet over North  America did not force the jet stream to divide, contrary to what  researchers had assumed. PMIP scientists developed a new model of  the planet's icy blanket at the Last Glacial Maximum, with a  somewhat thinner layer of ice overlying North America. The jet  stream, so critical to weather patterns, then whizzes intact across  the continent instead of splitting in two and rejoining in the North  Atlantic. All PMIP models thus far agree on this result, Sloan notes.
 
-####
 
 (5) Near-surface geology dramatically affects direction of  earthquake shaking
 
