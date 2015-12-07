@@ -33,4 +33,20 @@ Patrick Mantey, Jack Baskin Professor of Computer Engineering  at UCSC and dean 
 
 Greenwood and Mantey also foresee close links between the  School of Engineering and the UC Monterey Bay Education, Science,  and Technology (MBEST) Center, a research and technology park that  UCSC is developing in Marina at the site of the former Fort Ord  military base. MBEST tenants will draw upon the expertise of nearly  two dozen research and educational institutions in the Monterey Bay  Research Crescent to study issues relating to information  technology, environmental science, biotechnology, and other fields.
 
+![\[Photo of group at news conference\]][1]
+![\[Photo of M.R.C. Greenwood and Jack Baskin\]][2]
+![\[Photo of Jack Baskin at podium\]][3]
+![\[Photo of Chancellor Greenwood and Patrick Mantey\]][4]
+![\[Photo of Chancellor Greenwood and Mantey presenting plaque to Baskin\]][5]
+![\[Photo of Peggy Downes Baskin and President Caret of San Jose State University\]][6]
+![\[Photo of Chancellor Greenwood and former chancellor Karl Pister\]][7]
+
+[1]: http://www1.ucsc.edu/oncampus/art/engineer.photo.gif
+[2]: http://www1.ucsc.edu/oncampus/art/engineer.baskin.gif
+[3]: http://www1.ucsc.edu/oncampus/art/engineer.news.gif
+[4]: http://www1.ucsc.edu/oncampus/art/engineer.mantey.gif
+[5]: http://www1.ucsc.edu/oncampus/art/engineer.plaque.gif
+[6]: http://www1.ucsc.edu/oncampus/art/engineer.downes.gif
+[7]: http://www1.ucsc.edu/oncampus/art/engineer.pister.gif
+
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-UCSC_launches_the_J.html "Permalink to 051697-UCSC_launches_the_J")
