@@ -4,6 +4,8 @@ title: National Supercomputing Partnership Includes UC Santa Cruz As Contributin
 author: Robert Irion
 ---
 
+![\[Photo of Sandra Faber\]][1]
+
 SANTA CRUZ, CA--The National Science Foundation announced on  March 28 that it will negotiate a five-year agreement with the  University of California, San Diego, to revolutionize high-performance computing resources for the nation's scientists  and engineers. UC Santa Cruz is one of 37 institutions that will  contribute to the program, called the National Partnership for  Advanced Computational Infrastructure (NPACI).
 
 New supercomputing capabilities will help researchers tackle  currently intractable problems, such as targeted drug development,  the design of new materials with specific characteristics, and  detailed weather prediction. Such advances will become feasible as  NPACI researchers create a national "metacomputing" environment,  linking large numbers of powerful computers, data archives, and  visualization systems via ultra-high-speed networks. The system  ultimately will analyze multiple collections of data containing more  than one trillion bytes of information.
@@ -23,5 +25,7 @@ Three UCSC computer scientists are coprincipal investigators:  associate dean an
 The University of California system will contribute to NPACI  by providing high-speed fiber optics data transmission lines for the  faculty members and programmers involved. The Santa Cruz campus  also will provide significant "in-kind" support for the program in the  form of dedicated workstations and other hardware, as well as the  time of researchers.
 
 Other northern California partners in NPACI are UC Berkeley,  UC Davis, UC San Francisco, Stanford, Lawrence Berkeley National  Laboratory, and Lawrence Livermore National Laboratory.
+
+[1]: http://www1.ucsc.edu/oncampus/art/sandra_faber.250.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/033197-UCSC_is_member_of_n.html "Permalink to 033197-UCSC_is_member_of_n")

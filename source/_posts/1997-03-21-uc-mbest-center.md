@@ -28,4 +28,12 @@ In October, UCSC received $1 million from the Economic  Development Administrati
 
 An earlier EDA grant of $1.2 million funded the work of two  teams of consultants on the master plan; a business plan, which  recommends a functional structure and evaluates the center's short-term and long-term financial feasibility; and a market  analysis, which recommends actions for the region and the  university to attract educational and research businesses. The grant  also funded the work of MBEST staff at UCSC.
 
+![\[Color map of Monterey Bay, showing location of MBEST Center\]][1]
+![\[Color map of area north of Monterey, showing location of MBEST Center\]][2]
+![\[Color map showing phases in which UC MBEST Center will be built\]][3]
+
+[1]: http://www1.ucsc.edu/oncampus/art/mbest.map2r.gif
+[2]: http://www1.ucsc.edu/oncampus/art/mbest.map6L.gif
+[3]: http://www1.ucsc.edu/oncampus/art/mbest.map10L.gif
+
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/032197-Regents_approve_mas.html "Permalink to 032197-Regents_approve_mas")
