@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Update: Conservation Biology
+title: Research Update&#58; Conservation Biology
 author: Robert Irion
 --- 
 

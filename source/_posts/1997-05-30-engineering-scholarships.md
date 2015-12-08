@@ -20,4 +20,8 @@ Governor Pete Wilson appointed Lee to a 12-year term on the  Board of Regents in
 
 Two of Lee's three children are alumni of UC Santa Cruz. Eric Chih-Yen Lee received his B.A. in psychology in 1988, while  Gloria Chih-Ping Lee earned her B.A. in economics in 1990.
 
+![\[Photo of David Lee\]][3]
+
+[3]: http://www1.ucsc.edu/oncampus/art/david_lee.gif
+
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/053097-Regent_David_Lee_cr.html "Permalink to 053097-Regent_David_Lee_cr")

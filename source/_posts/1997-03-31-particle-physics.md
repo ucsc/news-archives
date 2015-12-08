@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Update: Particle Physics
+title: Research Update&#58; Particle Physics
 author: Robert Irion
 ---
 

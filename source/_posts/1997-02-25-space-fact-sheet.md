@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Space Issues: Kerr Hall, Natural Sciences II, Student Center, & College 8
+title: Space Issues&#58; Kerr Hall, Natural Sciences II, Student Center, & College 8
 author: Office of Planning and Budget
 ---
 

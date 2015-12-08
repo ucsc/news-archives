@@ -4,6 +4,8 @@ title: UC Santa Cruz Receives $460,000 From National Science Foundation For Scie
 author: Robert Irion
 ---
 
+![\[Photo of Jane Wilhelms\]][1]
+
 SANTA CRUZ, CA--Scientists at the University of California, Santa  Cruz, soon will create powerful and informative graphical images  from their data at a new interdisciplinary laboratory, thanks to a  $460,000 equipment grant from the National Science Foundation  (NSF).
 
 The Division of Natural Sciences at UCSC will match the  federal grant with about $240,000 in funding and equipment, making  the new lab worth about $700,000.
@@ -32,5 +34,7 @@ Work planned at the new lab by various UCSC researchers  includes the following:
 * Astronomers Sandra Faber and David Koo will translate  their observations of distant galaxies into rich visual displays.  Faber and Koo are part of a team at UCSC that will use the Hubble  Space Telescope and the large twin telescopes at the W. M. Keck  Observatory in Hawaii to gather data on thousands of distant  galaxies. The lab will help them simulate the histories of galaxies  and study their distribution in space.
 
 Other key users will include assistant professor of computer  science Suresh Lodha, who will devise new methods of visualizing  shapes and uncertainties in scientific data; professor of physics  Stanley Flatte, for studies of how waves move through the ocean,  atmosphere, and earth; associate professor of chemistry Ilan  Benjamin, for simulations of chemical reactions that occur at the  boundaries between two substances; professor of earth sciences  Thorne Lay, for 3-D modeling of geological structures within the  planet; and professor of ocean sciences Geoffrey Vallis, for research  on turbulence and other complex behaviors in the ocean and  atmosphere.
+
+[1]: http://www1.ucsc.edu/oncampus/art/jane_wilhelms.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/06-97/062497-Scientific_visualiz.html "Permalink to 062497-Scientific_visualiz")

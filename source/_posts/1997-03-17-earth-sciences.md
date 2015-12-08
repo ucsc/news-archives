@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Update: Earth Sciences
+title: Research Update&#58; Earth Sciences
 author: Theobolt Leung
 ---
 
