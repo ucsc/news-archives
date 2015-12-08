@@ -4,6 +4,8 @@ title: UC Santa Cruz Organizational Expert Offers Management Tips To Leaders Of 
 author: Jennifer McNulty
 ---
 
+![\[Photo of Martin Chemers at his desk\]][1]
+
 **'Heavy Mettle' Is Key To Success, Says Author Of The New Book An Integrative Theory Of Leadership**
 
 SANTA CRUZ, CA--The most powerful forces shaping a leader's  success are his or her self-confidence and the degree of trust a  group has in its leader. In fact, says organizational management  expert Martin Chemers, those qualities play as big a role as talent in  forging a leader's success.
@@ -25,5 +27,7 @@ Sports teams provide a useful model of what Chemers calls a  "culture of perform
 Chemers is the author of the new book An Integrative Theory of  Leadership (Mahwah, N.J.: Lawrence Erlbaum Associates, 1997) and  dozens of academic articles on organizational leadership.
 
 In An Integrative Theory of Leadership, Chemers offers a  comprehensive overview of leadership theory and concludes that  factors such as confidence, competence, trustworthiness, the ability  to provide guidance and inspiration, and the talent to mobilize one's  own resources and those of one's team are critical elements of  effective leadership. He is also the coeditor of Diversity in  Organizations: New Perspectives for a Changing Workplace (Thousand  Oaks, CA: Sage Publications, Inc., 1995). He joined the UCSC faculty  in 1995.
+
+[1]: http://www1.ucsc.edu/oncampus/art/chemers_martin.97-09-01.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/09-97/090997-Organizational_expe.html "Permalink to 090997-Organizational_expe")

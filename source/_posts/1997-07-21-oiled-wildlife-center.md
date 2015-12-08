@@ -4,6 +4,8 @@ title: Nation's First Oiled Wildlife Center Opens Next To Long Marine Lab
 author: Robert Irion
 ---
 
+![\[Photo of Oiled Wildlife Veterinary Care and Research Center\]][1]
+
 SANTA CRUZ, CA--California's citizens, be they environmentalists or  petroleum industrialists, are united in their hopes that the state  will never suffer a catastrophic oil spill along its coastline. But if  the unthinkable occurs, rescue workers are now much better  prepared to deal with the resulting onslaught of tarred sea otters,  seabirds, and other wildlife.
 
 That preparedness stems from the state's new Oiled Wildlife  Veterinary Care and Research Center, which state and local officials  will dedicate today (July 21) in a ceremony on UCSC property next to  the Joseph M. Long Marine Laboratory. The $5 million facility, the  first of its kind in the nation, opens after four years of planning and  more than a year of construction at the oceanfront site.
@@ -26,5 +28,7 @@ Specific areas of collaboration planned by UCSC groups include:
 * Research on sea otters via field-based studies of their  population dynamics, ecology, and habitat. Long Marine Lab lies near  the northern end of the 220-mile range of the California sea otter.  Several UCSC and OSPR researchers have worked with sea otters,  both in California and in Alaska after the Exxon Valdez spill.
 * Studies of the basic physiology and energetics of captive  otters and other coastal animals rescued as orphans or from  strandings. Researchers from Long Marine Lab, a member of the  California Marine Mammal Stranding Network, respond to strandings  from Ano Nuevo south to the central Monterey Bay.
 * Toxicological studies on the effects of oil on animals  injured during spills. Such research would complement an active  UCSC-directed program at the Department of Fish and Game's Granite  Canyon station, south of Carmel, on the toxic actions in marine  organisms of various types of oil, as well as the effectiveness and  toxic actions of dispersants and cleaning agents used to treat oil  spills.
+
+[1]: http://www1.ucsc.edu/oncampus/art/oiled.center.97-07-21.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/07-97/072197-Nation_first_oiled.html "Permalink to 072197-Nation_first_oiled")

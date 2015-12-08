@@ -4,6 +4,8 @@ title: Known Tumor Suppressor Gene May Play A Role In Breast Cancer
 author: Robert Irion
 ---
 
+![\[Photo of Gary Silberstein, Phyllis Strickland, and Michael Lewis\]][1]
+
 SANTA CRUZ, CA--A gene linked to the most common abdominal  cancer in children also may contribute to the development of breast  cancer, according to a study at the University of California, Santa  Cruz, and Oregon Health Sciences University.
 
 A team led by UC Santa Cruz biologist Gary Silberstein found  evidence that a gene called WT1, which prevents abnormal cell  division in the kidney, also is active in healthy breast tissues.  However, the gene was silent, or nearly so, in two-thirds of the  cancerous breast tissues examined by the team. These tissues  included tumors in their earliest stages of growth--just a few cells  beginning to run amok.
@@ -35,5 +37,7 @@ There is no evidence of a mutation in the WT1 gene, Silberstein  said, so WT1 wo
 Silberstein, Daniel, and their UCSC colleagues are completing a  study of the developmental regulation of WT1 in the mammary  glands of mice. Early results support the findings from human  tissues: the gene's products are absent in precancerous tissues but  present in more mature tumors.
 
 The research was supported by grants from the National  Institutes of Health to the laboratories of both Daniel and Roberts.
+
+[1]: http://www1.ucsc.edu/oncampus/art/silberstein_g.97-08-04.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/07-97/072297-Tumor_suppressor_ge.html "Permalink to 072297-Tumor_suppressor_ge")
