@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Science Is Fun' Lecture-Demonstration Coming To UC Santa Cruz
+title: "'Science Is Fun' Lecture-Demonstration Coming To UC Santa Cruz"
 author: Jim Burns
 ---
 

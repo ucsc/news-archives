@@ -1,16 +1,8 @@
 ---
 layout: post
-title: 
-author: 
+title: UC Santa Cruz Dream Expert Authors New Workbook For Dreamers
+author: Jennifer McNulty
 ---
-
-# 103197-UCSC_dream_expert_a
-
-October 31, 1997 Contact: Jennifer McNulty (408) 459-2495; mcnulty@ua.ucsc.edu
-
-UC SANTA CRUZ DREAM EXPERT AUTHORS NEW WORKBOOK FOR DREAMERS
-
-FOR IMMEDIATE RELEASE
 
 SANTA CRUZ, CA­Judging from the phone calls and letters she has received  since publishing her first book, The Creative Dreamer, Veronica Tonay  appears to be one of those lucky authors whose work is helping people make  positive changes in their lives.
 

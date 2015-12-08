@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Culture Clash: New Video By UC Santa Cruz Sociologist Offers Tips For Improved Cross-Cultural Communication
+title: "Culture Clash: New Video By UC Santa Cruz Sociologist Offers Tips For Improved Cross-Cultural Communication"
 author: Jennifer McNulty
 ---
 

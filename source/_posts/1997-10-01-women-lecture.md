@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Old World' Women In The 'New World' Is Focus Of Downtown Lecture
+title: "'Old World' Women In The 'New World' Is Focus Of Downtown Lecture"
 author: Barbara McKenna
 ---
 

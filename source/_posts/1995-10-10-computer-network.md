@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UC Santa Cruz Hooks Up To New Wireless Computer Network: Students To Surf The Internet From The Great Meadow, Under The Redwoods
+title: "UC Santa Cruz Hooks Up To New Wireless Computer Network: Students To Surf The Internet From The Great Meadow, Under The Redwoods"
 author: Francine Tyler
 ---
 
