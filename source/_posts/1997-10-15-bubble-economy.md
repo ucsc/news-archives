@@ -4,6 +4,8 @@ title: New Book By UC Santa Cruz Economist Examines Japan's "Bubble Economy"
 author: Jennifer McNulty
 ---
 
+![\[Photo of Michael Hutchison\]][1]
+
 SANTA CRUZ, CA--When Japan's powerhouse "bubble economy" of the late  1980s burst on the last day of 1989, it signaled the end of phenomenal  growth and more than two decades of rapid overseas business expansion. The  remarkable combination had provoked discussion among economists, who have  continued to watch the country's subsequent reforms nearly as closely as the  policies that contributed to impressive growth.
 
 One of those who has tracked the roller-coaster ride of Japan's modern  economy is Michael M. Hutchison, a professor of economics at the University  of California, Santa Cruz. Hutchison is coauthor of a new book, The Political  Economy of Japanese Monetary Policy (Cambridge, MA: MIT Press, 1997),  which provides a detailed analysis of what went right, what went wrong, and  where Japan is headed now.
@@ -33,5 +35,7 @@ Hutchison and his coauthors have already signed a contract with MIT  Press to pu
 Biographical information about Michael Hutchison:
 
 Hutchison is a leading authority on the Japanese monetary and financial  system. His research on the Japanese economy has focused on the conduct and  control of monetary policy and its interaction with the development of  financial markets. He is also a research associate at the Federal Reserve Bank  of San Francisco's Center for Pacific Basin Monetary and Economic Studies  and previously was a visiting scholar at the Bank of Japan. His work has been  supported by grants from the Japan Foundation, the U.S.-Japan Friendship  Commission, and UC's Pacific Rim Program.
+
+[1]: http://www1.ucsc.edu/oncampus/art/hutchison_michael.97-10-13.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/New_book_by_UCSC_economist.html "Permalink to New_book_by_UCSC_economist")
