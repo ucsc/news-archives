@@ -4,6 +4,8 @@ title: Satellite Tag Keeps Tabs On Young Bald Eagle's Migration Into Canada
 author: Robert Irion
 ---
 
+![\[Photo of juvenille bald eagle\]][1]
+
 **Santa Cruz Predatory Bird Research Group Gets First Look At Bird's Rapid Northward Quest For Salmon**
 
 SANTA CRUZ, CA--Along the wild rivers of Alaska and British Columbia,  immature bald eagles forage for dead salmon and learn to hunt for live ones  in the late summer and fall. The eagles fly north on fast migrations from  their birthplaces in California and elsewhere, stunning first journeys from  the nest honed by thousands of years of instinct.
@@ -33,5 +35,7 @@ The satellite technology is a leap forward from SCPBRG's previous  method of cho
 If the eagle's transmitter works properly, the researchers will get a  report on its location every 10 days for the next two years. The backpack's  straps are designed to fail after that time. Hunt and Walton hope to retrieve  the $3,000 transmitter after it falls off for possible future use.
 
 SCPBRG researchers use Geographic Information Systems technology  to map the bird's movements. The project is part of the group's overall  management efforts for birds of prey, including the peregrine falcon in  California. SCPBRG is credited with restoring the peregrine falcon to  healthy breeding levels in the state throughout the 1970s and 1980s.
+
+[1]: http://www1.ucsc.edu/oncampus/art/eagle.97-10-06.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/100297-Satellite_tag_track.html "Permalink to 100297-Satellite_tag_track")
