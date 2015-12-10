@@ -1,0 +1,283 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/5.0.0/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'learnyounode',
+1 verbose cli   '-g' ]
+2 info using npm@2.14.7
+3 info using node@v5.0.0
+4 verbose install initial load of /usr/local/Cellar/node/5.0.0/libexec/npm/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/local/Cellar/node/5.0.0/libexec/npm/lib/package.json
+6 silly cache add args [ 'learnyounode', null ]
+7 verbose cache add spec learnyounode
+8 silly cache add parsed spec Result {
+8 silly cache add   raw: 'learnyounode',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'learnyounode',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: '*',
+8 silly cache add   type: 'range' }
+9 silly addNamed learnyounode@*
+10 verbose addNamed "*" is a valid semver range for learnyounode
+11 silly addNameRange { name: 'learnyounode', range: '*', hasData: false }
+12 silly mapToRegistry name learnyounode
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/learnyounode
+16 verbose addNameRange registry:https://registry.npmjs.org/learnyounode not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/learnyounode
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 10:32:09 AM
+20 verbose request id c38657e1f6c8b305
+21 verbose etag "6UXX8XQ90B29K8ZN2G7LIAFQX"
+22 http request GET https://registry.npmjs.org/learnyounode
+23 http 304 https://registry.npmjs.org/learnyounode
+24 verbose headers { date: 'Thu, 10 Dec 2015 18:31:34 GMT',
+24 verbose headers   via: '1.1 varnish',
+24 verbose headers   'cache-control': 'max-age=60',
+24 verbose headers   etag: '"6UXX8XQ90B29K8ZN2G7LIAFQX"',
+24 verbose headers   age: '0',
+24 verbose headers   connection: 'keep-alive',
+24 verbose headers   'x-served-by': 'cache-sjc3127-SJC',
+24 verbose headers   'x-cache': 'MISS',
+24 verbose headers   'x-cache-hits': '0',
+24 verbose headers   'x-timer': 'S1449772294.990193,VS0,VE38',
+24 verbose headers   vary: 'Accept' }
+25 silly get cb [ 304,
+25 silly get   { date: 'Thu, 10 Dec 2015 18:31:34 GMT',
+25 silly get     via: '1.1 varnish',
+25 silly get     'cache-control': 'max-age=60',
+25 silly get     etag: '"6UXX8XQ90B29K8ZN2G7LIAFQX"',
+25 silly get     age: '0',
+25 silly get     connection: 'keep-alive',
+25 silly get     'x-served-by': 'cache-sjc3127-SJC',
+25 silly get     'x-cache': 'MISS',
+25 silly get     'x-cache-hits': '0',
+25 silly get     'x-timer': 'S1449772294.990193,VS0,VE38',
+25 silly get     vary: 'Accept' } ]
+26 verbose etag https://registry.npmjs.org/learnyounode from cache
+27 verbose get saving learnyounode to /Users/webassistant/.npm/registry.npmjs.org/learnyounode/.cache.json
+28 silly addNameRange number 2 { name: 'learnyounode', range: '*', hasData: true }
+29 silly addNameRange versions [ 'learnyounode',
+29 silly addNameRange   [ '0.0.0',
+29 silly addNameRange     '0.0.1',
+29 silly addNameRange     '0.0.2',
+29 silly addNameRange     '0.0.3',
+29 silly addNameRange     '0.0.4',
+29 silly addNameRange     '0.0.5',
+29 silly addNameRange     '0.0.6',
+29 silly addNameRange     '0.0.7',
+29 silly addNameRange     '0.0.8',
+29 silly addNameRange     '0.0.9',
+29 silly addNameRange     '0.1.0',
+29 silly addNameRange     '0.1.1',
+29 silly addNameRange     '0.2.0',
+29 silly addNameRange     '0.2.1',
+29 silly addNameRange     '0.2.2',
+29 silly addNameRange     '0.2.3',
+29 silly addNameRange     '0.2.4',
+29 silly addNameRange     '0.2.5',
+29 silly addNameRange     '0.2.6',
+29 silly addNameRange     '0.2.7',
+29 silly addNameRange     '0.2.8',
+29 silly addNameRange     '0.2.9',
+29 silly addNameRange     '0.2.10',
+29 silly addNameRange     '0.2.11',
+29 silly addNameRange     '0.2.12',
+29 silly addNameRange     '0.2.13',
+29 silly addNameRange     '0.2.14',
+29 silly addNameRange     '0.2.15',
+29 silly addNameRange     '0.2.16',
+29 silly addNameRange     '0.2.16-mimbug',
+29 silly addNameRange     '0.3.0',
+29 silly addNameRange     '0.3.1',
+29 silly addNameRange     '0.3.2',
+29 silly addNameRange     '0.3.3',
+29 silly addNameRange     '0.4.0',
+29 silly addNameRange     '0.4.1',
+29 silly addNameRange     '1.0.0-alpha01',
+29 silly addNameRange     '1.0.0',
+29 silly addNameRange     '1.0.1',
+29 silly addNameRange     '1.0.2',
+29 silly addNameRange     '1.0.3',
+29 silly addNameRange     '1.0.4',
+29 silly addNameRange     '1.0.5',
+29 silly addNameRange     '1.0.6',
+29 silly addNameRange     '1.0.7',
+29 silly addNameRange     '2.0.0',
+29 silly addNameRange     '2.0.1',
+29 silly addNameRange     '2.1.0',
+29 silly addNameRange     '2.2.0',
+29 silly addNameRange     '2.2.1',
+29 silly addNameRange     '2.2.2',
+29 silly addNameRange     '2.3.0',
+29 silly addNameRange     '2.3.1',
+29 silly addNameRange     '2.3.2',
+29 silly addNameRange     '2.3.3',
+29 silly addNameRange     '2.3.4',
+29 silly addNameRange     '2.4.0',
+29 silly addNameRange     '2.5.0',
+29 silly addNameRange     '2.6.0',
+29 silly addNameRange     '2.5.1',
+29 silly addNameRange     '2.5.2',
+29 silly addNameRange     '2.7.0',
+29 silly addNameRange     '2.7.1',
+29 silly addNameRange     '2.7.2',
+29 silly addNameRange     '3.0.0',
+29 silly addNameRange     '3.0.1',
+29 silly addNameRange     '3.1.0',
+29 silly addNameRange     '3.1.1',
+29 silly addNameRange     '3.1.2',
+29 silly addNameRange     '3.1.3' ] ]
+30 silly addNamed learnyounode@3.1.3
+31 verbose addNamed "3.1.3" is a plain semver version for learnyounode
+32 silly cache afterAdd learnyounode@3.1.3
+33 verbose afterAdd /Users/webassistant/.npm/learnyounode/3.1.3/package/package.json not in flight; writing
+34 verbose afterAdd /Users/webassistant/.npm/learnyounode/3.1.3/package/package.json written
+35 silly install resolved [ { name: 'learnyounode',
+35 silly install resolved     version: '3.1.3',
+35 silly install resolved     description: 'Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.',
+35 silly install resolved     author:
+35 silly install resolved      { name: 'Rod Vagg',
+35 silly install resolved        email: 'rod@vagg.org',
+35 silly install resolved        url: 'https://github.com/rvagg' },
+35 silly install resolved     contributors:
+35 silly install resolved      [ [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object],
+35 silly install resolved        [Object] ],
+35 silly install resolved     repository:
+35 silly install resolved      { type: 'git',
+35 silly install resolved        url: 'git+https://github.com/rvagg/learnyounode.git' },
+35 silly install resolved     license: 'MIT',
+35 silly install resolved     dependencies:
+35 silly install resolved      { after: '~0.8.1',
+35 silly install resolved        bl: '~0.9.4',
+35 silly install resolved        boganipsum: '~0.1.0',
+35 silly install resolved        chalk: '~0.5.1',
+35 silly install resolved        'colors-tmpl': '~1.0.0',
+35 silly install resolved        'combined-stream': '~0.0.7',
+35 silly install resolved        'concat-stream': '~1.4.7',
+35 silly install resolved        duplexer: '~0.1.1',
+35 silly install resolved        hyperquest: '~1.0.1',
+35 silly install resolved        rimraf: '~2.2.8',
+35 silly install resolved        through: '~2.3.6',
+35 silly install resolved        through2: '~0.6.3',
+35 silly install resolved        'through2-map': '~1.4.0',
+35 silly install resolved        'workshopper-adventure': '^4.3.1',
+35 silly install resolved        'workshopper-exercise': '~2.5.3',
+35 silly install resolved        'workshopper-wrappedexec': '~0.1.1' },
+35 silly install resolved     devDependencies: { 'workshopper-adventure-test': '~1.0.0' },
+35 silly install resolved     scripts: { test: 'workshopper-adventure-test' },
+35 silly install resolved     bin: { learnyounode: './bin/learnyounode' },
+35 silly install resolved     main: './learnyounode.js',
+35 silly install resolved     preferGlobal: true,
+35 silly install resolved     gitHead: '6fe4e39721b140845b100215d24e8f983b030c20',
+35 silly install resolved     bugs: { url: 'https://github.com/rvagg/learnyounode/issues' },
+35 silly install resolved     homepage: 'https://github.com/rvagg/learnyounode',
+35 silly install resolved     _id: 'learnyounode@3.1.3',
+35 silly install resolved     _shasum: 'ec9e8b2c702bcff590a6644f5e2e44d7d3ec7c75',
+35 silly install resolved     _from: 'learnyounode@*',
+35 silly install resolved     _npmVersion: '3.3.6',
+35 silly install resolved     _nodeVersion: '5.0.0',
+35 silly install resolved     _npmUser: { name: 'leichtgewicht', email: 'martin.heidegger@gmail.com' },
+35 silly install resolved     dist:
+35 silly install resolved      { shasum: 'ec9e8b2c702bcff590a6644f5e2e44d7d3ec7c75',
+35 silly install resolved        tarball: 'http://registry.npmjs.org/learnyounode/-/learnyounode-3.1.3.tgz' },
+35 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+35 silly install resolved     directories: {},
+35 silly install resolved     _resolved: 'https://registry.npmjs.org/learnyounode/-/learnyounode-3.1.3.tgz',
+35 silly install resolved     readme: 'ERROR: No README data found!' } ]
+36 info install learnyounode@3.1.3 into /usr/local/Cellar/node/5.0.0/libexec/npm/lib
+37 info installOne learnyounode@3.1.3
+38 verbose installOne of learnyounode to /usr/local/Cellar/node/5.0.0/libexec/npm/lib not in flight; installing
+39 verbose lock using /Users/webassistant/.npm/_locks/learnyounode-f2f81f23fc31ae64.lock for /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode
+40 silly install write writing learnyounode 3.1.3 to /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode
+41 verbose unbuild lib/node_modules/learnyounode
+42 info preuninstall learnyounode@3.1.3
+43 info uninstall learnyounode@3.1.3
+44 verbose unbuild rmStuff learnyounode@3.1.3 from /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules
+45 silly gentlyRm /usr/local/Cellar/node/5.0.0/libexec/npm/bin/learnyounode is being gently removed
+46 silly gentlyRm verifying /usr/local/Cellar/node/5.0.0/libexec/npm is an npm working directory
+47 silly gentlyRm containing path /usr/local/Cellar/node/5.0.0/libexec/npm is under npm's control, in /usr/local/Cellar/node/5.0.0/libexec/npm
+48 silly gentlyRm deletion target /usr/local/Cellar/node/5.0.0/libexec/npm/bin/learnyounode is under /usr/local/Cellar/node/5.0.0/libexec/npm
+49 verbose gentlyRm vacuuming from /usr/local/Cellar/node/5.0.0/libexec/npm/bin/learnyounode up to /usr/local/Cellar/node/5.0.0/libexec/npm
+50 info postuninstall learnyounode@3.1.3
+51 silly gentlyRm /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode is being purged from base /usr/local/Cellar/node/5.0.0/libexec/npm
+52 verbose gentlyRm don't care about contents; nuking /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode
+53 silly vacuum-fs purging /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode
+54 verbose unlock done using /Users/webassistant/.npm/_locks/learnyounode-f2f81f23fc31ae64.lock for /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode
+55 verbose stack Error: EACCES: permission denied, unlink '/usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc'
+55 verbose stack     at Error (native)
+56 verbose cwd /Users/webassistant/news-archives
+57 error Darwin 14.5.0
+58 error argv "/usr/local/Cellar/node/5.0.0/bin/node" "/usr/local/bin/npm" "install" "learnyounode" "-g"
+59 error node v5.0.0
+60 error npm  v2.14.7
+61 error path /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc
+62 error code EACCES
+63 error errno -13
+64 error syscall unlink
+65 error Error: EACCES: permission denied, unlink '/usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc'
+65 error     at Error (native)
+65 error  { [Error: EACCES: permission denied, unlink '/usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc']
+65 error   errno: -13,
+65 error   code: 'EACCES',
+65 error   syscall: 'unlink',
+65 error   path: '/usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc' }
+66 error Please try running this command again as root/Administrator.
+67 verbose exit [ -13, true ]
+68 verbose unbuild lib/node_modules/learnyounode
+69 info preuninstall learnyounode@3.1.3
+70 info uninstall learnyounode@3.1.3
+71 verbose unbuild rmStuff learnyounode@3.1.3 from /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules
+72 silly gentlyRm /usr/local/Cellar/node/5.0.0/libexec/npm/bin/learnyounode is being gently removed
+73 silly gentlyRm verifying /usr/local/Cellar/node/5.0.0/libexec/npm is an npm working directory
+74 silly gentlyRm containing path /usr/local/Cellar/node/5.0.0/libexec/npm is under npm's control, in /usr/local/Cellar/node/5.0.0/libexec/npm
+75 silly gentlyRm deletion target /usr/local/Cellar/node/5.0.0/libexec/npm/bin/learnyounode is under /usr/local/Cellar/node/5.0.0/libexec/npm
+76 verbose gentlyRm vacuuming from /usr/local/Cellar/node/5.0.0/libexec/npm/bin/learnyounode up to /usr/local/Cellar/node/5.0.0/libexec/npm
+77 info postuninstall learnyounode@3.1.3
+78 silly gentlyRm /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode is being purged from base /usr/local/Cellar/node/5.0.0/libexec/npm
+79 verbose gentlyRm don't care about contents; nuking /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode
+80 silly vacuum-fs purging /usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode
+81 error error rolling back Error: EACCES: permission denied, unlink '/usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc'
+81 error error rolling back     at Error (native)
+81 error error rolling back  { [Error: EACCES: permission denied, unlink '/usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc']
+81 error error rolling back   errno: -13,
+81 error error rolling back   code: 'EACCES',
+81 error error rolling back   syscall: 'unlink',
+81 error error rolling back   path: '/usr/local/Cellar/node/5.0.0/libexec/npm/lib/node_modules/learnyounode/.jshintrc' }

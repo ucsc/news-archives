@@ -4,6 +4,8 @@ title: Particle Physics Research At UC Santa Cruz Accelerated By New Grant
 author: Robert Irion
 ---
 
+![\[Photo of Bill Rowe\]][1]
+
 SANTA CRUZ, CA--In the rarefied world of high-energy physics,  researchers at the Santa Cruz Institute for Particle Physics (SCIPP)  at UC Santa Cruz have earned reputations as premier makers of tools  to detect the smallest bits of matter. Now, their work on some of  the most innovative physics experiments of the next decade has  earned a major boost, in the form of a $208,661 grant to purchase  critical pieces of equipment.
 
 The grant consists of $156,361 from the National Science  Foundation and $52,300 in matching funds from UCSC's Natural  Sciences Division. With an additional $15,000 from SCIPP, the funds  will pay for two devices: a probe station, which tests the silicon  chips used in SCIPP's particle detectors, and an ultrasonic wire  bonder, which forges bonds between the chips and intricate banks of  microelectronics. Computers will run both devices, dramatically  increasing quality control and the speed of research over the manual  versions of these machines used at SCIPP for many years.
@@ -24,5 +26,7 @@ The sheer number of chips and connections in these  sophisticated experiments ma
 SCIPP scientists also will use the new equipment on at least  two other projects. One is a detector for the planned "B Factory" at  the Stanford Linear Accelerator Center. This machine should reveal  why matter became dominant over antimatter in the earliest  moments of the universe. A second project, directed by SCIPP  physicist Alan Litke, will use arrays of electrodes as "retinal  readout systems" to better understand how the retina processes and  encodes visual images.
 
 National Science Foundation funding for the new devices was  awarded through its Major Research Instrumentation Program.  Seiden noted that SCIPP received one of just three high-energy  physics grants in NSF's 1997 instrumentation program.
+
+[1]: http://www1.ucsc.edu/oncampus/art/rowe_bill.97-11-10.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/11-97/111097-UCSC_Particle_physi.html "Permalink to 111097-UCSC_Particle_physi")
