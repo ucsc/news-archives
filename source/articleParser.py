@@ -267,11 +267,14 @@ def write_article(article_dict):
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument('-i', metavar='in-file', type=argparse.FileType('r'))
-parser.parse_args()
+parser.add_argument('-i', metavar='input_file', type=argparse.FileType('r'))
+
+
 
 try:
     results = parser.parse_args()
+    if not results.i:
+        parser.error('No input file specified, -i input_file')
 except IOError, msg:
     parser.error(str(msg))
 
