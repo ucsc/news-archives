@@ -4,6 +4,8 @@ title: UCSC Computer Engineer Receives $2.5 Million For Network Research
 author: Robert Irion
 ---
 
+![\[Photo of J. J. Garcia-Luna\]][1]
+
 SANTA CRUZ, CA--Aficionados of the Internet appreciate how  quickly they can send and access information. However, today's  Internet also limits most of its users in one key way: They're tied  down to hardwired workstations, unable to get online on-the-go.  Even wireless modems require users to hook up to the Internet via an  established service provider, such as America Online. If you're out of  range, you're out of luck.
 
 A research team at UC Santa Cruz aims to change all of that.  Led by computer engineer J. J. Garcia-Luna, the team has developed  tools known as WINGs--Wireless INternet Gateways--that allow  users to create their own mobile networks. The portable devices,  which communicate by radio, can spawn roving "Internets" at any  time, anywhere, independent of wires, service providers, or other  electronic middlemen. That flexibility makes WINGs ideal for  emergencies, military situations, and our increasingly nomadic  working culture.
@@ -33,5 +35,7 @@ The civilian applications of such "Global Mobile Information  Systems," as DARPA
 The second DARPA-funded project is part of a broad effort to  extend the Internet's base architecture beyond such traditional  methods as IP (Internet Protocol) and ATM (Asynchronous Transfer  Mode). In the Internet today, said Garcia-Luna, changes in  communications protocols can take years. Information packets sent  from place to place are "passive," as in a document to open and read.  But as technology evolves, network protocols will need to change  within months or days.
 
 To foster that environment, Garcia-Luna's team will try to  develop software for active packets--the equivalent, he said, of  network-level "applets" used in Internet Java applications. As their  name implies, active packets can play a role beyond simple  information transfer. They also can contain instructions or programs  that modify the behavior of the Internet node receiving the packet.  The team will focus on how to do this securely, reliably, and under  "multicasting" conditions when many users may communicate and  exchange instructions at the same time.
+
+[1]: http://www1.ucsc.edu/oncampus/art/garcia-luna.97-10-20.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/102497-UCSC_computer_engin.html "Permalink to 102497-UCSC_computer_engin")

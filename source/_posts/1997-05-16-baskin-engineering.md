@@ -23,11 +23,8 @@ Chancellor M.R.C. Greenwood presented UCSC's plans to the  Board of Regents yest
 "The Jack Baskin School of Engineering will foster innovative  and entrepreneurial research, both by the faculty members we will  recruit and by the students we will educate," Greenwood said. "By  focusing on several targeted areas of excellence, we believe that our  engineers and computer scientists will become creative and  important contributors to the economy of our future."
 
 Several factors, said Greenwood, will make UCSC's School of  Engineering stand out:
-
 * Close partnerships with industry. As the University of  California's service provider for Silicon Valley and the burgeoning  high-tech community in the Monterey Bay region, UCSC has worked  closely with industry leaders to gauge their needs and chart the  course for its new school.
-
 * Linkages with other area engineering programs. UCSC's  offerings will complement those at UC Berkeley, Stanford, San Jose  State University, and Santa Clara University through joint research  and education, sharing of facilities, and other collaborative efforts.
-
 * The Santa Cruz educational experience. Synergistic ties  with UCSC's first-rate departments of environmental studies,  economics, biology, chemistry and biochemistry, earth sciences, and  ocean sciences will offer unique opportunities for young engineers  to apply their skills. Further, UCSC's traditional emphasis on a well- rounded liberal arts education will help prepare graduates for the  human aspects, as well as the technical challenges, of their jobs.
 
 Patrick Mantey, Jack Baskin Professor of Computer Engineering  at UCSC and dean designate of the School of Engineering, looks  forward to the fruition of the campus's long-standing plans. Indeed,  the UC Board of Regents first approved a School of Engineering at  UCSC in 1966, one year after the campus opened. Those plans, plus an  updated proposal in 1991, were shelved until now for budgetary  reasons.
@@ -35,5 +32,21 @@ Patrick Mantey, Jack Baskin Professor of Computer Engineering  at UCSC and dean 
 "We are fulfilling our dream that UCSC can become a much  more important player in the regional economy," Mantey said. "We  will also become a more mature and diverse UC campus in terms of  our academic offerings and the students we are likely to attract."  Already, Mantey noted, applications to engineering and computer  science at UCSC have increased 17 percent and 34 percent,  respectively, since the campus announced its preliminary plans last  fall.
 
 Greenwood and Mantey also foresee close links between the  School of Engineering and the UC Monterey Bay Education, Science,  and Technology (MBEST) Center, a research and technology park that  UCSC is developing in Marina at the site of the former Fort Ord  military base. MBEST tenants will draw upon the expertise of nearly  two dozen research and educational institutions in the Monterey Bay  Research Crescent to study issues relating to information  technology, environmental science, biotechnology, and other fields.
+
+![\[Photo of group at news conference\]][1]
+![\[Photo of M.R.C. Greenwood and Jack Baskin\]][2]
+![\[Photo of Jack Baskin at podium\]][3]
+![\[Photo of Chancellor Greenwood and Patrick Mantey\]][4]
+![\[Photo of Chancellor Greenwood and Mantey presenting plaque to Baskin\]][5]
+![\[Photo of Peggy Downes Baskin and President Caret of San Jose State University\]][6]
+![\[Photo of Chancellor Greenwood and former chancellor Karl Pister\]][7]
+
+[1]: http://www1.ucsc.edu/oncampus/art/engineer.photo.gif
+[2]: http://www1.ucsc.edu/oncampus/art/engineer.baskin.gif
+[3]: http://www1.ucsc.edu/oncampus/art/engineer.news.gif
+[4]: http://www1.ucsc.edu/oncampus/art/engineer.mantey.gif
+[5]: http://www1.ucsc.edu/oncampus/art/engineer.plaque.gif
+[6]: http://www1.ucsc.edu/oncampus/art/engineer.downes.gif
+[7]: http://www1.ucsc.edu/oncampus/art/engineer.pister.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/051697-UCSC_launches_the_J.html "Permalink to 051697-UCSC_launches_the_J")

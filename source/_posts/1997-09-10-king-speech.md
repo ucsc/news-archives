@@ -4,6 +4,8 @@ title: Geneticist And Breast-cancer Researcher Mary-claire King To Speak At UC S
 author: Robert Irion
 ---
 
+![photo][2]
+
 SANTA CRUZ, CA--Geneticist Mary-Claire King, one of the country's  most prominent breast-cancer researchers, will discuss the latest  research on genetic predispositions toward cancer in a public  lecture next week at UC Santa Cruz. King's talk, titled "Genetic  Analysis of Breast and Ovarian Cancer," begins at 7 p.m. on Friday,  September 19, at the new Music Center Recital Hall. Admission is  free.
 
 UCSC is sponsoring the lecture in conjunction with the  American Cancer Society, which will hold a national meeting on  cancer research from September 18 through 21 at the Chaminade  Conference Center. The meeting, the first Schilling Research  Conference, is funded through a $1.6 million legacy to the American  Cancer Society by the late Col. Frank K. Schilling of Santa Cruz. Col.  Schilling's wife, Else H. "Henny" Schilling, succumbed to breast  cancer in 1985.
@@ -21,5 +23,7 @@ King's current projects include research with seven major  cancer centers in New
 In other research, King's group is testing whether tamoxifen  reduces risk for breast cancer among women with inherited  susceptibility. Finally, King and collaborators from Vanderbilt  University have begun a clinical trial to test gene therapy as  treatment for ovarian cancer.
 
 The American Cancer Society is the largest nationwide  voluntary health organization dedicated to eliminating cancer as a  major health problem. The society focuses on preventing cancer,  saving lives from cancer, and diminishing suffering from cancer  through research, education, advocacy, and service.
+
+[2]: http://www1.ucsc.edu/oncampus/art/king_mary-claire.97-09-15.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/09-97/091097-Geneticist_to_give_.html "Permalink to 091097-Geneticist_to_give_")

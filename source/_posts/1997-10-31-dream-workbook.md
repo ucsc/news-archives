@@ -1,16 +1,10 @@
 ---
 layout: post
-title: 
-author: 
+title: UC Santa Cruz Dream Expert Authors New Workbook For Dreamers
+author: Jennifer McNulty
 ---
 
-# 103197-UCSC_dream_expert_a
-
-October 31, 1997 Contact: Jennifer McNulty (408) 459-2495; mcnulty@ua.ucsc.edu
-
-UC SANTA CRUZ DREAM EXPERT AUTHORS NEW WORKBOOK FOR DREAMERS
-
-FOR IMMEDIATE RELEASE
+![\[Photo of Albert Joseph Moore painting\]][1]
 
 SANTA CRUZ, CA­Judging from the phone calls and letters she has received  since publishing her first book, The Creative Dreamer, Veronica Tonay  appears to be one of those lucky authors whose work is helping people make  positive changes in their lives.
 
@@ -32,5 +26,7 @@ Selected quotes excerpted from The Creative Dreamer's Journal and  Workbook:
 * I do believe it is possible to create, even without writing a word or painting  a picture, by simply molding one's inner life. And that too is a deed. -Etty Hillesum
 * Everyone has talent. What is rare is the courage to follow the talent to the  dark place where it leads. -Erica Jong
 * In our dreams (writes Coleridge) images represent the sensations we think  they cause; we do not feel horror because we are threatened by a sphinx; we  dream of a sphinx to explain the horror we feel. -Jorge Luis Borges
+
+[1]: http://www1.ucsc.edu/oncampus/art/dream.art.97-11-10.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/103197-UCSC_dream_expert_a.html "Permalink to 103197-UCSC_dream_expert_a")

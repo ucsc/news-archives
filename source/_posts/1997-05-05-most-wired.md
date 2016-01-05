@@ -14,7 +14,7 @@ To conduct their research, Yahoo! staff surveyed computing  departments, informa
 
 Yahoo! rated the colleges on a number of factors, including percentages  of students owning computers (70 percent at UCSC), classes with home  pages (15 percent), and classes with online study aids (35 percent). Yahoo!  also asked whether colleges have a home page (yes) and automatically  provided students with e-mail accounts (yes).
 
-Yahoo! emphasized academic uses of the Internet in compiling the  survey results, the magazine says. These uses, which included prevalence of  online homework, study aids, and course home pages, made up 45 percent of  the total score. The colleges' hardware and wiring accounted for 22.5  percent. Social uses of the Internet--including online chat lines, events  listings, and the percentage of students with home pages--accounted for an  additional 22.5 percent. Student services added the remaining 10 percent. \--over--
+Yahoo! emphasized academic uses of the Internet in compiling the  survey results, the magazine says. These uses, which included prevalence of  online homework, study aids, and course home pages, made up 45 percent of  the total score. The colleges' hardware and wiring accounted for 22.5  percent. Social uses of the Internet--including online chat lines, events  listings, and the percentage of students with home pages--accounted for an  additional 22.5 percent. Student services added the remaining 10 percent.
 
 UCSC earned "extra credit" from Yahoo! for its wireless modems. "Who  needs a high port-to-pillow ratio when you've got wireless connectivity  available to all dorm residents?" the magazine asks.
 

@@ -4,6 +4,8 @@ title: New Gifts Push Marine Discovery Center Toward Fund-Raising Goal
 author: Robert Irion
 ---
 
+![\[Artist's rendering of Marine Discovery Center\]][1] An artist's conception portrays the Marine Discovery Center, now in the early phases of construction next to Long Marine Lab. The $5.3 million center will triple Long Marine Lab's capacity to educate schoolchildren and the general public about the marine environment. To date, private donors have contributed about two-thirds of the project's cost.
+
 SANTA CRUZ, CA--Nearly $800,000 worth of gifts have helped the  Marine Discovery Center, a public education facility under  construction at the Joseph M. Long Marine Laboratory in Santa Cruz,  move substantially closer to reality.
 
 The gifts include a $500,000 matching grant from the David  and Lucile Packard Foundation of Los Altos and two $100,000  donations from area residents. They bring the total raised to date  for the Marine Discovery Center to about $3.2 million--roughly two-thirds of the $4.7 million amount needed to fund the center's  construction.
@@ -22,5 +24,7 @@ The latest gifts are as follows:
 * $100,000 from Phyllis Simpkins of Santa Cruz. Phyllis  Simpkins and her late husband, Alan Simpkins, have been integral  supporters of the Friends of Long Marine Lab's auction, a major  annual fund-raising event. Their philanthropy in the educational  community has been notable, particularly their major donations to  athletic programs at their alma mater, San Jose State University.
 * $50,000 from Bob and Carol Simpkins of Santa Cruz and  $15,000 from Bill and Brigid Simpkins of Santa Cruz. Bob and Bill  Simpkins, both sons of Phyllis Simpkins, are closely involved with  UCSC. Bob Simpkins is a member of the Board of Directors of the  Friends of Long Marine Lab and the center's Capital Campaign  Committee. Bill and Brigid Simpkins recently donated $20,000 to  help establish a water polo team at UCSC.
 * $25,000 from Brad, James, and Victor Bogard at the Bogard  Construction Co. of Santa Cruz, general contractor for the Marine  Discovery Center.
+
+[1]: http://www1.ucsc.edu/oncampus/art/lml_ctr.268.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/11-97/110497-New_gifts_push_Mari.html "Permalink to 110497-New_gifts_push_Mari")

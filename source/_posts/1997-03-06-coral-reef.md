@@ -1,6 +1,6 @@
 ---
 layout: post
-title: University Of California, Led By UcCSanta Cruz, Is First Academic Partner In International Coral Reef Initiative
+title: University Of California, Led By UC Santa Cruz, Is First Academic Partner In International Coral Reef Initiative
 author: Robert Irion
 ---
 
@@ -28,5 +28,13 @@ For the partners in ICRI to promote a rational use of coral  reefs in developing
 Further, Potts is enthusiastic about the budding collaborations  among natural scientists and social scientists throughout the UC  system on problems related to tropical countries. For example, UCSC  already has more than two dozen researchers who have worked in  Papua New Guinea--home to extensive and largely pristine reefs--on  issues ranging from marine biology, geology, and chemistry to  anthropology, environmental studies, and education. UC researchers  are eager to create similar multidisciplinary foci in other  developing regions, Potts believes.
 
 Potts also hopes to draw upon the expertise of researchers at  neighboring institutions, such as the Monterey Bay Aquarium  Research Institute, California Academy of Sciences, Hopkins Marine  Station, Moss Landing Marine Laboratories, and California State  University, Monterey Bay.
+
+![Underwater photo of Yonge Reef][1]
+![Underwater photo of coral reef near Madang, New Guinea][2]
+![Underwater photo of Rib Reef in Australia][3]
+
+[1]: http://www1.ucsc.edu/oncampus/art/coral_yonge.gif
+[2]: http://www1.ucsc.edu/oncampus/art/coral_madang.gif
+[3]: http://www1.ucsc.edu/oncampus/art/coral_rib.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/03-97/030697-UCSC_is_first_partn.html "Permalink to 030697-UCSC_is_first_partn")

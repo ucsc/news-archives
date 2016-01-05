@@ -4,6 +4,8 @@ title: Gift From Area Entrepreneurs To Uc Santa Cruz Establishes One Of Country'
 author: Barbara McKenna
 ---
 
+![\[Photo of Chancellor Greenwood and Chandra and Narpat Bhandari\]][1]
+
 **Establishment Of Chair Coincides With The 50th Anniversary Of Indian Democracy**
 
 SANTA CRUZ, CA--A $250,000 gift from a Los Gatos, Calif., couple to the  University of California, Santa Cruz, has established one of the country's  few endowed chairs in India studies, and is the first step in a vision to  establish an international center for the study of Indian civilization and  culture.
@@ -43,5 +45,7 @@ From 1993 to 1995, Bhandari served as a board member of the federal  Indo-U.S. S
 Bhandari is a trustee of the UC Santa Cruz Foundation and the  American Association of Physicians of Indian Origin, a San Francisco Bay  Area organization. He is cofounder and a charter member of The Indus  Entrepreneurs (TiE) of Santa Clara, and held a global chair for the group from  its inception until 1996. He received the Entrepreneur of the Year award in  1992 from the National Federation of Indian Associations.
 
 Bhandari has taught a range of courses on electronics at numerous  institutions, including UC Extension, the University of Southern California,  Purdue University, and Northeastern University in Boston. He received a  B.S.E.E. in telecommunications from the Birla Institute of Technology in  Pilani, India, in 1961 and an M.S.E.E. with highest honors from Purdue  University in 1963. He also engaged in additional graduate work in business  management at UCLA and Rensselaer Polytechnic Institute.
+
+[1]: http://www1.ucsc.edu/oncampus/art/bhandari_cn.97-07-21.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/07-97/071897-Gift_from_area_ente.html "Permalink to 071897-Gift_from_area_ente")
