@@ -6,6 +6,8 @@ author: Robert Irion
 
 **"Active Galactic Nuclei" Is The Illuminating Topic For May 12 Talk**
 
+![\[Photo of Donald Osterbrock\]][3] 
+
 SANTA CRUZ, CA--Faculty members at the University of California,  Santa Cruz, have chosen astronomer Donald E. Osterbrock, one of the  campus's most accomplished scientists, to deliver UCSC's 31st  annual Faculty Research Lecture. The honor, which recognizes  outstanding research achievements, is the highest that faculty may  bestow upon their colleagues.
 
 Osterbrock will give his talk, "Active Galactic Nuclei:  Lighthouses in the Universe," at 8 p.m. Monday, May 12, in the new  Music Center Recital Hall at UCSC. The lecture is free and open to  the public. A reception will follow in the Crown College Provost's  House.
@@ -25,5 +27,7 @@ Scientific societies have recognized Osterbrock's career with  nearly all of the
 Osterbrock's faculty peers at UCSC also noted that he has  supervised the work of more than 20 Ph.D. recipients in astronomy,  many of whom have gone on to become leaders in research and at  observatories. "In summary," the Academic Senate stated, "Professor  Osterbrock's contributions to scientific research in a variety of  fields, his leadership in the scientific community, and his deep  involvement in the educational process have led him to become one  of the world's outstanding figures in the field of astronomy in the  second half of the 20th century."
 
 Osterbrock earned his B.S., M.S., and Ph.D. at the University of  Chicago. Before joining UCSC's faculty, he held positions at  Princeton University, Caltech, and the University of Wisconsin. The  Ohio State University and the University of Chicago both have  granted honorary doctoral degrees to Osterbrock; he will receive a  third such degree from another noted institution just four days after  delivering his Faculty Research Lecture.
+
+[3]: http://www1.ucsc.edu/oncampus/art/donald_osterbrock.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/04-97/042897-Faculty_Research_Le.html "Permalink to 042897-Faculty_Research_Le")

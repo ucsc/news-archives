@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Home Sweet Hotel: Innovative Partnership Helps UC Santa Cruz House Its Students"
+title: Home Sweet Hotel&#58; Innovative Partnership Helps UC Santa Cruz House Its Students
 author: Francine Tyler
 ---
 

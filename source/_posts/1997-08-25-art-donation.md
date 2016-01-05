@@ -4,6 +4,8 @@ title: California Artist Leaves Life's Work To Educate Future Generations
 author: Barbara McKenna
 ---
 
+![\[Photo of Chancellor Greenwood greeting Charles Griffin Farr, with dean of arts Edward Houghton\]][1]  
+
 **Living Trust Of Charles Griffin Farr Identifies UC Santa Cruz As Recipient Of His Private Collection**
 
 SANTA CRUZ, CA--Charles Griffin Farr, one of California's great  realist painters and a veteran of the San Francisco art scene, died  August 5 at the age of 89.
@@ -17,5 +19,7 @@ This past year Farr donated a dozen of his paintings and  drawings to the Mary P
 Farr learned of UCSC in 1990 when Rolando Castellon, curator  of the Sesnon Gallery at the time, invited the artist to exhibit his  work here. Farr, who taught for nearly a decade at the San Francisco  Art Institute, was impressed by the campus's art program and  decided to donate his works to the gallery's permanent collection,  making his work accessible to students and the general public.
 
 Farr's work is on display in public collections at the National  Museum of American Art in Washington, D.C., the Oakland Museum of  California, the San Francisco Museum of Modern Art, and at UCSC.  Major exhibitions of Farr's work are planned for the next year both  at UCSC and in San Francisco. Farr is survived by his nephews, Tom  Davis and William Davis, both of Knoxville, Tenn.
+
+[1]: http://www1.ucsc.edu/oncampus/art/greenwood.farr.268.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/08-97/082597-California_artist_d.html "Permalink to 082597-California_artist_d")

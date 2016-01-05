@@ -7,7 +7,14 @@ baseurl: /
 
 source: ./source
 destination: ./build
-exclude: [.jekyll-metadata]
+exclude: ['./source/jekyll-metadata']
 
 paginate_path: /page/:num
-paginate: 10
+paginate: 100
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: articles
+    values:
+      class: post

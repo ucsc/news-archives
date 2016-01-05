@@ -4,6 +4,8 @@ title: Researchers Find Contaminants In Sea Otters And Bald Eagle Eggs In The We
 author: Robert Irion
 ---
 
+![][2]
+
 SANTA CRUZ, CA--Remote islands of surreal beauty, the foggy,  windswept Aleutians are thousands of miles from heavily populated  areas. Even so, the islands harbor a nasty reminder of human  activity: Sea otters and bald eagle eggs from the western Aleutians  carry potentially harmful levels of DDT and other contaminants.
 
 A team led by scientists from the University of California,  Santa Cruz, found that sea otters from the western Aleutians  contained almost twice as much of the industrial compound PCB as  otters from the central California coast, an area known to have  agricultural and industrial contamination. The otters also carried  almost 40 times more PCBs than otters from a relatively  uncontaminated site in southeast Alaska.
@@ -31,5 +33,7 @@ These patterns provide clues to the pollutants' origins. The  PCBs may come from
 Other studies also hint at trouble for the region's marine birds  and mammals. Said Estes: "That whole North Pacific ecosystem is a  worry because lots of things are declining--the Stellar sea lion, for  instance. It raised the issue in our minds that maybe contaminants  were playing some role."
 
 After the team completed its study, Estes discovered that  otter populations on Adak are not faring as well as previously. With  funding from the Department of the Navy, the team is starting a  more detailed investigation of contamination levels in otters from  the western Aleutians to southeast Alaska. Jarman said, "I expect  there'll be hot spots and clean spots."
+
+[2]: http://www1.ucsc.edu/oncampus/art/otters.97-08-04.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/07-97/072597-Researchers_find_co.html "Permalink to 072597-Researchers_find_co")

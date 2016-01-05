@@ -4,6 +4,8 @@ title: UC Santa Cruz Ecologist At Forefront Of Salmon Research
 author: Jennifer McNulty
 ---
 
+![photo of Marc Mangel][2]
+
 SANTA CRUZ, CA--The number of Atlantic salmon in American rivers has  dropped dramatically in recent years, making the scientific quest to  understand the mysteries of the life cycle of the remaining fish a high  priority.
 
 One of the scientists at the forefront of that investigation is Marc  Mangel, a professor of environmental studies at the University of California,  Santa Cruz. Mangel is a key member of the small international community of  researchers dedicated to probing the biological and environmental factors  that trigger the salmon's patterns of migration and spawning.
@@ -29,5 +31,7 @@ Mangel's previous research has revealed details of the Atlantic  salmon's life c
 "If the answer is yes, it triggers physiological processes that help  prepare the fish for departure in May," said Mangel. "If the answer is no, they  prepare to stay over again by eating a lot through September and then  slowing their metabolism so they'll be able to run on their reserves as they  hide through most of the winter."
 
 Mangel's new collaboration with the National Marine Fisheries Service,  which has provided $45,000 for the first year of the project, will add  further detail to the picture of the Atlantic salmon's life cycle.
+
+[2]: http://www1.ucsc.edu/oncampus/art/marc_mangel.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/103197-UCSC_ecologist_at_f.html "Permalink to 103197-UCSC_ecologist_at_f")

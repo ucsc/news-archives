@@ -4,6 +4,8 @@ title: Packard Foundation Supports UC Santa Cruz Arboretum With $309,757 Grant
 author: Robert Irion
 ---
 
+![\[Photo of Arboretum flower\]][1]
+
 SANTA CRUZ, CA--The David and Lucile Packard Foundation of Los  Altos has granted $309,757 to the Arboretum at the University of  California, Santa Cruz, home to some of the world's finest  collections of plants from the Southern Hemisphere and California.
 
 The Packard Foundation will award the grant over the next  three years to help the Arboretum sustain its activities at a time  when state funding sources are dwindling. During the grant period,  Arboretum staff will work with the Packard Foundation's  Organizational Effectiveness Program to devise plans for the  Arboretum's long-term financial self-sufficiency.
@@ -36,5 +38,7 @@ Visitors are welcome at the Arboretum daily from 9 a.m. to 5 p.m., year-round. T
 Visitors also may join the Arboretum Associates, a community  support group that sponsors plant sales, slide shows, workshops,  classes, and other programs.
 
 Tours for schools and groups are available by appointment. For  more information, call the Arboretum at (408) 427-2998.
+
+[1]: http://www1.ucsc.edu/oncampus/art/flower.97-07-21.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/07-97/072397-Packard_Foundation_.html "Permalink to 072397-Packard_Foundation_")

@@ -4,6 +4,8 @@ title: Packard Foundation Awards $500,000 Fellowship To UCSC Astronomer
 author: Robert Irion
 ---
 
+![\[Photo of Dennis Zaritsky\]][1]
+
 **Researcher Dennis Zaritsky Will Study The Evolution Of The Milky Way's Nearest Neighbors In Space**
 
 SANTA CRUZ, CA--For the fourth consecutive year, a researcher at  the University of California, Santa Cruz, has captured one of the  nation's most prestigious honors for young faculty members: a David  and Lucile Packard Fellowship for Science and Engineering, worth a  total of $500,000.
@@ -37,5 +39,7 @@ Other Bay Area recipients of 1997 Packard Fellowships are  Thomas H. Lee, assist
 The five-year unrestricted fellowships also encourage novel  research by freeing recipients from standard government-funding  processes, Orr noted. "This approach reflects David Packard's style  of operation--find talented people and give them the resources they  need to do top-quality work, along with the responsibility to  determine how best to use those resources," Orr said.
 
 The David and Lucile Packard Foundation, created in 1964,  supports and encourages organizations that depend on private  funding and volunteer leadership. It awards grants to programs in  the arts, community, marine biology, conservation, population,  education, and children's health.
+
+[1]: http://www1.ucsc.edu/oncampus/art/zaritsky_dennis.97-09-29.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/09-97/092997-Packard_Foundation_.html "Permalink to 092997-Packard_Foundation_")

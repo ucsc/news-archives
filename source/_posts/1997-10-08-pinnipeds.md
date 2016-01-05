@@ -28,6 +28,8 @@ Sprouts, a nine-year-old male Pacific harbor seal (Phoca  vitulina richardsii), 
 
 Following are brief overviews of research highlights from each  of the three project areas.
 
+![\[Photo of sea lion doing cognitive test\]][1]
+
 **Cognition: Precursors to language?**
 An apparatus that looks similar to the child's game  "Concentration" has garnered the group much attention over the  years.
 
@@ -44,6 +46,9 @@ These skills, the researchers claim, cannot stem simply from  instinct or trial 
 Why should a sea lion have these abilities when it can't say out  loud what it's thinking? It all boils down to problem solving in the  environment, Schusterman believes. To survive, a lone pup among  thousands on a beach must recognize its mother across the different  senses of sight, smell, and sound--and vice versa. Adults must  classify their kin, recognize which predators to avoid, and navigate  in three dimensions. The skills they've found in Rio, the group  maintains, could form the basis of a cognitive mechanism that sea  lions use to cope in the wild.
 
 "You'd be hard pressed to think of any problem in your life that  doesn't require you to use language to solve it," said marine  biologist David Kastak, who earned his Ph.D. in Schusterman's group.  "Other animals are solving similar complex problems, but without  language."
+
+![\[Photo of California sea lion with headphones on\]][2]
+![\[Photo of northern elephant seal with headphones on\]][3]
 
 **Hearing: The din of the ocean**
 Pinnipeds may not talk, but they growl, bellow, snort, whine,  and caterwaul with abandon. All of this helps make the ocean and  onshore breeding grounds very noisy places indeed. Add the  cacophony of civilization and industry, and one might wonder how  marine mammals hear what they need to hear.
@@ -67,6 +72,9 @@ Schusterman first measured evidence of this effect in Sprouts  when workers clea
 
 Other current research, coordinated by graduate student  Brandon Southall, is probing the "masking" effects of continuous  sounds in our increasingly noisy seas. A persistent sound, even if not  loud enough to have a physiological impact, might prevent marine  mammals from hearing what they need to hear at a given moment.  Then again, they may have evolved the ability to pick out key signals,  just as we can isolate one conversation from a cocktail-party buzz.
 
+![\[Chart of pinniped pupils\]][4]
+![\[Illustration of sight experiment][5]
+
 **Vision: To the depths, darkly**
 Do pinnipeds *hear* their prey, or do they *see* them?  Schusterman's hypothesis is that it's both, but primarily the latter:  Those big watery eyes just soak up photons, even at great depths.
 
@@ -83,5 +91,14 @@ Again, Burnyce detected flashes at far lower levels than her  companions. Rio wa
 "We pretty much understand what pinnipeds do on land, but  many of their behaviors in the ocean are a black box," Levenson said.  "This provides us with some baseline biological evidence of how  their aquatic visual systems might work." Scientists have not yet  ruled out that pinnipeds also might echolocate on occasion or use  other nonvisual means to listen or feel for prey, Levenson said.  However, his results show that for many species, vision probably is  the most important sense.
 
 A better grasp of the visual abilities and limitations of  various pinnipeds, Schusterman noted, could help inform  conservation management plans. Oil spills, nearshore pollution, or  sedimentation that increases the opacity of water might cut the  animals' odds of finding a meal.
+
+![\[Photo of Ronald Schusterman and Pacific harbor seal\]][6]
+
+[1]: http://www1.ucsc.edu/oncampus/art/seal.rio.97-08-18.gif
+[2]: http://www1.ucsc.edu/oncampus/art/seal.hear.97-08-18.gif
+[3]: http://www1.ucsc.edu/oncampus/art/seal.hear2.97-08-18.gif
+[4]: http://www1.ucsc.edu/oncampus/art/seal.sight.97-08-18.gif
+[5]: http://www1.ucsc.edu/oncampus/art/seal.sight2.97-08-18.gif
+[6]: http://www1.ucsc.edu/oncampus/art/schusterman_r.97-08-18.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/100897-Research_unveils_pe.html "Permalink to 100897-Research_unveils_pe")

@@ -1,4 +1,8 @@
 .main-content {
-  max-width: 38em;
+  max-width: 80%;
   margin: 2em auto;
+}
+
+.post .main-content {
+  max-width: 40em;
 }

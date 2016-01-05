@@ -4,6 +4,8 @@ title: New Study Suggests That 'Family Cap' Policies May Not Have Desired Impact
 author: Jennifer McNulty
 ---
 
+![\[Photo of Robert Fairlie\]][1]
+
 SANTA CRUZ, CA--A new study of welfare recipients across the country  reveals that welfare mothers in states that offer larger benefit increases  per additional child do not appear to be more likely to have another child  than those in states with lower benefit increases per additional child. The  study, which appears in the current issue of the Journal of Policy Analysis  and Management (vol. 16, no. 4, fall 1997), suggests that recent efforts to  hold down birthrates by capping welfare benefits may be misguided.
 
 The study, entitled "The Effect of Incremental Benefit Levels on Births  to AFDC Recipients," was coauthored by Robert Fairlie, an assistant  professor of economics at the University of California, Santa Cruz, and  Rebecca London, a visiting research associate at UCSC when the research  was conducted and now a senior analyst with Berkeley Planning Associates  in Oakland.
@@ -23,5 +25,7 @@ Fairlie and London's study examined data from the U.S. Bureau of the  Census gat
 Of about 15,000 women surveyed for more than two years during the  SIPP data-collection process, about 1,000 were welfare recipients. "1990  was the first year that the Bureau of the Census deliberately focused on  gathering information about female-headed households in the SIPP, so we  had a relatively rich sample to pull from," said Fairlie, adding that he and  London did numerous sensitivity checks to make sure their findings were  holding up.
 
 Results were similar among whites, African Americans, and never- married women, said Fairlie. Less consistent results were found among  Hispanics and divorced or separated women, but the sample sizes among  those groups were very small, said Fairlie.
+
+[1]: http://www1.ucsc.edu/oncampus/art/fairlie_robert.97-10-20.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/102097-Welfare_recipient_.html "Permalink to 102097-Welfare_recipient_")

@@ -4,6 +4,9 @@ title: Worm Biologists Make Their Mark At UC Santa Cruz
 author: Robert Irion
 ---
 
+![\[Photo of Yishi Jin and Andrew Chisholm in lab\]][1]
+![\[Photo of C. elegans worm under microscope\]][2]
+
 **Two Young Researchers Set Up Labs To Study C. Elegans, One Of Biology's Key Model Organisms**
 
 SANTA CRUZ, CA--Worms are turning by the thousands in a pair of  labs at the UC Santa Cruz Biology Department. But these are not  earthworms, and the work is no fishing expedition. Rather,  scientists Andrew Chisholm and Yishi Jin are conducting forefront  research on the hidden world of C. elegans, a minuscule nematode  that is teaching us volumes about how life unfolds.
@@ -35,5 +38,8 @@ C. elegans has proven most useful for yielding a complete  descriptive anatomy o
 As postdoctoral researchers, Jin and Chisholm each published  C. elegans papers in Nature, one of the world's leading scientific  journals. Their studies at UCSC are still too nascent to have resulted  in such publications--but don't be surprised, their colleagues say, to  see them ascend rapidly to the field's top tier.
 
 The two biologists restore a Santa Cruz-C. elegans connection  fostered for many years by professor emeritus of biology Robert  Edgar, who retired in 1991. One of the discipline's notable  scientists, Edgar launched in 1975 the Worm Breeder's Gazette, a  publication in which worm biologists unhesitatingly share their  latest data and techniques. The cover art of each edition features  worms, naturally, in various playful guises.
+
+[1]: http://www1.ucsc.edu/oncampus/art/jin.chisholm.97-10-13.gif
+[2]: http://www1.ucsc.edu/oncampus/art/worms.97-10-13.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/10-97/100697-Young_worm_biologis.html "Permalink to 100697-Young_worm_biologis")
