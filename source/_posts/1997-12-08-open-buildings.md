@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re: List Of Buildings To Be Open During Campus Closure
+title: List Of Buildings To Be Open During Campus Closure
 author: Business and Administrative Services
 ---
 

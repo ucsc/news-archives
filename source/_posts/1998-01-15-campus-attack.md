@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community Alert: Man Reports Attack In Back-Campus Woods
+title: Community Alert&#58; Man Reports Attack In Back-Campus Woods
 author: Francine Tyler
 ---
 

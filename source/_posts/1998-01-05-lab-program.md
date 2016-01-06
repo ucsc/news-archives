@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning About The Lab: Program Exposes Minorities To Research
+title: Learning About The Lab&#58; Program Exposes Minorities To Research
 author: Francine Tyler
 ---
 
