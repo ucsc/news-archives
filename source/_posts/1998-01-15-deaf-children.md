@@ -4,6 +4,8 @@ title: UC Santa Cruz Teams Up With Oregon School To Help Deaf Children
 author: Jennifer McNulty
 ---
 
+![\[Photo of Dominic Masarro\]][1] Psychology professor Dominic Massaro (left) helps a hearing-impaired student learn to use Massaro's computerized talking head, nicknamed "Baldi," at Portland's Tucker-Maxon Oral School. Massaro is realizing his dream of using advanced technology to help deaf children learn to speak.
+
 **Unique Collaboration With Oregon Graduate Institute Of Science And  Technology, Carnegie Mellon University, And Intel Corporation Benefits  Youngsters**
 
 Speech is the birthright of every child. It is the deaf child's one fair chance to keep in touch with his fellows.
@@ -48,5 +50,7 @@ In laboratory studies, people with normal hearing are able to  comprehend about 
 "We use visual and auditory cues simultaneously to make sense of what  people are saying," explained Massaro. "Any one cue alone generally isn't  enough."
 
 Massaro is also the author of the new book, Perceiving Talking Faces:  From Speech Perception to a Behavioral Principle (Cambridge, MA: MIT Press,  1998), which details his extensive series of experiments on the use of  bimodal cues in speech perception; an accompanying CD-ROM allows the  reader to explore the phenomena directly.
+
+[1]: http://www1.ucsc.edu/oncampus/art/massaro.deaf.98-01-19.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/01-98/011598-UCSC_teams_up_with_.html "Permalink to 011598-UCSC_teams_up_with_")

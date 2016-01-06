@@ -4,6 +4,8 @@ title: Collection Of Works By Celebrated Poet Due Out In March
 author: Barbara McKenna
 ---
 
+![\[Photo of Peter Gizzi\]][1]
+
 Peter Gizzi is the most exciting new poet to come along in quite a while. \--John Ashbery
 
 I count Peter Gizzi as one of the most exceptional poets of his generation  and consider his work as editor also to constitute a primary ground for the  definition of contemporary poetry. Few people I've known have managed such  an intensity so usefully directed.  \--Robert Creeley
@@ -23,5 +25,7 @@ A selection of Gizzi's poetry will also be featured in An Anthology of  New (Ame
 Gizzi is an assistant professor of creative writing and literature at  the University of California, Santa Cruz. In 1994 he received the prestigious  Lavan Younger Poets Award, given annually by the Academy of American  Poets. He has also twice received the Gertrude Stein Award in Innovative  North American Poetry (1993-94 and 1994-95).
 
 Publications of his work include Periplum (1992) and the chapbooks,  Hours of the Book (1994) and Music for Films (1992). His poems have been  anthologized in The Best American Poetry 1995, Sixty Years of American  Poetry, and 49 + 1 Nouveaux Poetes Americains, among many others. He has  been awarded artist grants from the Fund for Poetry and the Rex Foundation.  Gizzi's previous editing projects include the celebrated "little magazine"  o*blek: a journal of language arts (1987-93) and the international literary  anthology Exact Change Yearbook (1995).  A limited number of review copies of Artificial Heart are available.  For copies, call Barbara McKenna at (408) 459-2495 or e-mail  mckenna@cats.ucsc.edu.
+
+[1]: http://www1.ucsc.edu/oncampus/currents/97-98/art/gizzi_peter.98-02-16.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/02-98/020398-Collection_of_works.html "Permalink to 020398-Collection_of_works")

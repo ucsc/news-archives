@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reminder: Act Soon To Make Changes To Benefits
+title: Reminder&#58; Act Soon To Make Changes To Benefits
 author: UCSC Currents
 ---
 
