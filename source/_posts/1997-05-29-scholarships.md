@@ -28,3 +28,5 @@ A list of this year's recipients follows, with hometowns and college  affiliatio
 Up to 13 recipients are selected each year. A $5.2 million endowment  is being established to fund the program permanently. Named scholarships  honor contributors of major gifts to the program. A gift of $10,000  establishes a named scholarship for one year; an endowment of $200,000  creates a permanent named scholarship.
 
 For more information, call the UCSC Public Information Office at (408)  459-2495.
+
+[Source](http://www1.ucsc.edu/news_events/press_releases/archive/96-97/05-97/052997-Thirteen_students_r.html "Permalink to 052997-Thirteen_students_r")

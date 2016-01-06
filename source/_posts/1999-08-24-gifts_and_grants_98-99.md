@@ -42,4 +42,4 @@ Major private gifts or grants received by UCSC during the past year included:
 
 \--A $50,000 gift from the UCSC Alumni Association to support the Alumni Association Scholarship Fund.
 
-Source](http://www1.ucsc.edu/news_events/press_releases/archive/99-00/08-99/gifts_and_grants_98-99.htm "Permalink to Gifts, grants at UC Santa Cruz")
+[Source](http://www1.ucsc.edu/news_events/press_releases/archive/99-00/08-99/gifts_and_grants_98-99.htm "Permalink to Gifts, grants at UC Santa Cruz")

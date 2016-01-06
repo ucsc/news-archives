@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Fresh organic produce available at UC Santa Cruz beginning June 6
+title: Fresh Organic Produce Available at UC Santa Cruz Beginning June 6
 author: Jennifer McNulty
 ---
-[Source](http://www1.ucsc.edu/news_events/press_releases/archive/99-00/05-00/market_cart.htm "Permalink to Fresh organic produce available at UC Santa Cruz beginning June 6")
-## Fresh Organic Produce Available At UC Santa Cruz Beginning June 6
 
 SANTA CRUZ, CA--If the thought of sweet, flavorful strawberries brings a smile to your face, mark your calendar for Tuesday, June 6, because that's the day the popular market cart at UC Santa Cruz opens.
 
