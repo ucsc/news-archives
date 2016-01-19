@@ -4,6 +4,8 @@ title: UC Santa Cruz Historian Receives France's Highest Academic Honor
 author: Barbara McKenna
 ---
 
+![\[Photo of Jonathan Beecher\]][1]
+
 SANTA CRUZ, CA--A professor of history at the University of California, Santa Cruz, has received the French Government's highest honor for academic achievement.
 
 UCSC professor of history Jonathan Beecher has been awarded France's Palmes Academiques--a decoration given to those who have advanced the cause of French culture, education, and the arts. The Palmes Academiques was established in 1808 by Napoleon and is the most prestigious decoration a scholar can receive from the French government.
@@ -17,5 +19,7 @@ Beecher is the second UCSC faculty member to be awarded the Palmes. UCSC's first
 "The Palmes Academiques is rarely awarded to foreign scholars," Le Mansec said. "But Jonathan is considered a leading researcher on socialist and French utopias. This award recognizes the importance of his book, which is regarded as the best work to date on Fourier."
 
 The medal will be presented to Beecher by the French cultural attache from San Francisco in a private ceremony.
+
+[1]: http://www1.ucsc.edu/oncampus/currents/97-98/art/beecher_john.98-04-13.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/04-98/041698-UCSC_historian_rece.html "Permalink to 041698-UCSC_historian_rece")

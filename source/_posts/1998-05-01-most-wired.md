@@ -4,6 +4,8 @@ title: UC Santa Cruz Appears On America's 'Most-Wired' List
 author: Jim Burns
 ---
 
+![][2]
+
 **Campus Is Ranked 24th In Yahoo! Survey Gauging Computer Environments On College Campuses Across The Country**
 
 SANTA CRUZ, CA--UC Santa Cruz is ranked 24th in the country in an Internet magazine's survey assessing the computer environment on the campuses of American colleges and universities. The results of Yahoo! Internet Life's second annual national survey appear in the magazine's May issue.
@@ -19,5 +21,7 @@ Students at UCSC can register for classes, drop or add courses, read campus publ
 UCSC also made the "America's 100 Most Wired Colleges" list in the survey's inaugural year, finishing 56th in 1997.
 
 Yahoo! Internet Life is published monthly in a traditional paper format and as an online publication (www.zdnet.com/yil/).
+
+[2]: http://www1.ucsc.edu/oncampus/currents/97-98/art/yahoo.logo.98-05-04.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/05-98/050198-UCSC_appears_on_Ame.html "Permalink to 050198-UCSC_appears_on_Ame")

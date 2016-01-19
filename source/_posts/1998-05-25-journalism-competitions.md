@@ -4,6 +4,8 @@ title: UC Santa Cruz Student Media Earn Top Awards In Two Leading Journalism Com
 author: Barbara McKenna
 ---
 
+![\[Photo of CHP and Primer staff\]][1] The award-winning staff of _City on a Hill Press_ and _Primer_.
+
 SANTA CRUZ, CA--Student journalists at the University of California, Santa Cruz, produced some of the best work in the region and country last year, according to two leading journalism associations. The two organizations presented multiple awards to the student- run City on a Hill Press (CHP) and its year-opening supplement, Primer, for work produced in 1997.
 
 The student staff of CHP and Primer earned a whopping nine Gold Circle Awards in the Columbia Scholastic Press Association's (CSPA) national contest and received first-place and second-place rankings in the Mark of Excellence contest sponsored by the Society of Professional Journalists, Region XI Chapter.
@@ -23,5 +25,24 @@ Columbia Scholastic Press Association Gold Circle Awards winners
 Seth Meisels "One Language Makes No Sense" Editorial Writing Christine Ayres "Trial of the Vial" Health Feature Justin Freitas Issue of 5/22/97 Cartoons--Humor Eric Jacobson Issue of 6/5/97 Advertising - Full Page Amir Magal Issue of 10/16/97 Page 1 Design - Newsmagazine Amir Magal Issue of 10/23/97 Page 1 Design - Newsmagazine Amir Magal Issue of 10/30/97 Page 1 Design - Newsmagazine Amir Magal Issue of 11/6/97 Page 1 Design - Newsmagazine Lisa Faught "The Belligerent Banana Slugs" Humor (Primer)
 
 Society of Professional Journalists Region XI Mark of Excellence winners Primer: First place "best all-around annual student magazine"; editor, Karin Wanless CHP: Second place "best all-around non-daily newspaper"; editor Seth Meisels
+
+* * *
+
+## Columbia Scholastic Press Association Gold Circle Awards Winners (Student, award-winning piece, category):
+* **Seth Meisels, **"One Language Makes No Sense," Editorial Writing  
+* **Christine Ayres,** "Trial of the Vial," Health Feature  
+* **Justin Freitas,** Issue of 5/22/97 Cartoons--Humor  
+* **Eric Jacobson, **Issue of 6/5/97, Advertising--Full Page  
+* **Amir Magal,** Issue of 10/16/97, Page 1 Design--Newsmagazine  
+* **Amir Magal,** Issue of 10/30/97, Page 1 Design--Newsmagazine  
+* **Amir Magal,** Issue of 11/6/97, Page 1 Design--Newsmagazine  
+* **Amir Magal,** Issue of 10/23/97, Page 1 Design--Newsmagazine  
+* **Lisa Faught, **"The Belligerent Banana Slugs," Humor (_Primer_)
+
+## Society of Professional Journalists Region XI Mark of Excellence winners
+* **_Primer:_ ** First place "best all-around annual student magazine"; editor, Karin Wanless   
+* **_CHP:_** Second place "best all-around non-daily newspaper"; editor Seth Meisels
+
+[1]: http://www1.ucsc.edu/oncampus/currents/97-98/art/chp.staff.98-05-04.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/05-98/052598-UCSC_student_media_.html "Permalink to 052598-UCSC_student_media_")
