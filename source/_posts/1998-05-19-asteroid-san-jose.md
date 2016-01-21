@@ -4,6 +4,8 @@ title: UC Santa Cruz, Lick Observatory Designate Asteroid  For The City Of San J
 author: Jim Burns
 ---
 
+![\[Photo of Asteroid San Jose\]][1] Asteroid San Jose, as shown in this photo taken from Lick Observatory
+
 **'Asteroid San Jose' Is A Tribute To The City's Longtime Support Of  Lick Observatory**
 
 FOR IMMEDIATE RELEASE
@@ -25,5 +27,7 @@ San Jose is the 6,216th asteroid to be discovered. Traveling  in an orbit betwee
 A part of the University of California since its inception, Lick  Observatory has been affiliated with UC Santa Cruz since 1966. In  its glorious history, astronomers at the observatory have made a  number of important findings, including the discovery of Jupiter's  fifth satellite by Edward Emerson Barnard in the observatory's  fourth year of operation, in 1892. Lick astronomers also  collaborated with astronauts during a 1969 Moon walk to  determine the precise distance between the Earth and the Moon  and to confirm that the Moon is gradually moving away from the  earth.
 
 Among more current research being conducted at Lick  Observatory is the recent effort by astronomers to detect planets  outside our solar system. This headline-making work, using the  facility's 120-inch Shane Telescope, is being led by astronomers  Geoffrey Marcy and Paul Butler. Marcy, who earned his Ph.D. at  UCSC, uses an exquisitely sensitive tool designed by his former  adviser, UCSC astronomer Steven Vogt. The instrument, called the  Hamilton Spectrograph, unveils tiny "wobbles" in the motions of  stars across the sky--hints of the gravitational tuggings of unseen  planets.
+
+[1]: http://www1.ucsc.edu/oncampus/currents/97-98/art/asteroid_sj.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/05-98/052198-UCSC_Lick_Observat.html "Permalink to 052198-UCSC_Lick_Observat")

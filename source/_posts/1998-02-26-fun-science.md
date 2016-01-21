@@ -4,6 +4,8 @@ title: "'Science is Fun' Lecture-Demonstration Coming To UC Santa Cruz"
 author: Jim Burns
 ---
 
+![\[Photo of Bassam Shakhashiri\]][1]
+
 **Balloons Explode, Polymers Expand, Solutions Glow In The Dark--and It's Real Science**
 
 SANTA CRUZ, CA--Chemist and educator Bassam Z. Shakhashiri, whose  entertaining lectures captivate children and adults alike, will deliver his  popular "Science is Fun" presentation at UC Santa Cruz on Thursday, March  12\. The lecture-demonstration, open to the public at no charge, will begin at  7 P.M. in the Performing Arts Main Stage on the UCSC campus.
@@ -19,5 +21,7 @@ Professor Shakhashiri has a distinguished record of service in the area  of scie
 His visit to UCSC is sponsored by the campus's Division of Natural  Sciences.
 
 For more information on Professor Shakhashiri's "Science is Fun"  series, see the following web site: scifun.chem.wisc.edu.
+
+[1]: http://www1.ucsc.edu/oncampus/currents/97-98/art/science.98-03-02.gif
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/97-98/02-98/022698-cience_is_Fun_lec.html "Permalink to 022698-cience_is_Fun_lec")
