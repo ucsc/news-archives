@@ -1,10 +1,12 @@
 ---
 layout: post
-title: UC Santa Cruz Researcher Wins Top Paleontology Award
-author: Tim Stephens
+title: UCSC Researcher Wins Top Paleontology Award
+author: Tim Stephens 
 ---
 
-SANTA CRUZ, CA--The Paleontological Society has bestowed the 1998 Charles Schuchert Award on paleontologist and geochemist Paul Koch, an assistant professor of earth sciences at the University of California, Santa Cruz. The Schuchert Award is presented annually to a researcher whose work early in his or her career reflects excellence and quality in the science of paleontology.
+![][3]
+
+The Paleontological Society has bestowed the 1998 Charles Schuchert Award on paleontologist and geochemist Paul Koch, an assistant professor of earth sciences. The Schuchert Award is presented annually to a researcher whose work early in his or her career reflects excellence and quality in the science of paleontology.
 
 Koch will formally receive the award October 27 at the Paleontological Society's luncheon at the annual meeting of the Geological Society of America in Toronto.
 
@@ -20,4 +22,6 @@ To address this question, Koch focuses on evidence recorded in the chemistry of 
 
 This work is helping Koch and others piece together a detailed picture of the Pleistocene environment and how it shaped the ecology and evolution of plants and animals in North America.
 
-[Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/07-98/071098-UCSC_researcher_rec.html "Permalink to 071098-UCSC_researcher_rec")
+[3]: http://www1.ucsc.edu/oncampus/currents/98-99/art/koch_paul.98-07-13.gif
+
+[Source](http://www1.ucsc.edu/oncampus/currents/98-99/07-13/paleontology.htm "Permalink to UCSC researcher wins top paleontology award: 07-13-98")
