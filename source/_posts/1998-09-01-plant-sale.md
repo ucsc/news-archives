@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Fall Plant Sale
+title: UC Santa Cruz Hosts Annual Fall Plant Sale On September 18 And 19
 author: Jennifer McNulty
 ---
-
-## UC Santa Cruz Hosts Annual Fall Plant Sale On September 18 And 19
 
 SANTA CRUZ, CA--Fall is an excellent time to plant perennials and winter vegetables on the Central Coast, and UC Santa Cruz is holding its third annual Fall Plant Sale on Friday and Saturday, September 18 and 19, to indulge the fancies of both novice and experienced gardeners. Hours are noon to 6 p.m. on Friday and 10 a.m. to 2 p.m. on Saturday. The sale will take place in the Barn Theater parking lot at the intersection of Bay and High Streets at the base of campus.
 

@@ -1,8 +1,10 @@
 ---
 layout: post
-title: University Of California, Santa Cruz, Advances In National Ranking New Survey From U.S. News & World Report Rates UC Santa Cruz In The Top 20 Of Public Universities
+title: UCSC Advances In National Ranking
 author: Elizabeth Irwin
 ---
+
+**New Survey From U.S. News & World Report Rates UC Santa Cruz In The Top 20 Of Public Universities**
 
 In its assessment of colleges and universities for 1999, U.S. News & World Report names UC Santa Cruz one of the 20 best public campuses in the country. UCSC tied with three other top-ranked institutions for 17th place in the popular survey's list of national public universities. This rating places UCSC at a higher rank than in last year's survey, in which the campus was rated at number 25.
 

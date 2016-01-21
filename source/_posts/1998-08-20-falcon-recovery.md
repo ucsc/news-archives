@@ -1,10 +1,13 @@
 ---
 layout: post
-title: 082098-Peregrine_falcon_re
+title: Recovery Of Peregrine Falcons Reflects Successful Efforts By UC Santa Cruz Predatory Bird Research Group
 author: Tim Stephens
 ---
 
-## Recovery Of Peregrine Falcons Reflects Successful Efforts By UC Santa Cruz Predatory Bird Research Group
+![\[Photo of adult peregrine\]][1] Adult male peregrine falcon
+![\[Photo of baby peregrine\]][2] Peregrine falcon chick raised in captivity, about 4-5 weeks old
+![\[Photo of peregrine puppet and baby peregrines\]][3] Biologists at the UC Santa Cruz Predatory Bird Research Group used a puppet of an adult peregrine falcon to feed chicks so that chicks raised in captivity would not associate people with food.
+![\[Photo of peregrine chicks and adult peregrine\]][4] A female peregrine falcon guards its wild nest, which contains falcon chicks hatched at the UC Santa Cruz Predatory Bird Research Group and then placed in the nest.
 
 SANTA CRUZ, CA-In 1970, wildlife biologists knew of only two pairs of peregrine falcons nesting in California. Now, there are approximately 150 nesting pairs and an estimated total population in the state of about 750 birds, according to Brian Walton, coordinator of the Santa Cruz Predatory Bird Research Group (SCPBRG) at the University of California, Santa Cruz.
 
@@ -33,5 +36,10 @@ The group also rescues chicks from nests built in precarious locations, such as 
 Although peregrine falcon populations have increased enough for the USFWS to consider removing them from the federal endangered species list, their future is not necessarily a stable one. Pesticides are still causing problems in certain areas and peregrines have not fully repopulated their original range in California, Walton said.
 
 "Our ongoing efforts will concentrate on the northern California coast, where the population size is still small, and on the Central Coast and Channel Islands, where reproduction is still reduced due to eggshell thinning," Walton said. "Our goal is not only to have them off the endangered species list but to have a stable California population."
+
+[1]: http://www1.ucsc.edu/oncampus/currents/98-99/art/peregrine.adult.98-09-07.jpg
+[2]: http://www1.ucsc.edu/oncampus/currents/98-99/art/peregrine.baby.98-09-07.jpg
+[3]: http://www1.ucsc.edu/oncampus/currents/98-99/art/peregrine.puppet.98-09-07.jpg
+[4]: http://www1.ucsc.edu/oncampus/currents/98-99/art/peregrine.chicks.98-09-07.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/08-98/082098-Peregrine_falcon_re.html "Permalink to 082098-Peregrine_falcon_re")
