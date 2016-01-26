@@ -1,16 +1,22 @@
 ---
 layout: post
-title: Killer Whales and Otters
+title: Killer Whales Feed On Sea Otters, Pushing Coastal Ecosystems Off Kilter
 author: Tim Stephens
 ---
 
-## Killer Whales Cause Disruption Of Coastal Ecosystems
+![\[Photo of two killer whales\]][1] Killer whales in British Columbia. Photo: Graeme Ellis
 
-SANTA CRUZ, CA--With seals and sea lions in short supply in the North Pacific, killer whales are now feeding on sea otters, causing an abrupt decline in sea otter populations in western Alaska, according to researchers studying the area's marine ecosystems. The decline in sea otters has allowed their primary prey, sea urchins, to increase in number and strip coastal kelp forests over large areas, said James Estes, a marine ecologist with the U.S. Geological Survey and the University of California, Santa Cruz.
+![\[Photo of two killer whales attacking two sea otters\]][2] In the only known photo of a killer whale attacking a sea otter, the killer whale is on its back with its pectoral fins out of the water and the otter in its mouth. The otter's body extends out of the water on the left side of the photo. The dorsal fin of another killer whale can be seen on the right. Photo: Scott Anderson
+
+![\[Sketch of two killer whales attacking two sea otters\]][3] This artist's rendering (based on Scott Anderson's description and photo) shows the attack in two stages: on the left, as the photographer first saw it, and on the right, as it appears in the photograph taken moments later, after the killer whale had fallen back into the water with the otter in its mouth. Artist: Greg Meyer
+
+UCSC researchers find killer whales have begun preying on sea otters, causing widespread disruption of coastal ecosystems in western Alaska
+
+With seals and sea lions in short supply in the North Pacific, killer whales are now feeding on sea otters, causing an abrupt decline in sea otter populations in western Alaska, according to UCSC researchers studying the area's marine ecosystems. The decline in sea otters has allowed their primary prey, sea urchins, to increase in number and strip coastal kelp forests over large areas, said James Estes, a marine ecologist with the U.S. Geological Survey and UCSC.
 
 The new phenomenon of killer whales preying on sea otters appears to be one link in a chain of interactions extending from the open sea to the coastal zone and involving a wide range of species at different levels of the food chain. Overexploitation of certain North Pacific and Bering Sea fisheries may have initiated this cascade of ecological effects, Estes said.
 
-Estes and his coworkers reported their findings in the October 16 issue of the scientific journal Science.
+Estes and his coworkers reported their findings in the October 16 issue of the scientific journal _Science._
 
 The researchers have been studying the role of sea otters in the coastal ecosystem of Alaska's Aleutian archipelago since the early 1970s. During their field studies they often saw killer whales swimming near sea otters, but never saw one attack a sea otter until 1991. Since then, about a dozen such attacks have been reported.
 
@@ -52,6 +58,10 @@ If overfishing is indeed at the root of these changes, the implications for fish
 
 "This case provides a potential example of how far-reaching the effects can be from overexploitation of fisheries, extending into areas where you would never expect to see impacts," he said.
 
-In addition to Estes and Williams, the authors of the Science paper include Tim Tinker, who worked on the project as a biologist with Glenside Ecological Services in British Columbia and is now a graduate student in biology at UCSC, and Daniel Doak, Pepper-Giberson Associate Professor of Environmental Studies at UCSC.
+In addition to Estes and Williams, the authors of the _Science_ paper include Tim Tinker, who worked on the project as a biologist with Glenside Ecological Services in British Columbia and is now a graduate student in biology at UCSC, and Daniel Doak, Pepper-Giberson Associate Professor of Environmental Studies.
 
-[Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/10-98/otters.htm "Permalink to UC Santa Cruz: Killer Whales and Otters")
+[1]: http://www1.ucsc.edu/oncampus/currents/98-99/art/whale.98-10-19.320.jpg
+[2]: http://www1.ucsc.edu/oncampus/currents/98-99/art/attack.98-10-19.jpg
+[3]: http://www1.ucsc.edu/oncampus/currents/98-99/art/drawing.98-10-19.gif
+
+[Source](http://www1.ucsc.edu/oncampus/currents/98-99/10-19/killer.htm "Permalink to Killer whales feeding on sea otters: 10-19-98")
