@@ -1,10 +1,8 @@
 ---
 layout: post
-title: UCSC Docents needed
+title: Docents Needed At The UC Santa Cruz Farm & Garden
 author: Jennifer McNulty
 ---
-
-## Docents Needed At The UC Santa Cruz Farm & Garden
 
 SANTA CRUZ, CA--The UC Santa Cruz Farm & Garden is looking for volunteer docents to help teach the principles of organic farming and gardening to visitors who tour the Farm & Garden.
 
