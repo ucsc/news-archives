@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Animal Athletes
+title: Marine Mammals' Swimming Ranks Them With World's Elite Animal Athletes
 author: Tim Stephens
 ---
 
-## Marine Mammals' Swimming Ranks Them With World's Elite Animal Athletes
+![\[Photo of seal and pup\]][1] Well adapted to the aquatic environment where they spend most of their time, Weddell seals are highly efficient swimmers.
 
-### Comparative Study Reveals Limits Of Mammalian Physiology And Highlights Evolutionary Hurdle Overcome By Ancestral Marine Mammals In Making Transition From Land To Water
+![\[Photo of Cape Hunting Dog\]][2] The physiology of the Cape Hunting Dog is well adapted to its environment on land.
+
+![\[Photo of cheetah\]][3] The cheetah is also extremely efficient in its land environment.
+
+**Comparative Study Reveals Limits Of Mammalian Physiology And Highlights Evolutionary Hurdle Overcome By Ancestral Marine Mammals In Making Transition From Land To Water**
 
 SANTA CRUZ, CA--As any swimmer knows, moving through water is nothing like moving on land. When the ancestors of modern marine mammals first ventured into the ocean some 60 million years ago, they had to adapt to a medium 800 times denser and 60 times more viscous than air. The spectacular success of their descendants illustrates the remarkable power of natural selection.
 
@@ -49,5 +53,9 @@ To round out the analysis, Williams also took a look at flying creatures. The fo
 It is not clear why the cost of swimming in fish should be lower than the cost of flying in birds, while both are energetically cheaper than running in mammals, Williams noted. But the fact that mammalian specialists in all three modes of locomotion have essentially the same transport costs suggests a physiological explanation. For instance, the respiratory systems of fish, birds, and mammals may differ in the efficiency with which they are able to deliver oxygen to muscles.
 
 "For years, researchers have been focusing on the differences between runners, flyers, and swimmers," Williams said. "This study is exciting because it highlights the similarities between mammalian athletes of all kinds."
+
+[1]: http://www1.ucsc.edu/oncampus/currents/98-99/art/seal.99-01-18.320.jpg
+[2]: http://www1.ucsc.edu/oncampus/currents/98-99/art/hunting.dog.99-01-18.jpg
+[3]: http://www1.ucsc.edu/oncampus/currents/98-99/art/cheetah.99-01-18.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/01-99/animaljocks.htm "Permalink to UC Santa Cruz: Animal Athletes")

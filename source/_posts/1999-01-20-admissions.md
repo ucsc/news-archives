@@ -1,10 +1,8 @@
 ---
 layout: post
-title: UCSC Application Increase
+title: UC Santa Cruz Applications Continue To Show Steady Increase
 author: Jennifer McNulty
 ---
-
-## UC Santa Cruz Applications Continue To Show Steady Increase
 
 SANTA CRUZ, CA--For the third consecutive year, an increasing number of prospective students have applied for admission to the University of California, Santa Cruz, reflecting growing interest in the campus on the part of college-going students and their families.
 

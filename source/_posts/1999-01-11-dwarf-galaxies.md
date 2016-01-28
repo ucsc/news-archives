@@ -1,14 +1,18 @@
 ---
 layout: post
-title: New Dwarf Galaxies
+title: UCSC Astronomers Describe Two Newly Discovered Dwarf Galaxies
 author: Tim Stephens
 ---
 
-## UCSC Astronomers Describe Two Newly Discovered Dwarf Galaxies
+![\[Map of dwarf galaxy locations\]][1] Map of where the dwarf galaxies are.
+![\[Photo of Pegasus dwarf galaxy\]][4] The Pegasus dwarf galaxy, shown at center in this image from the Keck ten-meter telescope, is a companion of the Andromeda spiral galaxy. Photos courtesy of Eva Grebel and Raja Guhathakurta.
+![\[Photo of Cassiopeia dwarf spheroidal galaxy\]][5] Researchers believe the Cassiopeia dwarf spheroidal galaxy (at center) and its partner, Pegasus, are tied to Andromeda by gravity.
 
-AUSTIN, TX--Astronomers at the University of California, Santa Cruz, have characterized two nearby dwarf galaxies discovered in 1998, identifying them as members of the Local Group of galaxies that includes the Milky Way. Eva Grebel, a Hubble postdoctoral fellow, and Raja Guhathakurta, an associate professor of astronomy and astrophysics, confirmed earlier suspicions that the newly discovered galaxies are companions of the Andromeda spiral galaxy.
+UCSC astronomers have characterized two nearby dwarf galaxies discovered in 1998, identifying them as members of the Local Group of galaxies that includes the Milky Way. Eva Grebel, a Hubble postdoctoral fellow, and [Raja Guhathakurta][2], an associate professor of astronomy and astrophysics, confirmed earlier suspicions that the newly discovered galaxies are companions of the [Andromeda][3] spiral galaxy.
 
-The researchers, who presented their findings today at the American Astronomical Society meeting in Austin, Texas, also characterized the ages and chemical compositions of the stars in the two dwarf galaxies. Studying these relatively small, dim galaxies provides valuable information about the Local Group of galaxies and contributes to astronomers' understanding of how galaxies evolve. Dwarf galaxies are thought to serve as building blocks from which larger galaxies are assembled.
+The researchers also characterized the ages and chemical compositions of the stars in the two dwarf galaxies. They presented their findings last week at the American Astronomical Society meeting in Austin, Texas.
+
+Studying these relatively small, dim galaxies provides valuable information about the Local Group of galaxies and contributes to astronomers' understanding of how galaxies evolve, said Guhathakurta. Dwarf galaxies are thought to serve as building blocks from which larger galaxies are assembled.
 
 The Local Group is a small collection of galaxies consisting of three large spiral galaxies (the Milky Way, Andromeda, and M33) plus many smaller satellite galaxies. The satellite galaxies have low masses and low luminosities, which makes it difficult to detect them, and many were only discovered recently.
 
@@ -32,4 +36,10 @@ The gravitational field of the massive Andromeda galaxy may have stripped the st
 
 Grebel and Guhathakurta undertook this study in preparation for a more extensive spectroscopic survey of stars in Andromeda's companion galaxies, which they plan to conduct at the Keck Observatory in 1999.
 
-[Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/01-99/dwarf.htm "Permalink to UC Santa Cruz: New Dwarf Galaxies")
+[1]: http://www1.ucsc.edu/oncampus/currents/98-99/art/local.99-01-11.jpg
+[2]: http://www.ucolick.org/~raja/home.html
+[3]: http://www.ucolick.org/~raja/AAS193_pressrel_M31.gif
+[4]: http://www1.ucsc.edu/oncampus/currents/98-99/art/pegasus.99-01-11.250.jpg
+[5]: http://www1.ucsc.edu/oncampus/currents/98-99/art/spheroid.99-01-11.250.jpg
+
+[Source](http://www1.ucsc.edu/oncampus/currents/98-99/01-11/dwarf.htm "Permalink to UCSC astronomers describe dwarf galaxies; 01-11-99")

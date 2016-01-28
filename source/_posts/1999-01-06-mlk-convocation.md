@@ -4,6 +4,8 @@ title: UCSC Convocation To Honor Martin Luther King, Jr.
 author: Francine Tyler
 ---
 
+![][3]
+
 **Noted Author, Commentator, And Professor Michael Eric Dyson Will Deliver The Keynote Speech On January 28**
 
 SANTA CRUZ, CA-Michael Eric Dyson has been called a "hip-hop intellectual" and a "street fighter in a suit and tie." Also a noted author, commentator, professor, and ordained Baptist minister, Dyson will be the featured speaker at the 15th annual Martin Luther King Jr. Memorial Convocation later this month.
@@ -19,5 +21,7 @@ Dyson's own history is equally broad. He is currently a Visiting Distinguished P
 Dyson's books include Between God and Gangsta Rap: Bearing Witness to Black Culture; Making Malcom: The Myth and Meaning of Malcom X; and Race Rules: Navigating the Color Line. His latest book, to be published this year, is titled "What Have We Come To: Bridging the Generation Gap." His articles have appeared in such publications as the New York Times, Vibe magazine, and Rolling Stone.
 
 At the January 28 convocation, other speakers will include UCSC Chancellor M.R.C. Greenwood, who will deliver the welcoming address, and UCSC sociology professor John Brown Childs, who will introduce Dyson. The convocation will also include poetry, music, and additional speakers from the campus and community.
+
+[3]: http://www1.ucsc.edu/oncampus/currents/98-99/art/dyson_michael.99-01-04.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/01-99/mlk99.htm "Permalink to UC Santa Cruz: Martin Luther King Convocation")
