@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Blue Whale Skeleton
+title: LML's Blue Whale Skeleton To Take A Florida Vacation
 author: Tim Stephens
 ---
 
-## Long Marine Lab's Blue Whale Skeleton To Florida For Restoration
+![\[Photo of worker dismantling whale skeleton\]][1] Pete Dal Ferro, a marine technician at Long Marine Lab, used a blowtorch to cut the metal scaffolding on which the whale's vertebrae were mounted.
 
-SANTA CRUZ, CA--The 85-foot-long blue whale skeleton mounted beside the book and gift shop at UC Santa Cruz's Long Marine Laboratory will be dismantled this week in preparation for a trip to Florida, where it will be completely refurbished. The skeleton, which has delighted schoolchildren and other visitors to Long Marine Lab since 1986, will return in June for remounting in a new location next to the Marine Discovery Center now being built at the lab.
+![\[Photo of worker dismantling whale skeleton\]][2] Louise Baldwin's 4th grade class from Brook Knoll Elementary School were among the last schoolchildren to see the blue whale skeleton before its trip to Florida for refurbishing. The children gathered near the whale's 1,200-pound skull to hear from Long Marine Lab docent Polly Baskett.
 
-Weather permitting, staff at the lab will begin dismantling the huge skeleton on Thursday, November 19. The bones will then be carefully packed into a truck for shipping to Homosassa, Florida. There, taxidermist Jesse Dobson will clean the skeleton, repair and replace any broken or missing pieces, and give the whole specimen a new protective coating.
+The 85-foot-long blue whale skeleton mounted beside the book and gift shop at UCSC's Long Marine Laboratory was dismantled last week in preparation for a trip to Florida, where it will be completely refurbished. The skeleton, which has delighted schoolchildren and other visitors to Long Marine Lab since 1987, will return in June for remounting in a new location next to the Marine Discovery Center now being built at the lab.
+
+Staff at the lab began removing the huge skeleton from the metal scaffolding that held it together on Thursday. By the end of the day Friday the entire skeleton had been dismantled. The bones will be carefully packed into a truck for shipping to Homosassa, Florida. There, taxidermist Jesse Dobson will clean the skeleton, repair and replace any broken or missing pieces, and give the whole specimen a new protective coating.
 
 "We've been planning to move the skeleton to a more prominent place for the Marine Discovery Center, so this is a good opportunity to have it refurbished and to make some replacement casts for the bones we were not able to collect," said Steve Davenport, assistant director of UCSC's Institute of Marine Sciences and manager of Long Marine Lab.
 
@@ -36,4 +38,7 @@ The Marine Discovery Center will house Long Marine Lab's highly successful resea
 
 The Joseph M. Long Marine Laboratory is a marine research facility operated by UCSC's Institute of Marine Sciences. Its public education program, which serves more than 30,000 visitors each year, is unusual for a major university research facility. Trained volunteer docents lead tours for visitors, including students from schools throughout California. The lab offers professional development for K-12 science teachers and collaborates with local school districts and the Monterey Bay National Marine Sanctuary to develop sanctuary-based marine science curricula.
 
-[Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/11-98/skeleton.htm "Permalink to UC Santa Cruz: Blue Whale Skeleton")
+[1]: http://www1.ucsc.edu/oncampus/currents/98-99/art/lml.skeleton1.98-11-23.jpg
+[2]: http://www1.ucsc.edu/oncampus/currents/98-99/art/lml.skeleton2.98-11-23.jpg
+
+[Source](http://www1.ucsc.edu/oncampus/currents/98-99/11-23/whale.htm "Permalink to Long Marine Lab Blue Whale skeleton repair: 11-23-98")
