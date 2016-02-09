@@ -4,6 +4,8 @@ title: UCSC And California Academy Of Sciences Establish Formal Ties
 author: Tim Stephens
 ---
 
+![\[Photo of Chancellor Greenwood, faculty, and members of CAS\]][1] Chancellor Greenwood and CAS Executive Director Patrick Kociolek shake hands over an agreement formalizing ties between their two institutions. Behind them are CAS fellows and members of the UCSC faculty. Photo: Victor Schiffrin
+
 SANTA CRUZ, CA--The University of California, Santa Cruz, and the California Academy of Sciences (CAS) have agreed to combine strengths in pursuit of their common interests in biological research and public education. UCSC Chancellor M.R.C. Greenwood and CAS Executive Director Patrick Kociolek will sign a memorandum of understanding formalizing the ties between the two institutions in a ceremony April 12 at the UCSC Arboretum.
 
 "The California Academy of Sciences has resources and expertise that complement those of UCSC, particularly in areas related to the increasingly important issue of understanding the value of biodiversity," Greenwood said.
@@ -27,5 +29,7 @@ Donald Potts, professor of biology and a CAS fellow, said collaborations between
 "We have the richest temperate marine ecosystem in the world here on the California coast, from the Cordell Bank, Gulf of the Farallones, and Monterey Bay National Marine Sanctuaries south to the Channel Islands National Marine Sanctuary," Potts said. "Yet our understanding of the ecological properties of different species is extremely limited, and in many cases we don't even know what species there are," he noted.
 
 The CAS, based in San Francisco's Golden Gate Park, is a private nonprofit educational and research institution. Founded in 1853, it is the oldest scientific institution in the West.
+
+[1]: http://www1.ucsc.edu/oncampus/currents/98-99/art/academy.99-04-19.320.jpg
 
 [Source](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/04-99/mou.htm "Permalink to Campus signs MOU with California Academy of Sciences")
